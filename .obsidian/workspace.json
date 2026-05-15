@@ -429,12 +429,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+                "file": "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ Mapa do Ecossistema de Inovação e Governança"
+              "title": "Emenda Constitucional 85-2015"
             }
           }
         ],
@@ -590,6 +590,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -610,6 +611,14 @@
   },
   "active": "9165633229bed8f5",
   "lastOpenFiles": [
+    "04_Notas_de_Estudo/Decreto 9283-2018.md",
+    "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
+    "04_Notas_de_Estudo/ISO-IEC 27000.md",
+    "04_Notas_de_Estudo/ETEC.md",
+    "01_Fontes_Brutas/ISO_IEC_27000_2014.pdf",
+    "02_RESUMOS_DOCx/ISO_IEC 27000.md",
+    "_Templates/Modelo de Lei.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "02_RESUMOS_DOCx/Lei 13243.md",
     "04_Notas_de_Estudo/FNDCT.md",
     "04_Notas_de_Estudo/Subvenção Econômica.md",
@@ -621,25 +630,17 @@
     "04_Notas_de_Estudo/NIT.md",
     "04_Notas_de_Estudo/Lei 13243-2016.md",
     "04_Notas_de_Estudo/Lei 10973-2004.md",
-    "04_Notas_de_Estudo/ISO-IEC 27000.md",
     "04_Notas_de_Estudo/ICT.md",
     "04_Notas_de_Estudo/FORMICT.md",
     "04_Notas_de_Estudo/FINEP.md",
-    "04_Notas_de_Estudo/ETEC.md",
     "04_Notas_de_Estudo/ENCTI 2024-2034.md",
-    "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
     "04_Notas_de_Estudo/Ambientes de Inovação.md",
-    "04_Notas_de_Estudo/Decreto 9283-2018.md",
     "04_Notas_de_Estudo/CNPq2664-2026.md",
     "Lei 13.243/2016.md",
     "Lei 13.243",
-    "_Templates/Modelo de Lei.md",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
     "03_Mapas_Mentais/CNPq 2664-2026.png",
     "02_RESUMOS_DOCx/Emenda Constitucional 85.md",
-    "02_RESUMOS_DOCx/CNPq 2664.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
-    "02_RESUMOS_DOCx/Decreto 9283.md",
     "Emenda Constitucional 85",
     "Decreto 9.283",
     "Lei 177",
@@ -647,7 +648,6 @@
     "01_Fontes_Brutas/Lei 10.973_2004.pdf",
     "Portaria CNPq 2.664",
     "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
-    "Sem título",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
     "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Fixa.png",
