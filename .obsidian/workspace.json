@@ -429,12 +429,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
+                "file": "04_Notas_de_Estudo/ISO-IEC 42001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emenda Constitucional 85-2015"
+              "title": "ISO-IEC 42001"
             }
           }
         ],
@@ -611,9 +611,14 @@
   },
   "active": "9165633229bed8f5",
   "lastOpenFiles": [
-    "04_Notas_de_Estudo/Decreto 9283-2018.md",
-    "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
     "04_Notas_de_Estudo/ISO-IEC 27000.md",
+    "04_Notas_de_Estudo/ISO-IEC 27001.md",
+    "04_Notas_de_Estudo/Decreto 9283-2018.md",
+    "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
+    "01_Fontes_Brutas/ISO_IEC-27001-2022-ed.3.pdf",
+    "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
+    "03_Mapas_Mentais/ISO-IEC 27000-2018.png",
+    "04_Notas_de_Estudo/SNCTI.md",
     "04_Notas_de_Estudo/ETEC.md",
     "01_Fontes_Brutas/ISO_IEC_27000_2014.pdf",
     "02_RESUMOS_DOCx/ISO_IEC 27000.md",
@@ -625,7 +630,6 @@
     "Lei 10.973/2004.md",
     "Lei 10.973",
     "04_Notas_de_Estudo/Soberania Tecnológica.md",
-    "04_Notas_de_Estudo/SNCTI.md",
     "04_Notas_de_Estudo/Risco Tecnológico.md",
     "04_Notas_de_Estudo/NIT.md",
     "04_Notas_de_Estudo/Lei 13243-2016.md",
@@ -640,21 +644,17 @@
     "Lei 13.243",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
     "03_Mapas_Mentais/CNPq 2664-2026.png",
-    "02_RESUMOS_DOCx/Emenda Constitucional 85.md",
     "Emenda Constitucional 85",
     "Decreto 9.283",
     "Lei 177",
     "ISO",
     "01_Fontes_Brutas/Lei 10.973_2004.pdf",
     "Portaria CNPq 2.664",
-    "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
     "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Fixa.png",
     "03_Mapas_Mentais/Lei 10.973 2004 - Imagem Fixa.png",
     "03_Mapas_Mentais/Lei da Inovação (Lei 10.973 2004).png",
-    "03_Mapas_Mentais/ISO-IEC 42001-2023 - Imagem Fixa.png",
-    "03_Mapas_Mentais/CNPq 2664-2026 - Imagem Fixa.png",
-    "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Estática.png"
+    "03_Mapas_Mentais/ISO-IEC 42001-2023 - Imagem Fixa.png"
   ]
 }

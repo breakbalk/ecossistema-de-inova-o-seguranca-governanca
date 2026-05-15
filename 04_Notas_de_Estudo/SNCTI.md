@@ -2,65 +2,59 @@
 
 📁 **1. Fonte Bruta**
 
-- **Base Legal:** Art. 219-B da Constituição Federal (incluído pela [[Emenda Constitucional 85-2015]]) e Art. 3º-B da [[Lei 10973-2004]].
+**Arquivo Original:** [[ISO_IEC_27000_2014.pdf]] 
     
-- **Status:** Analisado exaustivamente / Estrutura de Governança Federativa.
+**Status:** Analisado exaustivamente / Vocabulário fundamental e base ontológica para Segurança e Governança.
     
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 
-### **A. Resumo Executivo e Finalidade**
+**A. Resumo Executivo e Finalidade** A ISO/IEC 27000 funciona como a "Constituição Conceitual" do ecossistema de Segurança da Informação. Sua finalidade é estabelecer a ontologia — um vocabulário unificado e uma visão estratégica — que permite a interoperabilidade entre todas as normas da família 27000. No contexto da UniCIETEC, ela é o alicerce que garante a proteção da Propriedade Intelectual (PI), assegurando que a inovação gerada nas ICTs possua integridade e segurança jurídica contra espionagem ou vazamentos.
 
-O **SNCTI** é o modelo de gestão colaborativa que organiza a atuação dos diversos agentes de inovação no Brasil. Sua finalidade é evitar a fragmentação de esforços e recursos, promovendo a articulação entre o governo federal, estadual e municipal com o setor privado. Ele transforma a inovação em uma política de Estado perene, garantindo que o desenvolvimento tecnológico seja descentralizado e regionalizado.
+**B. Estrutura Detalhada e Artigos Críticos:** **1. Definições e a Tríade de Segurança (A Base da Governança):**
 
-### **B. Estrutura Detalhada e Artigos Críticos:**
-
-**1. Regime de Colaboração (Art. 219-B da CF):**
-
-- O sistema é organizado em regime de colaboração entre entes federados. Isso significa que a União coordena, mas Estados e Municípios têm autonomia para criar seus próprios sistemas locais, desde que harmonizados com o nacional.
+- **Confidencialidade, Integridade e Disponibilidade (CID):** A norma consolida que a segurança não é apenas "trancar dados", mas garantir que a informação esteja exata (Integridade) e acessível ao pesquisador autorizado (Disponibilidade).
+    
+- **Informação como Ativo Crítico:** Define informação como um ativo que possui valor intrínseco. No **NIT**, isso se traduz diretamente na proteção de patentes e segredos industriais antes do depósito.
     
 
-**2. Componentes do Sistema:**
+**2. O Conceito de SGSI (Sistema de Gestão de Segurança da Informação):**
 
-- **Órgãos de Coordenação:** MCTI (Ministério da Ciência, Tecnologia e Inovação).
+- **Gestão de Riscos:** Estabelece que a segurança é baseada na incerteza. Para o gestor de CT&I, isso fundamenta a necessidade de análise de riscos em parcerias público-privadas.
     
-- **Agências de Fomento:** FINEP, CNPq e FAPs (Estaduais, como a FAPEG).
-    
-- **Agentes Executores:** [[ICT]] públicas e privadas.
-    
-- **Estruturas de Apoio:** [[NIT]] e Fundações de Apoio.
-    
-- **Setor Produtivo:** Empresas de base tecnológica e startups.
+- **Abordagem de Processos:** Define que a segurança deve ser parte do fluxo de trabalho da ICT, e não um apêndice burocrático, alinhando-se à eficiência exigida pelo **Decreto 9.283/2018**.
     
 
-**3. Instrumentos de Operacionalização:**
+**3. Governança e Liderança:**
 
-- **ENCTI (Estratégia Nacional):** O documento que define as metas do sistema para períodos de 10 anos (atualmente a ENCTI 2024-2034).
-    
-- **Conselho Nacional de Ciência e Tecnologia (CCT):** Órgão de assessoramento superior que valida as políticas do sistema.
+- **Comprometimento da Direção:** A norma exige que a alta administração (Reitoria/Diretoria) dirija a segurança. Isso conecta a responsabilidade técnica à responsabilidade administrativa.
     
 
-**4. Sanções, Incentivos ou Direitos:**
+**4. O Ciclo de Melhoria (PDCA):**
 
-- **Prioridade de Fomento:** Entes e instituições que aderem formalmente ao sistema e mantêm seus dados atualizados (via **[[FORMICT]]**) têm prioridade na captação de recursos públicos federais.
+- **Evolução Constante:** A segurança deve ser medida e monitorada através de KPIs. Fundamental para a prestação de contas de resultados exigida pelo Marco Legal.
     
 
-**5. Prestação de Contas e Governança:**
+**5. Terminologia Estratégica:**
 
-- O SNCTI exige transparência e interoperabilidade de dados. A governança é focada na eficiência do gasto público em P&D para gerar soberania tecnológica.
+- **Declaração de Aplicabilidade (SoA):** Define quais controles são necessários. No nosso cenário, isso define a fronteira entre o que é dado público e o que é segredo tecnológico.
     
 
 **6. Pontos de Atenção e Riscos Jurídicos:**
 
-- **Assimetria Regional:** O maior risco do sistema é a concentração de recursos no Sudeste. A lei exige que o SNCTI trabalhe para reduzir essas desigualdades, sob pena de inconstitucionalidade administrativa.
+- **Ambiguidade de Termos:** O uso de termos fora do padrão ISO em contratos de transferência de tecnologia pode gerar brechas jurídicas. A 27000 resolve isso ao padronizar o que é "Risco", "Ameaça" e "Vulnerabilidade".
+    
+- **Ciberresiliência:** Na visão atualizada, a norma alerta que apenas prevenir não basta; a ICT deve ser capaz de operar mesmo sob ataque (Continuidade de Negócio).
     
 
-🗺️ **3. Conexões**
+🗺️ **3. Mapa Mental e Conexões** Visualização Técnica: ![[ISO-EC 27000-2018.jpg]]
 
-- **Fundamento Constitucional:** [[Emenda Constitucional 85-2015]].
+Conexões e Desdobramentos:
+
+- **ISO-IEC 27001:** A norma operacional que aplica os conceitos da 27000 para fins de certificação.
     
-- **Operacionalização:** [[Decreto 9283-2018]].
+- **ISO-IEC 42001:** Estende a governança de dados para o campo da Inteligência Artificial.
     
-- **Relatórios de Desempenho:** [[FORMICT]].
+- **NIT:** Essenciais para classificar e gerir os ativos de informação conforme as definições desta norma.
     
-- **Conceito Estratégico:** Soberania Tecnológica.
+- **Soberania Tecnológica:** "Desdobramento Filosófico" — Sem o domínio do vocabulário e dos processos da ISO 27000, o Brasil fica vulnerável a padrões externos, perdendo autonomia sobre sua base de dados científica.

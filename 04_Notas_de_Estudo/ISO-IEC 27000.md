@@ -1,59 +1,63 @@
-📜 **Lei/Norma:** ISO/IEC 27000:2018 (Visão Geral e Vocabulário de SGSI) 📁 **1. Fonte Bruta**
+# (Visão Geral e Vocabulário de SGSI)
 
-**Arquivo Original:** [[ISO_IEC_27000_2014.pdf]] (Referência base para a versão 2018) **Data do Estudo:** 15/05/2026 **Status:** Analisado exaustivamente / Vocabulário fundamental para Governança de TI e NITs. **Documentos Auxiliares:** [[Inovação no Brasil.md]], [[ISO_IEC 27000.md]], [[Inovação, Segurança da Informação e Governança Tecnológica.md]]
+
+📁 **1. Fonte Bruta**
+
+**Arquivo Original:** [[ISO_IEC_27000_2014.pdf]] 
+
+**Status:** Analisado exaustivamente / Vocabulário fundamental e base ontológica para Segurança e Governança.
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 
-**A. Resumo Executivo e Finalidade** A ISO/IEC 27000 é a "norma-mãe" informativa da família 27000. Sua finalidade é estabelecer a ontologia — um vocabulário unificado e uma visão conceitual — que permite a interoperabilidade entre todas as outras normas de segurança. No ecossistema da UniCIETEC, ela é o alicerce para garantir que a inovação seja protegida por um **SGSI (Sistema de Gestão de Segurança da Informação)**, assegurando que o conhecimento gerado nas ICTs não sofra fuga de ativos ou perda de integridade.
+**A. Resumo Executivo e Finalidade** A ISO/IEC 27000 funciona como a "Constituição Conceitual" do ecossistema de Segurança da Informação. Sua finalidade é estabelecer a ontologia — um vocabulário unificado e uma visão estratégica — que permite a interoperabilidade entre todas as normas da família 27000. No contexto da UniCIETEC, ela é o alicerce que garante a proteção da Propriedade Intelectual (PI), assegurando que a inovação gerada nas ICTs possua integridade e segurança jurídica contra espionagem ou vazamentos.
 
-**B. Estrutura Detalhada e Artigos Críticos:** **1. Definições e Conceitos Fundamentais (A Ontologia):**
+**B. Estrutura Detalhada e Artigos Críticos:** **1. Definições e a Tríade de Segurança (A Base da Governança):**
 
-- **Informação como Ativo:** Define "informação" como algo que tem valor para a organização e, portanto, requer proteção. Para o **NIT**, isso traduz-se em **Propriedade Intelectual** e Segredos Industriais.
+- **Confidencialidade, Integridade e Disponibilidade (CID):** A norma consolida que a segurança não é apenas "trancar dados", mas garantir que a informação esteja exata (Integridade) e acessível ao pesquisador autorizado (Disponibilidade).
     
-- **Tríade CID:** Consolida os conceitos de Confidencialidade (acesso restrito), Integridade (exatidão dos dados) e Disponibilidade (acesso quando necessário). É o fundamento para a proteção de pesquisas financiadas pelo **CNPq**.
-    
-
-**2. O Conceito de SGSI (Sistema de Gestão):**
-
-- **Abordagem de Riscos:** A norma estabelece que a segurança não é um estado estático, mas um processo de gestão de riscos. Isso se conecta ao **Zelo Profissional** exigido pelo Marco Legal de Inovação.
-    
-- **Melhoria Contínua:** Introduz a cultura de avaliar resultados e ajustar controles, essencial para a prestação de contas (Accountability) em projetos de P&D.
+- **Informação como Ativo Crítico:** Define informação como um ativo que possui valor intrínseco. No **NIT**, isso se traduz diretamente na proteção de patentes e segredos industriais antes do depósito.
     
 
-**3. Governança da Segurança (Alinhamento Estratégico):**
+**2. O Conceito de SGSI (Sistema de Gestão de Segurança da Informação):**
 
-- **Apoio da Alta Direção:** Determina que a segurança deve ser dirigida pelo topo da organização (Diretoria da ICT/UniCIETEC), integrando-se aos objetivos de negócio/inovação.
+- **Gestão de Riscos:** Estabelece que a segurança é baseada na incerteza. Para o gestor de CT&I, isso fundamenta a necessidade de análise de riscos em parcerias público-privadas.
+    
+- **Abordagem de Processos:** Define que a segurança deve ser parte do fluxo de trabalho da ICT, e não um apêndice burocrático, alinhando-se à eficiência exigida pelo **Decreto 9.283/2018**.
     
 
-**4. Classificação e Controle de Ativos:**
+**3. Governança e Liderança:**
 
-- **Identificação de Donos (Owners):** Define que cada ativo de informação deve ter um responsável claro, facilitando a gestão de parcerias público-privadas autorizadas pela **EC 85**.
+- **Comprometimento da Direção:** A norma exige que a alta administração (Reitoria/Diretoria) dirija a segurança. Isso conecta a responsabilidade técnica à responsabilidade administrativa.
     
 
-**5. Prestação de Contas e Auditoria:**
+**4. O Ciclo de Melhoria (PDCA):**
 
-- **Auditabilidade:** Fornece a base terminológica para que auditores (internos ou do TCU) utilizem os mesmos termos ao avaliar a segurança de uma ICT.
+- **Evolução Constante:** A segurança deve ser medida e monitorada através de KPIs. Fundamental para a prestação de contas de resultados exigida pelo Marco Legal.
+    
+
+**5. Terminologia Estratégica:**
+
+- **Declaração de Aplicabilidade (SoA):** Define quais controles são necessários. No nosso cenário, isso define a fronteira entre o que é dado público e o que é segredo tecnológico.
     
 
 **6. Pontos de Atenção e Riscos Jurídicos:**
 
-- **Ciberresiliência:** A norma alerta que a proteção não é absoluta. O risco jurídico reside na falta de processos documentados (se não está no SGSI, para a norma, não existe proteção).
+- **Ambiguidade de Termos:** O uso de termos fora do padrão ISO em contratos de transferência de tecnologia pode gerar brechas jurídicas. A 27000 resolve isso ao padronizar o que é "Risco", "Ameaça" e "Vulnerabilidade".
     
-- **Nacionalização de Termos:** Deve-se atentar para a tradução de _PII (Personally Identifiable Information)_ para a nossa **LGPD**, garantindo conformidade dupla.
+- **Ciberresiliência:** Na visão atualizada, a norma alerta que apenas prevenir não basta; a ICT deve ser capaz de operar mesmo sob ataque (Continuidade de Negócio).
     
 
-🗺️ **3. Mapa Mental e Conexões** **Visualização Técnica:** ![[ISO_IEC_27000_Ontologia.png]]
+🗺️ **3. Mapa Mental**:
 
-**Conexões e Desdobramentos:**
+Visualização Técnica: ![[ISO-IEC 27000-2018.png]]
 
-- **Desdobramento Técnico I:** [[ISO-IEC 27001]] — A norma de "Requisitos" que utiliza este vocabulário para certificação.
+
+Conexões e Desdobramentos:
+
+- **Desdobramento Técnico I:** [[ISO-IEC 27001]] — A norma operacional que aplica os conceitos da 27000 para fins de certificação.
     
-- **Desdobramento Técnico II:** [[ISO-IEC 42001]] — Estende estes conceitos para a Governança de IA.
+- **Desdobramento Técnico II:** [[ISO-IEC 42001]] — Estende a governança de dados para o campo da Inteligência Artificial.
     
-- **Braço Operacional:** [[NIT]] — O núcleo responsável por aplicar estas definições na proteção da PI da instituição.
+- **Braço Operacional:** [[NIT]]: Responsável por classificar os ativos de informação conforme as definições desta norma.
     
-- **Agentes:**
-    
-    - **Gestor de Segurança:** Utiliza a 27000 para padronizar políticas.
-        
-    - **Pesquisador:** Deve compreender a Tríade CID para garantir a ética exigida pela **Portaria CNPq 2.664/2026**.
+- **[[Soberania Tecnológica]]**: Desdobramento Filosófico — Sem o domínio do vocabulário e dos processos da [[ISO_IEC_27000_2014.pdf]], o Brasil fica vulnerável a padrões externos, perdendo autonomia sobre sua base de dados científica.
