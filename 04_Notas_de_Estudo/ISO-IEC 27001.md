@@ -63,4 +63,4 @@ Conexões e Desdobramentos:
     
 - **[[Lei 13243-2016]]** : A 27001 é o instrumento técnico que viabiliza a "Segurança Jurídica" prometida pelo [[Decreto 9.283_2018.pdf]].
     
-- **[[Soberania Tecnológica]]**: O domínio da 27001 permite que as ICTs brasileiras protejam seus segredos de estado e inovações disruptivas em um mercado global altamente competitivo.
+- **[[Soberania Nacional]]**: O domínio da 27001 permite que as ICTs brasileiras protejam seus segredos de estado e inovações disruptivas em um mercado global altamente competitivo.

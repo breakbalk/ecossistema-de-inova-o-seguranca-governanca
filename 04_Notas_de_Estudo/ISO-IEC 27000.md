@@ -60,4 +60,4 @@ Conexões e Desdobramentos:
     
 - **Braço Operacional:** [[NIT]]: Responsável por classificar os ativos de informação conforme as definições desta norma.
     
-- **[[Soberania Tecnológica]]**: Desdobramento Filosófico — Sem o domínio do vocabulário e dos processos da [[ISO_IEC_27000_2014.pdf]], o Brasil fica vulnerável a padrões externos, perdendo autonomia sobre sua base de dados científica.
+- **[[Soberania Nacional]]: Desdobramento Filosófico — Sem o domínio do vocabulário e dos processos da [[ISO_IEC_27000_2014.pdf]], o Brasil fica vulnerável a padrões externos, perdendo autonomia sobre sua base de dados científica.
