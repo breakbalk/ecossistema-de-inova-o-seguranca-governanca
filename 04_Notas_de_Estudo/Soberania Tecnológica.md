@@ -29,7 +29,7 @@ A **Soberania Tecnológica** é a capacidade de um país dominar conhecimentos e
     
 **3. Independência e Autonomia (Art. 219 da CF):**
 
-- O mercado interno é considerado patrimônio nacional. A soberania tecnológica visa garantir que esse mercado seja suprido por inovações geradas localmente em setores estratégicos.
+- O mercado interno é considerado patrimônio nacional. A soberania tecnológica visa garantir que esse mercado seja suprido por inovações geradas localmente em setores estratégicos, garantindo a **Soberania Digital** através da proteção de infraestruturas críticas.
     
 
 **4. Áreas de Segurança Nacional:**

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Notas_de_Estudo/Soberania Tecnológica.md",
+                "file": "04_Notas_de_Estudo/Soberania Nacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soberania Tecnológica"
+              "title": "Soberania Nacional"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "801f61ba7db84fd0",
   "lastOpenFiles": [
-    "04_Notas_de_Estudo/Soberania Nacional.md",
     "04_Notas_de_Estudo/Soberania Tecnológica.md",
+    "04_Notas_de_Estudo/Soberania Nacional.md",
     "04_Notas_de_Estudo/ISO-IEC 27002-2022.md",
     "03_Mapas_Mentais/Lei 10.973 2004.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022.png",

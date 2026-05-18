@@ -27,7 +27,7 @@
 
 **3. Governança Tecnológica e Independência (ISO 42001 e IA):**
 
-- **Governança de Dados:** A soberania digital exige que os dados críticos da nação e as inteligências artificiais desenvolvidas em solo nacional sigam padrões de ética e segurança que protejam os interesses do País.
+- **Governança de Dados:** A soberania digital exige que os dados críticos da nação e as inteligências artificiais desenvolvidas em solo nacional sigam padrões de ética e segurança que protejam os interesses do País, conforme as diretrizes de integridade da **Portaria [[CNPq2664-2026]]**.
     
 
 **4. O Papel Estratégico do NIT:**
