@@ -2,7 +2,7 @@
 
 📁 **1. Fonte Bruta**
 
-- **Base Legal:** Art. 16 e 17 da [[Lei 10973-2004]] e [[Decreto 9283-2018]].
+- **Base Legal:** Art. 16 e 17 da [[Lei 10.973_2004.pdf]] e [[Decreto 9.283_2018.pdf]].
     
     
 - **Status:** Centro de inteligência e gestão da Propriedade Intelectual.

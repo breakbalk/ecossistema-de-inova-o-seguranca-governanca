@@ -2,7 +2,7 @@
 
 📁 **1. Fonte Bruta**
 
-- **Base Legal:** Art. 19 da [[Lei 10973-2004]] e Cap. XIX do [[Decreto 9283-2018]].
+- **Base Legal:** Art. 19 da [[Lei 10.973_2004.pdf]] e Cap. XIX do [[Decreto 9.283_2018.pdf]].
     
     
 - **Status:** Instrumento de fomento direto ao setor privado.

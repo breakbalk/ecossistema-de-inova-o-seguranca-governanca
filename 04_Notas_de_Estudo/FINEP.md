@@ -2,7 +2,7 @@
 
 📁 **1. Fonte Bruta**
 
-- **Base Legal:** Estatuto Social da FINEP e vínculo com a [[Lei 10973-2004]].
+- **Base Legal:** Estatuto Social da FINEP e vínculo com a [[Lei 10.973_2004.pdf]].
     
     
 - **Status:** Secretaria Executiva do [[FNDCT]].

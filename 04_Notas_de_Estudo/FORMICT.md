@@ -2,7 +2,7 @@
 
 📁 **1. Fonte Bruta**
 
-- **Base Legal:** Art. 17, inciso VI da [[Lei 10973-2004]].
+- **Base Legal:** Art. 17, inciso VI da [[Lei 10.973_2004.pdf]].
     
     
 - **Status:** Instrumento anual de monitoramento e transparência.

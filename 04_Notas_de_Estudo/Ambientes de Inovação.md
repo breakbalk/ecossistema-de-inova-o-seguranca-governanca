@@ -2,7 +2,7 @@
 
 📁 **1. Fonte Bruta**
 
-- **Base Legal:** Art. 2º, incisos II, III e IV do [[Decreto 9283-2018]] e [[Lei 13243-2016]].
+- **Base Legal:** Art. 2º, incisos II, III e IV do [[Decreto 9.283_2018.pdf]] e [[Lei 13.243_2016.pdf]].
     
     
 - **Status:** Definições geográficas e organizacionais do ecossistema.

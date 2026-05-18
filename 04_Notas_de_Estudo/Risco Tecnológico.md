@@ -2,7 +2,7 @@
 
 📁 **1. Fonte Bruta**
 
-- **Base Legal:** Art. 2º, inciso IX do [[Decreto 9283-2018]].
+- **Base Legal:** Art. 2º, inciso IX do [[Decreto 9.283_2018.pdf]].
     
     
 - **Status:** Pilar de segurança jurídica para inovação.
