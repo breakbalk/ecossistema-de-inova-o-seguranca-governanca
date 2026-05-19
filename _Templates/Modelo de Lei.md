@@ -4,11 +4,7 @@
 
 - **Arquivo Original:** [[Insira_o_PDF_Aqui.pdf]]
     
-- **Data do Estudo:** <% tp.date.now("DD/MM/YYYY") %>
-    
 - **Status:** Analisado exaustivamente / Revisado com foco em Governança e CT&I.
-    
-- **Documentos Auxiliares:** [[Notas_de_apoio_ou_resumos_anteriores]]
     
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
