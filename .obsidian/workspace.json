@@ -14,14 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Modelo de Lei.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo de Lei"
+              "title": "🏛️ Mapa do Ecossistema de Inovação e Governança"
             },
             "group": "6e182ba0b106ede3"
+          },
+          {
+            "id": "c206b228806b3e16",
+            "type": "leaf",
+            "state": {
+              "type": "task-genius-changelog",
+              "state": {},
+              "icon": "task-genius",
+              "title": "Changelog"
+            }
           }
         ]
       },
@@ -36,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Templates/Modelo de Lei.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +74,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Modelo de Lei"
+              "title": "Gráfico de 🏛️ Mapa do Ecossistema de Inovação e Governança"
             },
             "group": "6e182ba0b106ede3"
           }
@@ -246,17 +256,18 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
   "active": "480f1dfcce0ae29a",
   "lastOpenFiles": [
+    "_Templates/Modelo de Lei.md",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "04_Notas_de_Estudo/ENCTI 2024-2034.md",
     "04_Notas_de_Estudo/CNPq2664-2026.md",
     "Sem título.canvas",
     "2026-05-19.md",
-    "_Templates/Modelo de Lei.md",
     "04_Notas_de_Estudo/Soberania Nacional.md",
     "04_Notas_de_Estudo/Soberania Tecnológica.md",
     "04_Notas_de_Estudo/ISO-IEC 27002-2022.md",

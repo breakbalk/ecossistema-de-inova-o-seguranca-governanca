@@ -4,5 +4,6 @@
   "templater-obsidian",
   "text-extractor",
   "smart-connections",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-task-progress-bar"
 ]
