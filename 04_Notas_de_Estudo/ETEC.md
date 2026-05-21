@@ -52,7 +52,9 @@ A **Encomenda Tecnológica (ETEC)** é o instrumento de compra pública mais pot
 - **Subjetividade:** O risco de órgãos de controle interpretarem o insucesso como "má gestão" de dinheiro público. Exige documentação exaustiva de cada decisão técnica.
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentos**
 
 - **[[Risco Tecnológico]]: O coração da ETEC.
     

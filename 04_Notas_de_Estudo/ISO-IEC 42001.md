@@ -51,7 +51,9 @@
 
 Visualização Técnica: ![[ISO-IEC 42001-2023.png]]
 
-Conexões e Desdobramentos:
+---
+
+**Conexões e Desdobramentos:**
 
 - **[[ISO-IEC 27001]]**: Fornece a infraestrutura de segurança sobre a qual o Sistema de Gestão de IA (SGIA) opera.
     

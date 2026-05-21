@@ -36,7 +36,9 @@ O **Risco Tecnológico** é a possibilidade de insucesso no desenvolvimento de n
 - **Ausência de Matriz de Risco:** Projetos que não descrevem o risco tecnológico no início (Edital/Contrato) perdem a proteção legal caso falhem.
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentos:**
 
 - **Instrumento Associado:** [[ETEC]] (Onde o risco é mais visível).
     

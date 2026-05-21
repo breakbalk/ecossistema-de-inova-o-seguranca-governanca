@@ -45,7 +45,9 @@
 - **Dependência de Nuvem Estrangeira:** Um grande risco à soberania é o armazenamento de dados de pesquisa sensíveis em servidores fora da jurisdição brasileira sem a devida camada de criptografia e controle (conforme Anexo A da ISO 27001).
     
 
-🗺️ **3. Conexões e Desdobramentos:
+---
+
+**Conexões e Desdobramentos:**
 
 - **[[Emenda Constitucional 85-2015]]**: O topo da pirâmide que justifica a busca pela soberania tecnológica.
     

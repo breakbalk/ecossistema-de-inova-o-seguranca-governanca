@@ -52,7 +52,13 @@
 - **Ciberresiliência:** O Anexo A agora exige inteligência contra ameaças, obrigando a UniCIETEC a ser proativa na identificação de vetores de ataque.
     
 
-🗺️ **3. Conexões e Desdobramentos:
+🗺️ **3. Mapa Mental** 
+
+Visualização Técnica: ![[ISO-IEC 27001-2022.png]]
+
+---
+
+**Conexões e Desdobramentos:**
 
 - **[[ISO-IEC 27002-2022]]**: A norma que detalha "como" implementar cada um desses 93 controles.
     

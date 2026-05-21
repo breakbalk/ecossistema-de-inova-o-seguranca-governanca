@@ -43,7 +43,9 @@ A **FINEP** é a empresa pública vinculada ao MCTI responsável por fomentar a 
 - **Conformidade (Compliance):** O rigor na análise de contrapartidas das empresas. A falha na comprovação do uso do recurso pode levar à inclusão da empresa no cadastro de inadimplentes do Governo Federal (CADIN).
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentoss**
 
 - **Combustível:** [[FNDCT]] (A FINEP é a gestora).
     

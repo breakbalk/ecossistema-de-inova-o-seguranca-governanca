@@ -51,7 +51,9 @@ A **Soberania Tecnológica** é a capacidade de um país dominar conhecimentos e
 - **Risco de Obsolescência:** Se o Brasil não investir em soberania, ficará refém de "caixas pretas" tecnológicas estrangeiras, perdendo governança sobre seus próprios dados e infraestrutura.
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentos:**
 
 - **Fundamento Constitucional:** [[Emenda Constitucional 85-2015]].
     

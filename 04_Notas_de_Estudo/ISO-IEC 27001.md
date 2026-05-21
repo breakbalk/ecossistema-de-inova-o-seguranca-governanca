@@ -55,7 +55,9 @@
 
 Visualização Técnica: ![[ISO-IEC 27001-2022.png]]
 
-Conexões e Desdobramentos:
+---
+
+**Conexões e Desdobramentos:**
 
 - **[[ISO-IEC 27002-2022]]**: Fornece as diretrizes detalhadas para implementar os controles mencionados no Anexo A desta norma.
     

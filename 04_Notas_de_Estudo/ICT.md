@@ -51,7 +51,9 @@ A **ICT** é o órgão ou entidade da administração pública (direta ou indire
 - O uso de fundações de apoio para gestão financeira deve seguir ritos rígidos de transparência para evitar questionamentos de órgãos de controle.
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentos**
 
 - **Braço Operacional:** [[NIT]] (Onde a [[ICT]] executa a política, fornecendo o capital intelectual e os laboratórios que viabilizam a existência de [[Ambientes de Inovação]], como Parques e Polos Tecnológicos).
     

@@ -38,7 +38,9 @@ O **FNDCT** é o combustível financeiro da ciência e tecnologia no Brasil. Sua
 - **Continuidade:** O risco histórico era o bloqueio de verbas pelo Governo Federal para fazer superávit. Com a Lei Complementar 177/2021, esse risco foi mitigado, mas a execução orçamentária ainda exige vigilância política.
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentos**
 
 - **Gestora:** [[FINEP]].
     

@@ -52,7 +52,9 @@
 Visualização Técnica: ![[ISO-IEC 27000-2018.png]]
 
 
-Conexões e Desdobramentos:
+---
+
+**Conexões e Desdobramentos**:
 
 - **Desdobramento Técnico I:** [[ISO-IEC 27001]] — A norma operacional que aplica os conceitos da 27000 para fins de certificação.
     

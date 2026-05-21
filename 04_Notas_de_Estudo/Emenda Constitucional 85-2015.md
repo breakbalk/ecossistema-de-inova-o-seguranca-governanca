@@ -54,6 +54,8 @@ A EC 85/2015 é o ponto de inflexão que elevou a **Inovação** ao status de de
 
 **Visualização Técnica:** ![[Emenda Constitucional 85.png]]
 
+---
+
 **Conexões e Desdobramentos:**
 
 -**[[Lei 13243-2016]]** — A "Lei Geral" que regulamentou as permissões constitucionais da EC 85.

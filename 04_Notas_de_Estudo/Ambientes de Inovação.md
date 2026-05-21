@@ -59,7 +59,9 @@ Os **Ambientes de Inovação** são espaços físicos ou virtuais que visam prom
 - **Desvio de Finalidade:** O risco de um Parque Tecnológico se tornar apenas um "condomínio empresarial" comum, sem atividades reais de P&D. Os órgãos de controle exigem métricas de inovação (patentes, novos produtos).
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentos**
 
 - **Operadores:** [[ICT]] e [[NIT]].
     

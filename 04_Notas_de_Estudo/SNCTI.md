@@ -47,9 +47,13 @@
 - **Ciberresiliência:** Na visão atualizada, a norma alerta que apenas prevenir não basta; a ICT deve ser capaz de operar mesmo sob ataque (Continuidade de Negócio).
     
 
-🗺️ **3. Mapa Mental e Conexões** Visualização Técnica: ![[ISO-EC 27000-2018.jpg]]
+🗺️ **3. Mapa Mental** 
 
-Conexões e Desdobramentos:
+Visualização Técnica:![[ISO-IEC 27000-2018.png]]
+
+---
+
+**Conexões e Desdobramentos:**
 
 - **ISO-IEC 27001:** A norma operacional que aplica os conceitos da 27000 para fins de certificação.
     

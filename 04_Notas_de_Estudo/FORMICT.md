@@ -47,7 +47,9 @@ O **FORMICT** (Formulário para Informações sobre a Política de Propriedade I
 - O FORMICT é a base para o controle social e auditorias. Dados inconsistentes podem gerar diligências dos Tribunais de Contas sobre a eficiência da Política de Inovação da ICT.
     
 
-🗺️ **3. Mapa Mental e Conexões**
+---
+
+**Conexões e Desdobramentos**
 
 - **Agente Responsável:** [[NIT]].
     

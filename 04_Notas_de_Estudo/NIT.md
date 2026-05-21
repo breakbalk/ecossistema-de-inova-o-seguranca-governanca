@@ -49,7 +49,9 @@ O **NIT** é a estrutura instituída por uma ou mais ICTs com a finalidade de ge
 - A falha na gestão de prazos de patentes ou a má redação de contratos de licenciamento pode causar prejuízo ao erário por perda de ativos intangíveis.
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentos:**
 
 - **Instituição Mantenedora:** [[ICT]].
     

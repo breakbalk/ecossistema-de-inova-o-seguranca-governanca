@@ -46,7 +46,9 @@ A **Subvenção Econômica** consiste no repasse de recursos públicos (frequent
 - Empresas instaladas em **[[Ambientes de Inovação]]** (como Incubadoras e Parques Tecnológicos) frequentemente possuem acesso facilitado ou editais exclusivos de subvenção. Isso ocorre porque o risco de o dinheiro ser "perdido" é menor quando a empresa está em um ecossistema que oferece mentoria e infraestrutura.
     
 
-🗺️ **3. Conexões**
+---
+
+**Conexões e Desdobramentos:**
 
 - **Fonte do Recurso:** [[FNDCT]].
     
