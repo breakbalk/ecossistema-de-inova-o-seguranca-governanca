@@ -6,7 +6,7 @@
       {
         "id": "f169f33f8695e48e",
         "type": "tabs",
-        "dimension": 70.1916252661462,
+        "dimension": 58.19730305180979,
         "children": [
           {
             "id": "480f1dfcce0ae29a",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+                "file": "04_Notas_de_Estudo/Lei 10973-2004.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🏛️ Mapa do Ecossistema de Inovação e Governança"
+              "title": "Lei 10973-2004"
             },
             "group": "6e182ba0b106ede3"
           }
@@ -38,7 +38,7 @@
       {
         "id": "c04964c4d0d78003",
         "type": "tabs",
-        "dimension": 29.8083747338538,
+        "dimension": 41.8026969481902,
         "children": [
           {
             "id": "2623104f1ef38d59",
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+                "file": "04_Notas_de_Estudo/Lei 10973-2004.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,11 +70,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7345863357173034,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 🏛️ Mapa do Ecossistema de Inovação e Governança"
+              "title": "Gráfico de Lei 10973-2004"
             },
             "group": "6e182ba0b106ede3"
           }
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.51103591918945
   },
   "right": {
     "id": "79fdf5de1f4b2b1c",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+                "file": "04_Notas_de_Estudo/Lei 10973-2004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 🏛️ Mapa do Ecossistema de Inovação e Governança"
+              "title": "Links inversos para Lei 10973-2004"
             }
           },
           {
@@ -261,9 +261,9 @@
   },
   "active": "480f1dfcce0ae29a",
   "lastOpenFiles": [
+    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "02_RESUMOS_DOCx/Decreto 9283.md",
     "_Templates/Modelo de Lei.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
     "04_Notas_de_Estudo/Ambientes de Inovação.md",
     "04_Notas_de_Estudo/CNPq2664-2026.md",
