@@ -70,3 +70,4 @@ Os **Ambientes de Inovação** são espaços físicos ou virtuais que visam prom
 - **Incentivo:** [[Subvenção Econômica]] (frequentemente direcionada a empresas nestes ambientes).
     
 - **Fundamento Constitucional:** [[Emenda Constitucional 85-2015]] (Descentralização regional da inovação).
+---

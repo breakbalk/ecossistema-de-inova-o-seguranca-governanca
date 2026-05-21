@@ -3,5 +3,7 @@
   "baseFontSizeAction": true,
   "baseFontSize": 17,
   "cssTheme": "Obsidianite",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Arial,Arial Narrow,Blackadder ITC,Bradley Hand ITC",
+  "monospaceFontFamily": "Artifakt Element"
 }

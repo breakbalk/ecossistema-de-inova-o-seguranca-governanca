@@ -56,3 +56,4 @@
 - **[[ICT]] / [[NIT]]**: Os agentes operacionais que executam a política de soberania no dia a dia da pesquisa.
     
 - **Soberania Digital:** Desdobramento necessário para a proteção da infraestrutura crítica (redes, energia e comunicações) através da governança tecnológica.
+---

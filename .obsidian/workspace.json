@@ -6,7 +6,7 @@
       {
         "id": "f169f33f8695e48e",
         "type": "tabs",
-        "dimension": 84.18972332015811,
+        "dimension": 70.1916252661462,
         "children": [
           {
             "id": "480f1dfcce0ae29a",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Notas_de_Estudo/Subvenção Econômica.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -25,11 +25,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Subvenção Econômica"
+              "title": "🏛️ Mapa do Ecossistema de Inovação e Governança"
             },
             "group": "6e182ba0b106ede3"
           }
@@ -38,7 +38,7 @@
       {
         "id": "c04964c4d0d78003",
         "type": "tabs",
-        "dimension": 15.810276679841898,
+        "dimension": 29.8083747338538,
         "children": [
           {
             "id": "2623104f1ef38d59",
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Notas_de_Estudo/Subvenção Econômica.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -69,12 +69,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3613103748023405,
+                  "scale": 0.7345863357173034,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Subvenção Econômica"
+              "title": "Gráfico de 🏛️ Mapa do Ecossistema de Inovação e Governança"
             },
             "group": "6e182ba0b106ede3"
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Notas_de_Estudo/Subvenção Econômica.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Subvenção Econômica"
+              "title": "Links inversos para 🏛️ Mapa do Ecossistema de Inovação e Governança"
             }
           },
           {
@@ -234,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,20 +261,10 @@
   },
   "active": "480f1dfcce0ae29a",
   "lastOpenFiles": [
-    "04_Notas_de_Estudo/Soberania Tecnológica.md",
-    "04_Notas_de_Estudo/Subvenção Econômica.md",
-    "04_Notas_de_Estudo/ISO-IEC 27001 - Anexo A.md",
-    "Sem título.canvas",
-    "04_Notas_de_Estudo/ISO-IEC 27001.md",
-    "04_Notas_de_Estudo/Soberania Nacional.md",
-    "04_Notas_de_Estudo/SNCTI.md",
-    "04_Notas_de_Estudo/Risco Tecnológico.md",
-    "04_Notas_de_Estudo/NIT.md",
-    "04_Notas_de_Estudo/Lei 13243-2016.md",
-    "04_Notas_de_Estudo/Lei 10973-2004.md",
-    "04_Notas_de_Estudo/ISO-IEC 42001.md",
-    "04_Notas_de_Estudo/ISO-IEC 27002-2022.md",
-    "04_Notas_de_Estudo/ISO-IEC 27000.md",
+    "02_RESUMOS_DOCx/Decreto 9283.md",
+    "_Templates/Modelo de Lei.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+    "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
     "04_Notas_de_Estudo/Ambientes de Inovação.md",
     "04_Notas_de_Estudo/CNPq2664-2026.md",
     "04_Notas_de_Estudo/Decreto 9283-2018.md",
@@ -284,8 +275,20 @@
     "04_Notas_de_Estudo/FNDCT.md",
     "04_Notas_de_Estudo/FORMICT.md",
     "04_Notas_de_Estudo/ICT.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
-    "_Templates/Modelo de Lei.md",
+    "04_Notas_de_Estudo/ISO-IEC 27000.md",
+    "04_Notas_de_Estudo/ISO-IEC 27001.md",
+    "04_Notas_de_Estudo/ISO-IEC 27001 - Anexo A.md",
+    "04_Notas_de_Estudo/ISO-IEC 27002-2022.md",
+    "04_Notas_de_Estudo/ISO-IEC 42001.md",
+    "04_Notas_de_Estudo/Lei 10973-2004.md",
+    "04_Notas_de_Estudo/Lei 13243-2016.md",
+    "04_Notas_de_Estudo/NIT.md",
+    "04_Notas_de_Estudo/Risco Tecnológico.md",
+    "04_Notas_de_Estudo/SNCTI.md",
+    "04_Notas_de_Estudo/Soberania Nacional.md",
+    "04_Notas_de_Estudo/Subvenção Econômica.md",
+    "04_Notas_de_Estudo/Soberania Tecnológica.md",
+    "Sem título.canvas",
     "03_Mapas_Mentais/Lei 10.973 2004.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
     "03_Mapas_Mentais/ISO-IEC 27002-2022.png",
@@ -301,7 +304,6 @@
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
     "Emenda Constitucional 85",
     "Decreto 9.283",
-    "Lei 177",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
     "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Fixa.png",

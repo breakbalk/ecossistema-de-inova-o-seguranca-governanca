@@ -45,3 +45,4 @@ O **Risco Tecnológico** é a possibilidade de insucesso no desenvolvimento de n
 - **Regulador:** Tribunal de Contas (Onde o risco é testado).
     
 - **Fundamento:** [[Lei 13243-2016]] (A lei que "legalizou" o risco).
+---

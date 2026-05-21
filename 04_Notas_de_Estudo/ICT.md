@@ -60,3 +60,4 @@ A **ICT** é o órgão ou entidade da administração pública (direta ou indire
 - **Instrumento de Fomento:** [[ETEC]] (A ICT como executora da encomenda).
     
 - **Conexão Legal:** [[Lei 13243-2016]] (Onde a ICT ganhou mais autonomia).
+---

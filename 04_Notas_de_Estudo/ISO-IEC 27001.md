@@ -68,3 +68,4 @@ Visualização Técnica: ![[ISO-IEC 27001-2022.png]]
 - **[[Soberania Nacional]]**: O domínio da 27001 permite que as ICTs brasileiras protejam seus segredos de estado e inovações disruptivas em um mercado global altamente competitivo.
     
 - **[[ISO-IEC 27000]]**: Base de vocabulário
+---

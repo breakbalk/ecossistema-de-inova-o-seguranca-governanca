@@ -62,3 +62,4 @@ Visualização Técnica: ![[ISO-IEC 42001-2023.png]]
 - **[[NIT]]**: Órgãos responsáveis por garantir que startups e projetos de P&D incubados sigam os princípios de transparência da norma.
     
 - **Soberania Digital:** A adoção da 42001 permite ao Brasil auditar tecnologias de IA estrangeiras e desenvolver soluções nacionais que respeitem a nossa legislação.
+---

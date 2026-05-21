@@ -63,4 +63,6 @@ A **Encomenda Tecnológica (ETEC)** é o instrumento de compra pública mais pot
 - **Regulamentação:** [[Decreto 9283-2018]].
     
 - **Relação [[ETEC]] x [[Subvenção Econômica]]:** Enquanto a Subvenção Econômica é um incentivo à inovação de mercado com contrapartida da empresa, a ETEC é uma contratação direta de risco onde o Estado é o cliente principal. Ambas utilizam recursos não reembolsáveis do [[FNDCT]] e são protegidas juridicamente pela aceitação do [[Risco Tecnológico]].
+---
+
 
