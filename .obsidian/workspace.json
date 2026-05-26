@@ -6,7 +6,7 @@
       {
         "id": "f169f33f8695e48e",
         "type": "tabs",
-        "dimension": 58.19730305180979,
+        "dimension": 58.1973030518098,
         "children": [
           {
             "id": "480f1dfcce0ae29a",
@@ -38,7 +38,7 @@
       {
         "id": "c04964c4d0d78003",
         "type": "tabs",
-        "dimension": 41.8026969481902,
+        "dimension": 41.80269694819021,
         "children": [
           {
             "id": "2623104f1ef38d59",
@@ -255,8 +255,7 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
+      "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
   "active": "480f1dfcce0ae29a",
