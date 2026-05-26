@@ -6,7 +6,7 @@
       {
         "id": "f169f33f8695e48e",
         "type": "tabs",
-        "dimension": 58.1973030518098,
+        "dimension": 85.80553584102199,
         "children": [
           {
             "id": "480f1dfcce0ae29a",
@@ -32,13 +32,26 @@
               "title": "Ambientes de Inovação"
             },
             "group": "6e182ba0b106ede3"
+          },
+          {
+            "id": "d678359c0de6ec01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-26 11.44.42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-26 11.44.42.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c04964c4d0d78003",
         "type": "tabs",
-        "dimension": 41.80269694819021,
+        "dimension": 14.194464158977999,
         "children": [
           {
             "id": "2623104f1ef38d59",
@@ -235,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 581.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,17 +269,20 @@
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "480f1dfcce0ae29a",
+  "active": "d678359c0de6ec01",
   "lastOpenFiles": [
+    "04_Notas_de_Estudo/Ambientes de Inovação.md",
+    "Excalidraw/Drawing 2026-05-26 11.44.42.excalidraw.md",
+    "Excalidraw",
     "04_Notas_de_Estudo/Lei 10973-2004.md",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "02_RESUMOS_DOCx/Decreto 9283.md",
     "_Templates/Modelo de Lei.md",
     "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
-    "04_Notas_de_Estudo/Ambientes de Inovação.md",
     "04_Notas_de_Estudo/CNPq2664-2026.md",
     "04_Notas_de_Estudo/Decreto 9283-2018.md",
     "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
@@ -287,7 +303,6 @@
     "04_Notas_de_Estudo/SNCTI.md",
     "04_Notas_de_Estudo/Soberania Nacional.md",
     "04_Notas_de_Estudo/Subvenção Econômica.md",
-    "04_Notas_de_Estudo/Soberania Tecnológica.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/Lei 10.973 2004.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
@@ -303,7 +318,6 @@
     "Lei 13.243",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
     "Emenda Constitucional 85",
-    "Decreto 9.283",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
     "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Fixa.png",
