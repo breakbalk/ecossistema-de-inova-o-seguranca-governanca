@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Notas_de_Estudo/Lei 10973-2004.md",
+                "file": "04_Notas_de_Estudo/Ambientes de Inovação.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lei 10973-2004"
+              "title": "Ambientes de Inovação"
             },
             "group": "6e182ba0b106ede3"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Notas_de_Estudo/Lei 10973-2004.md",
+                "file": "04_Notas_de_Estudo/Ambientes de Inovação.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +74,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Lei 10973-2004"
+              "title": "Gráfico de Ambientes de Inovação"
             },
             "group": "6e182ba0b106ede3"
           }
@@ -230,12 +230,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 581.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,11 +255,13 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
   "active": "480f1dfcce0ae29a",
   "lastOpenFiles": [
+    "04_Notas_de_Estudo/Lei 10973-2004.md",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "02_RESUMOS_DOCx/Decreto 9283.md",
     "_Templates/Modelo de Lei.md",
@@ -279,7 +281,6 @@
     "04_Notas_de_Estudo/ISO-IEC 27001 - Anexo A.md",
     "04_Notas_de_Estudo/ISO-IEC 27002-2022.md",
     "04_Notas_de_Estudo/ISO-IEC 42001.md",
-    "04_Notas_de_Estudo/Lei 10973-2004.md",
     "04_Notas_de_Estudo/Lei 13243-2016.md",
     "04_Notas_de_Estudo/NIT.md",
     "04_Notas_de_Estudo/Risco Tecnológico.md",
