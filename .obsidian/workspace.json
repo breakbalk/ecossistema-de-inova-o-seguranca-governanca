@@ -6,7 +6,7 @@
       {
         "id": "f169f33f8695e48e",
         "type": "tabs",
-        "dimension": 85.80553584102199,
+        "dimension": 85.805535841022,
         "children": [
           {
             "id": "480f1dfcce0ae29a",
@@ -51,7 +51,7 @@
       {
         "id": "c04964c4d0d78003",
         "type": "tabs",
-        "dimension": 14.194464158977999,
+        "dimension": 14.194464158978,
         "children": [
           {
             "id": "2623104f1ef38d59",
@@ -59,7 +59,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Notas_de_Estudo/Ambientes de Inovação.md",
+                "file": "Excalidraw/Drawing 2026-05-26 11.46.50_0.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -87,7 +87,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Ambientes de Inovação"
+              "title": "Gráfico de Drawing 2026-05-26 11.46.50_0.excalidraw"
             },
             "group": "6e182ba0b106ede3"
           }
@@ -269,14 +269,14 @@
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "obsidian-task-progress-bar:Abrir visualização Task Genius": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
   "active": "d678359c0de6ec01",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-26 11.46.50.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.46.50_0.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-26 11.46.50.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.44.42.excalidraw.md",
     "04_Notas_de_Estudo/Ambientes de Inovação.md",
     "Excalidraw",
