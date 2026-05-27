@@ -4,9 +4,32 @@
     "type": "split",
     "children": [
       {
+        "id": "726c878cca2fb092",
+        "type": "tabs",
+        "dimension": 42.902767920511,
+        "children": [
+          {
+            "id": "fa91b789efcc8fe0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
+                "page": 1,
+                "left": -49,
+                "top": 1194,
+                "zoom": 0.4160282448468251
+              },
+              "icon": "lucide-file-text",
+              "title": "CNPq 2664-2026 (1)"
+            }
+          }
+        ]
+      },
+      {
         "id": "f169f33f8695e48e",
         "type": "tabs",
-        "dimension": 85.805535841022,
+        "dimension": 42.902767920511,
         "children": [
           {
             "id": "480f1dfcce0ae29a",
@@ -39,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Modelo de Lei.md",
+                "file": "04_Notas_de_Estudo/CNPq2664-2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -50,11 +73,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Modelo de Lei"
+              "title": "CNPq2664-2026"
             }
           }
         ],
@@ -285,9 +308,20 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "d678359c0de6ec01",
+  "active": "fa91b789efcc8fe0",
   "lastOpenFiles": [
+    "04_Notas_de_Estudo/CNPq2664-2026.md",
+    "03_Mapas_Mentais/Lei 10.973 2004.png",
+    "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
+    "03_Mapas_Mentais/ISO-IEC 27002-2022.png",
+    "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
+    "03_Mapas_Mentais/ISO-IEC 27000-2018.png",
+    "02_RESUMOS_DOCx/CNPq 2664.md",
+    "01_Fontes_Brutas/ISO_IEC_27000_2014.pdf",
+    "01_Fontes_Brutas/Decreto 9.283_2018.pdf",
+    "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+    "_Templates/Modelo de Lei.md",
     "Excalidraw/Drawing 2026-05-26 11.46.50_0.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.46.50.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.44.42.excalidraw.md",
@@ -295,9 +329,7 @@
     "Excalidraw",
     "04_Notas_de_Estudo/Lei 10973-2004.md",
     "02_RESUMOS_DOCx/Decreto 9283.md",
-    "_Templates/Modelo de Lei.md",
     "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
-    "04_Notas_de_Estudo/CNPq2664-2026.md",
     "04_Notas_de_Estudo/Decreto 9283-2018.md",
     "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
     "04_Notas_de_Estudo/ENCTI 2024-2034.md",
@@ -313,26 +345,16 @@
     "04_Notas_de_Estudo/ISO-IEC 42001.md",
     "04_Notas_de_Estudo/Lei 13243-2016.md",
     "04_Notas_de_Estudo/NIT.md",
-    "04_Notas_de_Estudo/Risco Tecnológico.md",
-    "04_Notas_de_Estudo/SNCTI.md",
     "Sem título.canvas",
-    "03_Mapas_Mentais/Lei 10.973 2004.png",
-    "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
-    "03_Mapas_Mentais/ISO-IEC 27002-2022.png",
     "01_Fontes_Brutas/ISO_IEC_27002.pdf",
     "01_Fontes_Brutas/Não confirmado 832744.crdownload",
     "03_Mapas_Mentais/CNPq 2664-2026.png",
     "01_Fontes_Brutas/ISO 42001.pdf",
     "01_Fontes_Brutas/ISO_IEC-27001-2022-ed.3.pdf",
-    "03_Mapas_Mentais/ISO-IEC 27000-2018.png",
-    "01_Fontes_Brutas/ISO_IEC_27000_2014.pdf",
     "Lei 10.973",
-    "Lei 13.243",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
-    "Emenda Constitucional 85",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
-    "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Fixa.png",
-    "03_Mapas_Mentais/Lei 10.973 2004 - Imagem Fixa.png"
+    "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Fixa.png"
   ]
 }
