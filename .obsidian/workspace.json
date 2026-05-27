@@ -6,7 +6,7 @@
       {
         "id": "726c878cca2fb092",
         "type": "tabs",
-        "dimension": 42.902767920511,
+        "dimension": 16.542597187758478,
         "children": [
           {
             "id": "fa91b789efcc8fe0",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
                 "page": 1,
-                "left": -49,
-                "top": 1194,
-                "zoom": 0.4160282448468251
+                "left": -57,
+                "top": 1193,
+                "zoom": 0.2761643595342951
               },
               "icon": "lucide-file-text",
               "title": "CNPq 2664-2026 (1)"
@@ -29,7 +29,7 @@
       {
         "id": "f169f33f8695e48e",
         "type": "tabs",
-        "dimension": 42.902767920511,
+        "dimension": 40.77750206782465,
         "children": [
           {
             "id": "480f1dfcce0ae29a",
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Notas_de_Estudo/CNPq2664-2026.md",
+                "file": "04_Notas_de_Estudo/Subvenção Econômica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CNPq2664-2026"
+              "title": "Subvenção Econômica"
             }
           }
         ],
@@ -86,7 +86,7 @@
       {
         "id": "c04964c4d0d78003",
         "type": "tabs",
-        "dimension": 14.194464158978,
+        "dimension": 42.67990074441687,
         "children": [
           {
             "id": "2623104f1ef38d59",
@@ -117,8 +117,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7345863357173034,
-                  "close": true
+                  "scale": 8,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
@@ -308,20 +308,29 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "fa91b789efcc8fe0",
+  "active": "2623104f1ef38d59",
   "lastOpenFiles": [
-    "04_Notas_de_Estudo/CNPq2664-2026.md",
-    "03_Mapas_Mentais/Lei 10.973 2004.png",
+    "04_Notas_de_Estudo/Soberania Tecnológica.md",
+    "04_Notas_de_Estudo/Soberania Nacional.md",
+    "04_Notas_de_Estudo/Risco Tecnológico.md",
+    "04_Notas_de_Estudo/NIT.md",
+    "04_Notas_de_Estudo/ISO-IEC 27002-2022.md",
+    "04_Notas_de_Estudo/ENCTI 2024-2034.md",
+    "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
+    "04_Notas_de_Estudo/Subvenção Econômica.md",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
+    "03_Mapas_Mentais/Emenda Constitucional 85.png",
+    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+    "_Templates/Modelo de Lei.md",
+    "04_Notas_de_Estudo/CNPq2664-2026.md",
+    "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
+    "03_Mapas_Mentais/Lei 10.973 2004.png",
     "03_Mapas_Mentais/ISO-IEC 27002-2022.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
     "03_Mapas_Mentais/ISO-IEC 27000-2018.png",
     "02_RESUMOS_DOCx/CNPq 2664.md",
     "01_Fontes_Brutas/ISO_IEC_27000_2014.pdf",
     "01_Fontes_Brutas/Decreto 9.283_2018.pdf",
-    "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
-    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
-    "_Templates/Modelo de Lei.md",
     "Excalidraw/Drawing 2026-05-26 11.46.50_0.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.46.50.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.44.42.excalidraw.md",
@@ -331,8 +340,6 @@
     "02_RESUMOS_DOCx/Decreto 9283.md",
     "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
     "04_Notas_de_Estudo/Decreto 9283-2018.md",
-    "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
-    "04_Notas_de_Estudo/ENCTI 2024-2034.md",
     "04_Notas_de_Estudo/ETEC.md",
     "04_Notas_de_Estudo/FINEP.md",
     "04_Notas_de_Estudo/FNDCT.md",
@@ -340,11 +347,6 @@
     "04_Notas_de_Estudo/ICT.md",
     "04_Notas_de_Estudo/ISO-IEC 27000.md",
     "04_Notas_de_Estudo/ISO-IEC 27001.md",
-    "04_Notas_de_Estudo/ISO-IEC 27001 - Anexo A.md",
-    "04_Notas_de_Estudo/ISO-IEC 27002-2022.md",
-    "04_Notas_de_Estudo/ISO-IEC 42001.md",
-    "04_Notas_de_Estudo/Lei 13243-2016.md",
-    "04_Notas_de_Estudo/NIT.md",
     "Sem título.canvas",
     "01_Fontes_Brutas/ISO_IEC_27002.pdf",
     "01_Fontes_Brutas/Não confirmado 832744.crdownload",
@@ -352,7 +354,6 @@
     "01_Fontes_Brutas/ISO 42001.pdf",
     "01_Fontes_Brutas/ISO_IEC-27001-2022-ed.3.pdf",
     "Lei 10.973",
-    "03_Mapas_Mentais/Emenda Constitucional 85.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
     "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Fixa.png"
