@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_RESUMOS_DOCx/Inovação no Brasil.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inovação no Brasil"
+              "title": "🏛️ Mapa do Ecossistema de Inovação e Governança"
             }
           }
         ]
@@ -210,13 +210,16 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "480f1dfcce0ae29a",
   "lastOpenFiles": [
-    "Sem título.canvas",
     "02_RESUMOS_DOCx/Inovação no Brasil.md",
+    "Sem título.canvas",
     "02_RESUMOS_DOCx/Decreto 9283.md",
     "04_Notas_de_Estudo/Ambientes de Inovação.md",
     "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
