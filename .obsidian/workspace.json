@@ -14,6 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Ambientes de Inovação.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ambientes de Inovação"
+            }
+          },
+          {
+            "id": "7a117a62f161e9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
                 "mode": "source",
                 "source": false,
@@ -32,7 +56,8 @@
               "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "01dfc8d2a4a580c0",
@@ -68,7 +93,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.6783170789156933,
                   "close": true
                 }
               },
@@ -133,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.51103591918945
+    "width": 429.51103591918945
   },
   "right": {
     "id": "79fdf5de1f4b2b1c",
@@ -261,27 +286,31 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "acee82af7c050eb8",
+  "active": "8b864e4be9cba43b",
   "lastOpenFiles": [
+    "Sem título",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Ambientes de Inovação.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Emenda Constitucional 85-2015.md",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+    "_Templates/Modelo de Lei.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FINEP.md",
     "02_RESUMOS_DOCx/Inovação no Brasil.md",
     "Sem título.canvas",
     "02_RESUMOS_DOCx/Decreto 9283.md",
-    "04_Notas_de_Estudo/Ambientes de Inovação.md",
     "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
-    "04_Notas_de_Estudo/Soberania Tecnológica.md",
-    "04_Notas_de_Estudo/Soberania Nacional.md",
-    "04_Notas_de_Estudo/Risco Tecnológico.md",
-    "04_Notas_de_Estudo/NIT.md",
-    "04_Notas_de_Estudo/ISO-IEC 27002-2022.md",
-    "04_Notas_de_Estudo/ENCTI 2024-2034.md",
-    "04_Notas_de_Estudo/Emenda Constitucional 85-2015.md",
-    "04_Notas_de_Estudo/Subvenção Econômica.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Soberania Tecnológica.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Soberania Nacional.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Risco Tecnológico.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/NIT.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ISO-IEC 27002-2022.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ENCTI 2024-2034.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Subvenção Econômica.md",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
-    "_Templates/Modelo de Lei.md",
-    "04_Notas_de_Estudo/CNPq2664-2026.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/CNPq2664-2026.md",
     "03_Mapas_Mentais/Lei 10.973 2004.png",
     "03_Mapas_Mentais/ISO-IEC 27002-2022.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
@@ -293,20 +322,16 @@
     "Excalidraw/Drawing 2026-05-26 11.46.50.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.44.42.excalidraw.md",
     "Excalidraw",
-    "04_Notas_de_Estudo/Lei 10973-2004.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 10973-2004.md",
     "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
-    "04_Notas_de_Estudo/Decreto 9283-2018.md",
-    "04_Notas_de_Estudo/ETEC.md",
-    "04_Notas_de_Estudo/FINEP.md",
-    "04_Notas_de_Estudo/FNDCT.md",
-    "04_Notas_de_Estudo/FORMICT.md",
-    "04_Notas_de_Estudo/ICT.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Decreto 9283-2018.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ETEC.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FNDCT.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FORMICT.md",
     "01_Fontes_Brutas/ISO_IEC_27002.pdf",
     "01_Fontes_Brutas/Não confirmado 832744.crdownload",
     "03_Mapas_Mentais/CNPq 2664-2026.png",
     "01_Fontes_Brutas/ISO 42001.pdf",
-    "01_Fontes_Brutas/ISO_IEC-27001-2022-ed.3.pdf",
-    "Lei 10.973",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
     "03_Mapas_Mentais/Lei 13.243-2016 - Imagem Fixa.png"
