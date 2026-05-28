@@ -209,13 +209,15 @@
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
   "active": "480f1dfcce0ae29a",
   "lastOpenFiles": [
-    "02_RESUMOS_DOCx/Decreto 9283.md",
     "Sem título.canvas",
+    "02_RESUMOS_DOCx/Inovação no Brasil.md",
+    "02_RESUMOS_DOCx/Decreto 9283.md",
     "04_Notas_de_Estudo/Ambientes de Inovação.md",
     "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
     "04_Notas_de_Estudo/Soberania Tecnológica.md",
@@ -250,7 +252,6 @@
     "04_Notas_de_Estudo/FNDCT.md",
     "04_Notas_de_Estudo/FORMICT.md",
     "04_Notas_de_Estudo/ICT.md",
-    "04_Notas_de_Estudo/ISO-IEC 27000.md",
     "01_Fontes_Brutas/ISO_IEC_27002.pdf",
     "01_Fontes_Brutas/Não confirmado 832744.crdownload",
     "03_Mapas_Mentais/CNPq 2664-2026.png",
