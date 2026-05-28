@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🏛️ Mapa do Ecossistema de Inovação e Governança"
+              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
             }
           }
         ]
@@ -218,6 +218,8 @@
   },
   "active": "480f1dfcce0ae29a",
   "lastOpenFiles": [
+    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "02_RESUMOS_DOCx/Inovação no Brasil.md",
     "Sem título.canvas",
     "02_RESUMOS_DOCx/Decreto 9283.md",
@@ -233,7 +235,6 @@
     "04_Notas_de_Estudo/Subvenção Econômica.md",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
-    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "_Templates/Modelo de Lei.md",
     "04_Notas_de_Estudo/CNPq2664-2026.md",
     "03_Mapas_Mentais/Lei 10.973 2004.png",

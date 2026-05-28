@@ -1,0 +1,1 @@
+crie um ecossistema com os principais manuais referente a ciência, tecnologia e inovação do MCTI e da AMPROTEC
