@@ -6,7 +6,7 @@
       {
         "id": "228f23e9e730bdec",
         "type": "tabs",
-        "dimension": 56.611570247933884,
+        "dimension": 74.93734335839599,
         "children": [
           {
             "id": "acee82af7c050eb8",
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Emenda Constitucional 85-2015.md",
+                "file": "_Templates/Modelo de Lei.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emenda Constitucional 85-2015"
+              "title": "Modelo de Lei"
             }
           }
         ],
@@ -62,7 +62,7 @@
       {
         "id": "01dfc8d2a4a580c0",
         "type": "tabs",
-        "dimension": 43.388429752066116,
+        "dimension": 25.062656641604008,
         "children": [
           {
             "id": "9fb0285dcabd0e19",
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Emenda Constitucional 85-2015.md",
+                "file": "_Templates/Modelo de Lei.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +98,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Emenda Constitucional 85-2015"
+              "title": "Gráfico de Modelo de Lei"
             }
           }
         ]
@@ -286,15 +286,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8b864e4be9cba43b",
+  "active": "7a117a62f161e9e2",
   "lastOpenFiles": [
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+    "_Templates/Modelo de Lei.md",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Emenda Constitucional 85-2015.md",
     "04_MANUAIS_UNICIETEC",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Ambientes de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Emenda Constitucional 85-2015.md",
-    "_Templates/Modelo de Lei.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FINEP.md",
     "02_RESUMOS_DOCx/Inovação no Brasil.md",
