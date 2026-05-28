@@ -4,32 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "726c878cca2fb092",
-        "type": "tabs",
-        "dimension": 16.542597187758478,
-        "children": [
-          {
-            "id": "fa91b789efcc8fe0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
-                "page": 1,
-                "left": -57,
-                "top": 1193,
-                "zoom": 0.2761643595342951
-              },
-              "icon": "lucide-file-text",
-              "title": "CNPq 2664-2026 (1)"
-            }
-          }
-        ]
-      },
-      {
         "id": "f169f33f8695e48e",
         "type": "tabs",
-        "dimension": 40.77750206782465,
         "children": [
           {
             "id": "480f1dfcce0ae29a",
@@ -37,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Notas_de_Estudo/Ambientes de Inovação.md",
+                "file": "02_RESUMOS_DOCx/Inovação no Brasil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,79 +28,8 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ambientes de Inovação"
-            },
-            "group": "6e182ba0b106ede3"
-          },
-          {
-            "id": "d678359c0de6ec01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Notas_de_Estudo/Subvenção Econômica.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Subvenção Econômica"
+              "title": "Inovação no Brasil"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c04964c4d0d78003",
-        "type": "tabs",
-        "dimension": 42.67990074441687,
-        "children": [
-          {
-            "id": "2623104f1ef38d59",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-26 11.46.50_0.excalidraw.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 8,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de Drawing 2026-05-26 11.46.50_0.excalidraw"
-            },
-            "group": "6e182ba0b106ede3"
           }
         ]
       }
@@ -304,12 +209,15 @@
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2623104f1ef38d59",
+  "active": "480f1dfcce0ae29a",
   "lastOpenFiles": [
+    "02_RESUMOS_DOCx/Decreto 9283.md",
+    "Sem título.canvas",
+    "04_Notas_de_Estudo/Ambientes de Inovação.md",
+    "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
     "04_Notas_de_Estudo/Soberania Tecnológica.md",
     "04_Notas_de_Estudo/Soberania Nacional.md",
     "04_Notas_de_Estudo/Risco Tecnológico.md",
@@ -323,7 +231,6 @@
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "_Templates/Modelo de Lei.md",
     "04_Notas_de_Estudo/CNPq2664-2026.md",
-    "01_Fontes_Brutas/CNPq 2664-2026 (1).pdf",
     "03_Mapas_Mentais/Lei 10.973 2004.png",
     "03_Mapas_Mentais/ISO-IEC 27002-2022.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
@@ -334,10 +241,8 @@
     "Excalidraw/Drawing 2026-05-26 11.46.50_0.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.46.50.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 11.44.42.excalidraw.md",
-    "04_Notas_de_Estudo/Ambientes de Inovação.md",
     "Excalidraw",
     "04_Notas_de_Estudo/Lei 10973-2004.md",
-    "02_RESUMOS_DOCx/Decreto 9283.md",
     "01_Fontes_Brutas/Emenda Constitucional nº 85.pdf",
     "04_Notas_de_Estudo/Decreto 9283-2018.md",
     "04_Notas_de_Estudo/ETEC.md",
@@ -346,8 +251,6 @@
     "04_Notas_de_Estudo/FORMICT.md",
     "04_Notas_de_Estudo/ICT.md",
     "04_Notas_de_Estudo/ISO-IEC 27000.md",
-    "04_Notas_de_Estudo/ISO-IEC 27001.md",
-    "Sem título.canvas",
     "01_Fontes_Brutas/ISO_IEC_27002.pdf",
     "01_Fontes_Brutas/Não confirmado 832744.crdownload",
     "03_Mapas_Mentais/CNPq 2664-2026.png",
