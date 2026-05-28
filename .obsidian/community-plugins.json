@@ -6,5 +6,7 @@
   "smart-connections",
   "obsidian-git",
   "obsidian-task-progress-bar",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-textgenerator-plugin",
+  "copilot"
 ]
