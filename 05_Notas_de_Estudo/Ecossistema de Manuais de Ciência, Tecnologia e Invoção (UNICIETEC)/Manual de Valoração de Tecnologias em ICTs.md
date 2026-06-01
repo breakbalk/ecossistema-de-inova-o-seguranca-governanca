@@ -2,7 +2,7 @@
 
 **Fonte Bruta:**
 
-- **Arquivo Original:** [[Guias-de-Orientações-sobre-Instrumentos-do-Marco-Legal-de-CTI-Prestacao-de-Servicos-Tecnicos-Especializados-por-ICTs-Publicas_com-Prefacio_A4_Fortec_rev-MCTI.pdf]]
+- **Arquivo Original:** [[Guias-de-Orientações-sobre-Instrumentos-do-Marco-Legal-de-CTI-Prestacao-de-Servicos-Tecnicos-Especializados-por-ICTs-Publicas_com-Prefacio_A4_Fortec_rev-MCTI.pdf]] e [[guia_de_orientacoes_sobre_instrumentos_marco_legal_cti_mcti.pdf]]
     
 
 - **Status:** Constitui um manual orientador e metodológico de referência nacional, elaborado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) em cooperação com o Fórum Nacional de Gestores de Inovação e Transferência de Tecnologia (FORTEC). O documento consolida diretrizes práticas, modelos matemáticos e critérios de governança para que Núcleos de Inovação Tecnológica (NITs) e gestores avaliem o valor econômico e estratégico de ativos de propriedade intelectual antes de negociações de transferência de tecnologia.

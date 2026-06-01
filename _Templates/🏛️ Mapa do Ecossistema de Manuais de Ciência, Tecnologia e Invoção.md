@@ -36,7 +36,7 @@
     
 - **[[Manual de Gestão da Inovação na Administração Pública]] (ENAP/MCTI):** Guia de governança focado em desburocratizar fluxos internos e aplicar o Marco Legal de CT&I na gestão administrativa e jurídica de fundações de apoio e ICTs.
     
-- **Diretrizes de Vitrines Tecnológicas e Prospecção (MCTI):** Manual com técnicas de inteligência competitiva e ferramentas para mapear patentes e expor o portfólio tecnológico do NIT para empresas.
+- **[[Diretrizes de Vitrines Tecnológicas e Prospecção]] (MCTI):** Manual com técnicas de inteligência competitiva e ferramentas para mapear patentes e expor o portfólio tecnológico do NIT para empresas.
     
 
 #### *Manuais para Prototipação e Cultura Maker (FabLab)*
