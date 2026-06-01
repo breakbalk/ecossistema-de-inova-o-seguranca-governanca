@@ -91,4 +91,6 @@ Os Núcleos de Inovação Tecnológica (NITs), cujas nomenclaturas podem variar 
 - **[[Lei 9279-1996]] (Lei da Propriedade Industrial — LPI):** Conecta-se diretamente através do Art. 211, que define a competência do INPI para registrar os contratos que impliquem transferência de tecnologia e franquia para surtirem efeitos perante terceiros.
     
 - **[[Parecer 03-2020-CPCTI-PGF-AGU]] (Advocacia-Geral da União):** Validou juridicamente as minutas contratuais padronizadas, listas de verificação (_checklists_) e interpretações conceituais utilizadas na rotina de transferência das ICTs federais.
+    
+
 ---

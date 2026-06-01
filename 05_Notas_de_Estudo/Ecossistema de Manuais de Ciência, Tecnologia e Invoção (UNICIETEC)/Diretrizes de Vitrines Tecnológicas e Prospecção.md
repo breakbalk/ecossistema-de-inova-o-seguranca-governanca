@@ -3,7 +3,7 @@
 
 **Fonte Bruta:**
 
-- **Arquivo Original:** [[Lei 13.243_2016.pdf]] e [[Decreto 9.283_2018.pdf]]
+- **Base Legal:** Portfólio de Resoluções FORMICT (MCTI), Manuais Operacionais do PNIPE/MCTI e Cadernos de Prospecção Tecnológica (INPI/FORTEC).
     
 
 - **Status:** Constitui um guia metodológico e de governança de referência nacional, elaborado pela Secretaria de Desenvolvimento Tecnológico e Inovação do Ministério da Ciência, Tecnologia e Inovação (MCTI). O documento funciona como um manual de orientação prática e jurídica voltado a gestores de Núcleos de Inovação Tecnológica (NITs), pesquisadores, diretores de ICTs e parceiros industriais, com o objetivo de padronizar a exposição de ativos de propriedade intelectual, otimizar a inteligência competitiva e acelerar os processos de transferência de tecnologia para o setor produtivo.
@@ -65,7 +65,7 @@ O NIT atua como o gestor e curador dessas plataformas e estratégias, possuindo 
     O guia sugere a automação desses portfólios por meio de sistemas integrados a plataformas nacionais (como o PNIPE/MCTI), garantindo visibilidade unificada da infraestrutura laboratorial e dos ativos da ICT.
     
 
-## 7. Conexões e Desdobramentos
+**Conexões e Desdobramentos:**
 
 - **[[Marco Legal de CT&I - Lei 13243]]:** Fornece o embasamento jurídico para a obrigatoriedade de transparência ativa das ICTs e legitima o compartilhamento de infraestrutura pública com o setor privado.
     
@@ -74,4 +74,8 @@ O NIT atua como o gestor e curador dessas plataformas e estratégias, possuindo 
 - **[[Modelos de Contratos de Licenciamento]]:** Instrumento jurídico definitivo que formaliza a transferência tecnológica dos ativos maduros da vitrine por meio de cláusulas de royalties e metas de desempenho.
     
 - **[[Escala TRL - Teoria e Aplicação]]:** Metodologia de padronização conceitual indispensável para balizar as expectativas de mercado e direcionar o ativo para editais corretos de subvenção ou co-desenvolvimento.
+    
+
+---
+
 

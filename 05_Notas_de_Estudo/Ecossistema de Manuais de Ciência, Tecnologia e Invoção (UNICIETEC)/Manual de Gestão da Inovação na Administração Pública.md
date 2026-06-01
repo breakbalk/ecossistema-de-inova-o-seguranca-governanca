@@ -66,7 +66,8 @@ Para estruturar um ecossistema interno desburocratizado e seguro, o manual prop�
 
 A 1º Passo: Mapeamento de Gargalos e Burocracias nos Fluxos Atuais --> B2º Passo: Alinhamento Estratégico com Procuradoria Jurídica e Auditoria B --> C 3º Passo: Instituição de Minutas e Pareceres Referenciais para CT&I C --> D 4º Passo: Regulamentação da Relação com a Fundação de Apoio e NIT D --> E 5º Passo: Capacitação Contínua dos Gestores e Foco em Resultados E --> F 6º Passo: Monitoramento e Auditoria Baseada em Marcos Finalísticos
 
-### Conexões e Desdobramentos:
+---
+**Conexões e Desdobramentos:**
 
 - **Constituição Federal de 1988 (Art. 37 e Art. 218 a 219-B):** Alinha o princípio da eficiência administrativa com o dever estatal de incentivar a inovação, a pesquisa científica e a extensão tecnológica.
     
@@ -77,3 +78,6 @@ A 1º Passo: Mapeamento de Gargalos e Burocracias nos Fluxos Atuais --> B2º Pas
 - **[[Decreto 9283-2018]]:** Fornece a base procedimental detalhada para a simplificação das prestações de contas e descentralização de recursos geridos pelas Fundações de Apoio.
     
 - **Acórdãos de Referência do TCU (Tribunal de Contas da União):** Jurisprudência que fundamenta as orientações do manual, chancelando a interpretação pró-inovação e validando o risco tecnológico assumido pelo gestor público de boa-fé.
+    
+
+---

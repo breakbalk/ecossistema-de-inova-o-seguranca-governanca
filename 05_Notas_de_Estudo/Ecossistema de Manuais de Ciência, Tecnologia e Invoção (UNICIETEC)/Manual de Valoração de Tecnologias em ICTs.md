@@ -90,7 +90,9 @@ A valoração orienta a formatação do modelo de negócios a ser inserido nos c
 
 Para executar a valoração de forma sistemática, o guia sugere a seguinte sequência de ações:
 A 1º Passo: Caracterização Técnica e Avaliação do TRL --> B2º Passo: Análise da Propriedade Intelectual e FTO B --> C 3º Passo: Inteligência de Mercado e Mapeamento de Concorrentes C --> D 4º Passo: Seleção e Aplicação dos Métodos Renda/Custo/Mercado D --> E 5º Passo: Ajuste por Matriz de Riscos e Definição de Cenários E --> F 6º Passo: Emissão do Relatório de Valoração para Subsidiar o Contrato
-### Conexões e Desdobramentos:
+
+---
+**Conexões e Desdobramentos:**
 
 - **[[Lei 10973-2004]]:** Regulamenta a transferência de tecnologia por ICTs e exige a transparência nos critérios de remuneração institucional e partilha de ganhos com pesquisadores.
     
@@ -101,3 +103,6 @@ A 1º Passo: Caracterização Técnica e Avaliação do TRL --> B2º Passo: Aná
 - **Pareceres Referenciais da Advocacia-Geral da União (AGU):** Orientam os limites de atuação dos NITs públicos na concessão de descontos e flexibilização de cláusulas contratuais em prol da introdução da inovação no mercado.
     
 - **Normas Internacionais de Avaliação de Ativos (IVSC - International Valuation Standards Council):** Conjunto de práticas globais que fundamentam as equações financeiras de ativos intangíveis empregadas na abordagem da renda.
+    
+
+---

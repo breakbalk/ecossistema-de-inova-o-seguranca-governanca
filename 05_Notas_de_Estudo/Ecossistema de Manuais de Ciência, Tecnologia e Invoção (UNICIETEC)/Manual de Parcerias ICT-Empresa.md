@@ -100,4 +100,6 @@ O guia organiza o processo de interação universidade-empresa dividindo as suge
 - **[[Manual de Redação de Patentes (INPI)]]:** Conecta-se às recomendações de uso de inteligência tecnológica através de buscas de anterioridade em bases de patentes para a definição de desafios e caminhos de inovação mais assertivos.
     
 - **[[Guia de Orientação sobre Contratos de Transferência de Tecnologia (MCTI)]]:** Suplementa a visão contratual da AGU/MCTI, convertendo as obrigações e possibilidades jurídicas formais em atitudes e comportamentos práticos para o ambiente corporativo e acadêmico.
+    
+
 ---
