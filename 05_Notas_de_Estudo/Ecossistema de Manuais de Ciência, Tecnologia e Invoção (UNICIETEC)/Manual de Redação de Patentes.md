@@ -1,6 +1,11 @@
-## 📌 Visão Geral do Manual
+# (Manual de Redação de Patentes (INPI))
 
-Este documento constitui um resumo estruturado do **Manual Básico para Proteção por Patentes de Invenções, Modelos de Utilidade e Certificados de Adição** (versão jul-21) do Ministério da Economia e do INPI. Ele consolida normas, resoluções e procedimentos práticos para depositantes.
+📁 **1. Fonte Bruta**
+
+- **Base Legal:** [[ManualdePatentes20210706.pdf]]
+    
+    
+- **Status:** Constitui um resumo estruturado do **Manual Básico para Proteção por Patentes de Invenções, Modelos de Utilidade e Certificados de Adição** (versão jul-21) do Ministério da Economia e do INPI. Ele consolida normas, resoluções e procedimentos práticos para depositantes.
 
 ## 🏛️ 1. Conceitos Fundamentais e Base Legal
 
@@ -121,15 +126,24 @@ Antes de redigir ou realizar o depósito, a realização de uma busca prévia no
 
 Para obter a concessão de forma ágil, o INPI sugere o seguinte fluxo lógico de ações:
 
-Snippet de código
-
-```
 graph TD
     A[1º Passo: Leitura atenta da Legislação & LPI] --> B[2º Passo: Efetuar busca no banco de patentes]
     B --> C[3º Passo: Redigir o documento técnico]
     C --> D[4º Passo: Efetuar o depósito eletrônico no e-INPI]
     D --> E[5º Passo: Acompanhar o processo via RPI]
     E --> F[6º Passo: Solicitar proteção no exterior via PCT]
-```
 
 (Nota: O acompanhamento do processo é feito por meio da Revista da Propriedade Industrial - RPI, publicada semanalmente às terças-feiras).
+
+---
+
+**Conexões e Desdobramentos:**
+
+- **[[Lei nº 9.279/1996 (Lei da Propriedade Industrial — LPI):** É o principal marco regulatório utilizado em todo o manual, que dita o que pode ou não ser patenteado (como as exclusões do Art. 10), além dos prazos e condições de exploração.ética é o fundamento para que a "Inovação" cumpra seu papel social e nacional.
+    
+- **[[ISO-IEC 42001]]**: A Portaria 2.664 é a aplicação prática da governança de IA no campo da pesquisa acadêmica.
+    
+- **[[NIT]]**: Atuam como a primeira linha de defesa, orientando pesquisadores sobre conformidade ética antes do depósito de patentes.
+    
+- **[[Soberania Tecnológica]]:** A produção de uma ciência íntegra e auditável é o que confere ao Brasil autoridade e soberania no debate científico mundial.
+---
