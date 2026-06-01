@@ -32,7 +32,7 @@
     
 - **[[Manual de Parcerias ICT-Empresa]] (MCTI/CGIT):** Diretrizes para a redação de acordos de cooperação em P&D, regulando a divisão de propriedade intelectual e a partilha de ganhos econômicos (royalties).
     
-- **Guia de Valoração de Tecnologias em ICTs (FORTEC/MCTI):** Metodologias práticas (focadas em abordagens de custo, mercado e renda) para calcular o valor financeiro de uma patente ou _know-how_ antes da negociação com o mercado.
+- **[[Manual de Valoração de Tecnologias em ICTs]] (FORTEC/MCTI):** Metodologias práticas (focadas em abordagens de custo, mercado e renda) para calcular o valor financeiro de uma patente ou _know-how_ antes da negociação com o mercado.
     
 - **Manual de Gestão da Inovação na Administração Pública (ENAP/MCTI):** Guia de governança focado em desburocratizar fluxos internos e aplicar o Marco Legal de CT&I na gestão administrativa e jurídica de fundações de apoio e ICTs.
     
