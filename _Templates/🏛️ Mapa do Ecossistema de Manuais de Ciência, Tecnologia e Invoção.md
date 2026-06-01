@@ -34,7 +34,7 @@
     
 - **[[Manual de Valoração de Tecnologias em ICTs]] (FORTEC/MCTI):** Metodologias práticas (focadas em abordagens de custo, mercado e renda) para calcular o valor financeiro de uma patente ou _know-how_ antes da negociação com o mercado.
     
-- **Manual de Gestão da Inovação na Administração Pública (ENAP/MCTI):** Guia de governança focado em desburocratizar fluxos internos e aplicar o Marco Legal de CT&I na gestão administrativa e jurídica de fundações de apoio e ICTs.
+- **[[Manual de Gestão da Inovação na Administração Pública]] (ENAP/MCTI):** Guia de governança focado em desburocratizar fluxos internos e aplicar o Marco Legal de CT&I na gestão administrativa e jurídica de fundações de apoio e ICTs.
     
 - **Diretrizes de Vitrines Tecnológicas e Prospecção (MCTI):** Manual com técnicas de inteligência competitiva e ferramentas para mapear patentes e expor o portfólio tecnológico do NIT para empresas.
     
