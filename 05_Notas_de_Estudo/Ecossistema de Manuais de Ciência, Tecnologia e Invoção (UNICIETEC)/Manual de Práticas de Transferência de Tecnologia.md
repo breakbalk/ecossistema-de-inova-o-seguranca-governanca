@@ -1,4 +1,4 @@
-# (Manual de Práticas de Transferência de Tecnologia (FORTEC e MCTI))
+# (Práticas de Transferência de Tecnologia (FORTEC e MCTI))
 
 **Fonte Bruta:**
 

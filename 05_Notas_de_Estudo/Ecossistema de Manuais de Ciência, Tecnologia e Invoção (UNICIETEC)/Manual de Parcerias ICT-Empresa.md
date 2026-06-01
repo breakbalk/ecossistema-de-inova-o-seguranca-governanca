@@ -1,4 +1,4 @@
-# ( Manual de Parcerias ICT-Empresa (MCTI/CGIT))
+# (Parcerias ICT-Empresa (MCTI/CGIT))
 
 **Fonte Bruta:**
 
