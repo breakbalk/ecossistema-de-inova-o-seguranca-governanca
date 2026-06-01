@@ -1,4 +1,4 @@
-# (Guia de Valoração de Tecnologias em ICTs (FORTEC/MCTI))
+# (Valoração de Tecnologias em ICTs (FORTEC/MCTI))
 
 **Fonte Bruta:**
 

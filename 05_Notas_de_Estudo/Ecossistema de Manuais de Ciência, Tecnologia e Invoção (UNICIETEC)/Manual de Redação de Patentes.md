@@ -1,4 +1,4 @@
-# (Manual de Redação de Patentes (INPI))
+# (Redação de Patentes (INPI))
 
 **Fonte Bruta:**
 
