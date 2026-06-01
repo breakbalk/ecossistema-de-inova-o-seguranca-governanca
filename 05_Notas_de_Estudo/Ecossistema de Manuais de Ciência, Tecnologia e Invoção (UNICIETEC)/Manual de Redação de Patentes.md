@@ -140,5 +140,28 @@ graph TD
 
 **Conexões e Desdobramentos:**
 
+- - **[[Constituição Federal de 1988]] (Art. 5º, XXIX):** Garante a proteção às invenções industriais e aos privilégios temporários para sua utilização.
+    
+   
 - **[[Lei 9279-1996]] (Lei da Propriedade Industrial — LPI):** É o principal marco regulatório utilizado em todo o manual, que dita o que pode ou não ser patenteado (como as exclusões do Art. 10), além dos prazos e condições de exploração.
+    
+   
+- **[[Convenção da União de Paris]] (CUP):** Tratado internacional basilar para a proteção da propriedade industrial global adotado nos procedimentos do manual.
+    
+    PDF
+    
+- **[[Acordo TRIPS]]:** Regulamento internacional sob a égide da OMC que baliza as diretrizes de propriedade intelectual descritas.
+    
+    PDF
+    
+- **[[Tratado de Cooperação em Matéria de Patentes]] (PCT):** Sistema internacional integrado ao manual que simplifica o processo de solicitação de proteção em múltiplos países.
+    
+    PDF
+    
+- **[[Classificação Internacional de Patentes]] (IPC):** Sistema de organização hierárquica por seções (A a H) utilizado para indexação e estratégias de busca avançada.
+    
+    PDF
+    
+
+O que gostaria de estruturar agora?
 ---
