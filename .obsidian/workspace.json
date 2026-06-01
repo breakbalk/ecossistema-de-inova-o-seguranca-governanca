@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Constitui um guia metodológico e de governança de referência nacional, elaborado pela Escola Nacional de Administração Pública (ENAP) em parceria com o Ministério da Ciência, Tecnologia e Inovação (MCTI). O documento funciona como um manual de orientação prática e jurídica voltado a gestores públicos, servidores de órgãos de controle, diretores de ICTs e gestores de Fundações de Apoio, com o objetivo de desburocratizar fluxos, mitigar o receio burocrático e viabilizar a aplicação segura dos instrumentos do Marco Legal de CT&I na administração pública.\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,8 +216,10 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "040560e970aae644",
+  "active": "8b864e4be9cba43b",
   "lastOpenFiles": [
+    "04_MANUAIS_UNICIETEC/guia_de_caracterizacao_de_entidade_como_ict_mcti.pdf",
+    "04_MANUAIS_UNICIETEC/Não confirmado 630212.crdownload",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
@@ -248,14 +249,12 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei nº 9.279/1996.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei nº 9.279",
     "04_MANUAIS_UNICIETEC/MANUAL-DE-REDAÇÃO-DE-PATENTES-VERSÃO-site-1.pdf",
-    "04_MANUAIS_UNICIETEC/Não confirmado 204371.crdownload",
     "_Templates/Modelo de Lei.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FINEP.md",
     "02_RESUMOS_DOCx/Inovação no Brasil.md",
     "Sem título.canvas",
     "02_RESUMOS_DOCx/Decreto 9283.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Soberania Tecnológica.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Soberania Nacional.md",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
     "03_Mapas_Mentais/Lei 10.973 2004.png",

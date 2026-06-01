@@ -1,4 +1,4 @@
-# (Gestão da Inovação na Administração Pública]] (ENAP/MCTI))
+# (Gestão da Inovação na Administração Pública (ENAP/MCTI))
 
 **Fonte Bruta:**
 
