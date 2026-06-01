@@ -56,54 +56,6 @@
             }
           },
           {
-            "id": "2698c2eff76e4828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Manual de Redação de Patentes"
-            }
-          },
-          {
-            "id": "42fd355c6272bdf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
-            }
-          },
-          {
             "id": "5e68c54d7c894b60",
             "type": "leaf",
             "state": {
@@ -128,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -317,10 +269,14 @@
   "lastOpenFiles": [
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Constituição Federal de 1988.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 10973-2004.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 13243-2016.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Decreto 9283-2018.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 9279-1996.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/CONTRATOS-DE-TRANSFERENCIA-DE-TECNOLOGIA_com-Prefacio_A4_Fortec_rev-MCTI.pdf",
+    "04_MANUAIS_UNICIETEC/ManualdePatentes20210706.pdf",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Constituição Federal de 1988.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/Não confirmado 147649.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ISO-IEC 42001.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/NIT.md",
@@ -329,7 +285,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/CNPq2664-2026.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Ambientes de Inovação.md",
     "04_MANUAIS_UNICIETEC/MANUAL-DE-REDAÇÃO-DE-PATENTES-VERSÃO-site-1.pdf",
-    "04_MANUAIS_UNICIETEC/ManualdePatentes20210706.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 204371.crdownload",
     "04_MANUAIS_UNICIETEC/Não confirmado 979017.crdownload",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
@@ -355,9 +310,6 @@
     "03_Mapas_Mentais/ISO-IEC 27001-2022.png",
     "03_Mapas_Mentais/ISO-IEC 27000-2018.png",
     "02_RESUMOS_DOCx/CNPq 2664.md",
-    "Excalidraw/Drawing 2026-05-26 11.46.50_0.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-26 11.46.50.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-26 11.44.42.excalidraw.md",
     "03_Mapas_Mentais/CNPq 2664-2026.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
