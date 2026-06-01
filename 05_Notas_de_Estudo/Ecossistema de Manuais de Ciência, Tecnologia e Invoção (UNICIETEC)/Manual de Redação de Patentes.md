@@ -2,7 +2,7 @@
 
 **Fonte Bruta:**
 
-- **Base Legal:** [[ManualdePatentes20210706.pdf]]
+- **Arquivo Original:** [[ManualdePatentes20210706.pdf]]
     
 
 - **Status:** Constitui um resumo estruturado do **Manual Básico para Proteção por Patentes de Invenções, Modelos de Utilidade e Certificados de Adição** (versão jul-21) do Ministério da Economia e do INPI. Ele consolida normas, resoluções e procedimentos práticos para depositantes.
@@ -147,7 +147,7 @@ graph TD
    
 - **[[Convenção da União de Paris]] (CUP):** Tratado internacional basilar para a proteção da propriedade industrial global adotado nos procedimentos do manual.
     
-
+    
 - **[[Acordo TRIPS]]:** Regulamento internacional sob a égide da OMC que baliza as diretrizes de propriedade intelectual descritas.
     
 

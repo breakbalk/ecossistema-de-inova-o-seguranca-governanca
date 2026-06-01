@@ -2,7 +2,7 @@
 
 **Fonte Bruta:**
 
-- **Base Legal:** [[CONTRATOS-DE-TRANSFERENCIA-DE-TECNOLOGIA_com-Prefacio_A4_Fortec_rev-MCTI.pdf]]
+- **Arquivo Original:** [[CONTRATOS-DE-TRANSFERENCIA-DE-TECNOLOGIA_com-Prefacio_A4_Fortec_rev-MCTI.pdf]]
     
 
 - **Status:** Constitui um resumo estruturado do Guia de Orientação sobre Contratos de Transferência de Tecnologia nos termos do Marco Legal de Ciência, Tecnologia e Inovação (versão jun-23), publicado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) em parceria com o Fórum Nacional de Gestores de Inovação e Transferência de Tecnologia (Fortec). Ele consolida diretrizes legais, boas práticas e procedimentos práticos para Núcleos de Inovação Tecnológica (NITs) e o setor produtivo.

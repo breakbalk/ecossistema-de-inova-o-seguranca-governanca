@@ -1,8 +1,8 @@
-# (Manual de Parcerias ICT-Empresa (MCTI/CGIT))
+# ( Manual de Parcerias ICT-Empresa (MCTI/CGIT))
 
 **Fonte Bruta:**
 
-- **Base Legal:** [[ICC_Guia-Melhores-Praticas-na-Colaboracao-ICT-Empresas.pdf]]
+- **Arquivo Original:** [[ICC_Guia-Melhores-Praticas-na-Colaboracao-ICT-Empresas.pdf]]
     
 
 - **Status:** Constitui um resumo estruturado do _Guia de Melhores Práticas nas Colaborações ICT-Empresa_, idealizado pela Comissão de Propriedade Intelectual da **ICC Brasil** (_International Chamber of Commerce_). O documento compila dados de 22 entrevistas estruturadas (realizadas em 2019 e início de 2020) para mapear gargalos e propor ações que dinamizem a transferência de tecnologia e a PD&I no cenário brasileiro.
@@ -12,14 +12,26 @@
 Apesar do forte potencial econômico e da reconhecida qualidade técnica da produção científica nacional (especialmente em saúde e ciências agrícolas), o Brasil historicamente ocupa posições abaixo do esperado nos rankings globais de inovação (como a 66ª posição no _Global Innovation Index_ em 2019).
 
 Para reverter esse quadro, o país implementou reformas estruturais modernas (como a Lei de Inovação nº 10.973/04, a Lei nº 13.243/16 e o Decreto nº 9.283/18). No entanto, a cooperação entre as Instituições Científicas e Tecnológicas (ICTs) e o setor empresarial ainda enfrenta barreiras estruturais e não ocorre de forma natural, exigindo o alinhamento de dois ecossistemas com culturas e tempos distintos.
+    
 
 ## 🔬 2. Os Dois Eixos das Melhores Práticas (Macrofluxo)
 
 O guia organiza o processo de interação universidade-empresa dividindo as sugestões de atuação em dois eixos principais:
 
-```
+[ FATORES INSTITUCIONAIS ]
+(Próprios da preparação de cada ator)
+- Missão, Propósito e Liderança
+    
+- - Mapeamento e Seleção de Parceiros
 
-```
+[ FATORES RELACIONAIS ]
+(A serem observados na interação conjunta)
+- Formação da Parceria e Negociação
+    
+- Estruturação e Operacionalização
+    
+- Resultados Técnicos e Manutenção
+    
 
 ## 🏢 3. Fatores Institucionais (Preliminares à Parceria)
 
@@ -79,6 +91,7 @@ O guia organiza o processo de interação universidade-empresa dividindo as suge
         
     - Conhecimento efetivamente transferido para a sociedade.
         
+---
 
 **Conexões e Desdobramentos:**
 
@@ -87,3 +100,4 @@ O guia organiza o processo de interação universidade-empresa dividindo as suge
 - **[[Manual de Redação de Patentes (INPI)]]:** Conecta-se às recomendações de uso de inteligência tecnológica através de buscas de anterioridade em bases de patentes para a definição de desafios e caminhos de inovação mais assertivos.
     
 - **[[Guia de Orientação sobre Contratos de Transferência de Tecnologia (MCTI)]]:** Suplementa a visão contratual da AGU/MCTI, convertendo as obrigações e possibilidades jurídicas formais em atitudes e comportamentos práticos para o ambiente corporativo e acadêmico.
+---
