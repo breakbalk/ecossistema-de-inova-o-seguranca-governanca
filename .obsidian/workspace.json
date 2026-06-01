@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
             }
+          },
+          {
+            "id": "99a1a1d0b2a80c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Manual de Parcerias ICT-Empresa"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,19 +289,22 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "5e68c54d7c894b60",
+  "active": "99a1a1d0b2a80c9a",
   "lastOpenFiles": [
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
+    "04_MANUAIS_UNICIETEC/ICC_Guia-Melhores-Praticas-na-Colaboracao-ICT-Empresas.pdf",
+    "04_MANUAIS_UNICIETEC/Não confirmado 791627.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 10973-2004.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 9279-1996.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Ambientes de Inovação.md",
     "04_MANUAIS_UNICIETEC/ManualdePatentes20210706.pdf",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Decreto 9283-2018.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 13243-2016.md",
     "04_MANUAIS_UNICIETEC/CONTRATOS-DE-TRANSFERENCIA-DE-TECNOLOGIA_com-Prefacio_A4_Fortec_rev-MCTI.pdf",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Constituição Federal de 1988.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/Não confirmado 147649.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ISO-IEC 42001.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/NIT.md",
@@ -291,8 +318,6 @@
     "_Templates/Modelo de Lei.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Emenda Constitucional 85-2015.md",
     "04_MANUAIS_UNICIETEC",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FINEP.md",
     "02_RESUMOS_DOCx/Inovação no Brasil.md",
     "Sem título.canvas",

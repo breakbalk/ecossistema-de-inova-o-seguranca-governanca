@@ -30,7 +30,7 @@
     
 - **[[Manual de Práticas de Transferência de Tecnologia]]**: Manual metodológico focado na negociação de contratos de licenciamento, cessão de direitos e valoração de ativos intangíveis da universidade.
     
-- **Manual de Parcerias ICT-Empresa (MCTI/CGIT):** Diretrizes para a redação de acordos de cooperação em P&D, regulando a divisão de propriedade intelectual e a partilha de ganhos econômicos (royalties).
+- **[[Manual de Parcerias ICT-Empresa]] (MCTI/CGIT):** Diretrizes para a redação de acordos de cooperação em P&D, regulando a divisão de propriedade intelectual e a partilha de ganhos econômicos (royalties).
     
 - **Guia de Valoração de Tecnologias em ICTs (FORTEC/MCTI):** Metodologias práticas (focadas em abordagens de custo, mercado e renda) para calcular o valor financeiro de uma patente ou _know-how_ antes da negociação com o mercado.
     
