@@ -26,7 +26,7 @@
     
 ### *Manuais de Gestão e Operação para o NIT (MCTI, INPI e FORTEC)*
 
-- **Manual de Redação de Patentes (INPI):** Guia prático obrigatório para o NIT orientar pesquisadores na estruturação, escrita de relatórios descritivos e elaboração de quadros reivindicatórios de patentes.
+- **[[Manual de Redação de Patentes (INPI)]]:** Guia prático obrigatório para o NIT orientar pesquisadores na estruturação, escrita de relatórios descritivos e elaboração de quadros reivindicatórios de patentes.
     
 - **Guia de Práticas de Transferência de Tecnologia (FORTEC):** Manual metodológico focado na negociação de contratos de licenciamento, cessão de direitos e valoração de ativos intangíveis da universidade.
     

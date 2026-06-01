@@ -6,7 +6,6 @@
       {
         "id": "228f23e9e730bdec",
         "type": "tabs",
-        "dimension": 74.93734335839599,
         "children": [
           {
             "id": "acee82af7c050eb8",
@@ -38,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Modelo de Lei.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,55 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Modelo de Lei"
+              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+            }
+          },
+          {
+            "id": "2698c2eff76e4828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes (INPI).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Manual de Redação de Patentes (INPI)"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "01dfc8d2a4a580c0",
-        "type": "tabs",
-        "dimension": 25.062656641604008,
-        "children": [
-          {
-            "id": "9fb0285dcabd0e19",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "_Templates/Modelo de Lei.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6783170789156933,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de Modelo de Lei"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,14 +261,18 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "7a117a62f161e9e2",
+  "active": "8b864e4be9cba43b",
   "lastOpenFiles": [
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes (INPI).md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "04_MANUAIS_UNICIETEC/MANUAL-DE-REDAÇÃO-DE-PATENTES-VERSÃO-site-1.pdf",
+    "04_MANUAIS_UNICIETEC/Não confirmado 979017.crdownload",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "_Templates/Modelo de Lei.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Emenda Constitucional 85-2015.md",
     "04_MANUAIS_UNICIETEC",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Ambientes de Inovação.md",
@@ -327,8 +310,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ETEC.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FNDCT.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FORMICT.md",
-    "01_Fontes_Brutas/ISO_IEC_27002.pdf",
-    "01_Fontes_Brutas/Não confirmado 832744.crdownload",
     "03_Mapas_Mentais/CNPq 2664-2026.png",
     "03_Mapas_Mentais/ISO-IEC 27001-2022 - Imagem Fixa.png",
     "Pasted image 20260513135730.png",
