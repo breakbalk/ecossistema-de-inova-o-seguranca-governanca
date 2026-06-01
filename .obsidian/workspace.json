@@ -55,8 +55,7 @@
               "title": "Manual de Redação de Patentes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,11 +240,13 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "99a1a1d0b2a80c9a",
+  "active": "5e68c54d7c894b60",
   "lastOpenFiles": [
+    "04_MANUAIS_UNICIETEC/Guias-de-Orientações-sobre-Instrumentos-do-Marco-Legal-de-CTI-Prestacao-de-Servicos-Tecnicos-Especializados-por-ICTs-Publicas_com-Prefacio_A4_Fortec_rev-MCTI.pdf",
+    "04_MANUAIS_UNICIETEC/Não confirmado 216326.crdownload",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/CNPq2664-2026.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ENCTI 2024-2034.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ETEC.md",
@@ -271,7 +272,6 @@
     "04_MANUAIS_UNICIETEC/Não confirmado 979017.crdownload",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "_Templates/Modelo de Lei.md",
-    "04_MANUAIS_UNICIETEC",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FINEP.md",
     "02_RESUMOS_DOCx/Inovação no Brasil.md",
     "Sem título.canvas",
@@ -279,7 +279,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Soberania Tecnológica.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Soberania Nacional.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Risco Tecnológico.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ISO-IEC 27002-2022.md",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
     "03_Mapas_Mentais/Lei 10.973 2004.png",
