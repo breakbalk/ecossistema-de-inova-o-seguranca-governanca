@@ -28,7 +28,7 @@
 
 - **[[Manual de Redação de Patentes]]:** Guia prático obrigatório para o NIT orientar pesquisadores na estruturação, escrita de relatórios descritivos e elaboração de quadros reivindicatórios de patentes.
     
-- **Guia de Práticas de Transferência de Tecnologia (FORTEC):** Manual metodológico focado na negociação de contratos de licenciamento, cessão de direitos e valoração de ativos intangíveis da universidade.
+- **[[Manual de Práticas de Transferência de Tecnologia]]**: Manual metodológico focado na negociação de contratos de licenciamento, cessão de direitos e valoração de ativos intangíveis da universidade.
     
 - **Manual de Parcerias ICT-Empresa (MCTI/CGIT):** Diretrizes para a redação de acordos de cooperação em P&D, regulando a divisão de propriedade intelectual e a partilha de ganhos econômicos (royalties).
     
