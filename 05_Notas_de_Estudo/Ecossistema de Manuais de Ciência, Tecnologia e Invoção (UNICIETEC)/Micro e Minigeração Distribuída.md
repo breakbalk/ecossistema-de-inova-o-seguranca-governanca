@@ -130,13 +130,15 @@ Para quem solicitou acesso após o prazo de 12 meses da lei, iniciou-se uma cobr
 
 **Conexões e Desdobramentos**
 
-- **Impacto no Payback de Novos Projetos:** Com o escalonamento do Fio B atingindo **60% em 2026**, novos entrantes (GD 2) experimentam um tempo de retorno do investimento ligeiramente maior se comparado aos pioneiros da GD 1. Isso exige dimensionamentos de engenharia mais precisos e foco em eficiência energética complementar.
+- **[[Lei 14300-2022]] (Marco Legal da GD):** Regulamenta o regime de transição tarifária (Fio B), veda a comercialização de pareceres de acesso e impõe exigências estritas de garantias financeiras de fiel cumprimento para grandes usinas.
     
-- **Abertura do Mercado Livre (Ambiente de Contratação Livre - ACL):** A evolução da GD caminha em paralelo com a abertura do mercado livre de energia para a alta e média tensão (Grupo A). Consumidores que migram para o ACL precisam avaliar as regras de transição e a compatibilidade de manutenção de seus créditos acumulados no SCEE.
+- **Resolução Normativa ANEEL nº 1.000/2021:** Estabelece as Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, consolidando os prazos máximos de vistoria, emissão de pareceres e conexão física que resguardam o direito do consumidor-gerador.
     
-- **Armazenamento de Energia (Baterias):** O encarecimento gradual do uso da rede injetada (pelo aumento do custo do Fio B até 2028) impulsiona o desdobramento tecnológico de sistemas híbridos com baterias. O armazenamento local começa a se tornar financeiramente atrativo para evitar a injeção na rede nos horários em que os encargos pesam mais.
+- **Diretrizes do Ambiente de Contratação Livre (ACL / Mercado Livre):** Parâmetros regulatórios que gerenciam a transição ou coexistência de créditos da GD para consumidores do Grupo A que optam pela migração tarifária para o mercado aberto de energia.
     
-- **Segurança Jurídica e Fiscalização:** A proibição expressa de divisão de usinas e da comercialização de pareceres de acesso endureceu a fiscalização por parte das distribuidoras. Projetos estruturados sob a modalidade de Geração Compartilhada (consórcios e cooperativas) demandam governança jurídica estrita para evitar passivos e contestações pelas concessionárias.
+- **Notas Técnicas e Pareceres da Procuradoria Federal junto à ANEEL (PF-ANEEL):** Orientam os limites de atuação e fiscalização das concessionárias de distribuição, coibindo práticas abusivas na reprovação de vistorias ou na recusa de conexão de projetos regulares.
+    
+- **Padrões de Conectividade do Operador Nacional do Sistema Elétrico (ONS):** Critérios e requisitos de estabilidade eletromecânica e proteção de rede exigidos para usinas de minigeração distribuída integradas em barramentos de média tensão que possam impactar o Sistema Interligado Nacional (SIN).
     
 
 ---
