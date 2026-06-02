@@ -50,7 +50,7 @@
 
 - **Manual de Engenharia para Sistemas Fotovoltaicos (MME/EPE):** Referência nacional para o dimensionamento, ensaios de eficiência e conformidade técnica de arranjos solares conectados à rede (On-Grid) e isolados (Off-Grid).
     
-- **Caderno de Micro e Minigeração Distribuída (ANEEL):** Manual regulatório indispensável para o laboratório entender as regras de compensação de energia, conexão e normas técnicas de segurança elétrica vigentes no Brasil.
+- **Caderno de [[Micro e Minigeração Distribuída]] (ANEEL):** Manual regulatório indispensável para o laboratório entender as regras de compensação de energia, conexão e normas técnicas de segurança elétrica vigentes no Brasil.
     
 
 #### *Manuais de Governança Avançada e Integração (CORE)*

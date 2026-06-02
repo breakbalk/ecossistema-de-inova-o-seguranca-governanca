@@ -55,9 +55,33 @@
               "icon": "lucide-file",
               "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
             }
+          },
+          {
+            "id": "2b337ff526610ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Micro e Minigeração Distribuída.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Micro e Minigeração Distribuída"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,8 +267,14 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "8b864e4be9cba43b",
+  "active": "2b337ff526610ecc",
   "lastOpenFiles": [
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual Fab Lab.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Micro e Minigeração Distribuída.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "04_MANUAIS_UNICIETEC/Lei n 14.300-2022.pdf",
+    "04_MANUAIS_UNICIETEC/Cadernos-Temáticos-ANEEL-Micro-e-Mini-Geração-Distribuída-1.pdf",
+    "04_MANUAIS_UNICIETEC/Não confirmado 26762.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Design para Manufatura Aditiva.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Diretrizes de Vitrines Tecnológicas e Prospecção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Identidade e Prática das ICTs.md",
@@ -253,8 +283,6 @@
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual Fab Lab.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/Materiais Avancados.pdf",
     "04_MANUAIS_UNICIETEC/Document 11.pdf",
     "04_MANUAIS_UNICIETEC/Cartilha-Plano-de-CTI_WEB.pdf",
@@ -262,9 +290,6 @@
     "04_MANUAIS_UNICIETEC/ICC_Guia-Melhores-Praticas-na-Colaboracao-ICT-Empresas.pdf",
     "04_MANUAIS_UNICIETEC/FabAcademyHandbook.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 469541.crdownload",
-    "04_MANUAIS_UNICIETEC/Guias-de-Orientações-sobre-Instrumentos-do-Marco-Legal-de-CTI-Prestacao-de-Servicos-Tecnicos-Especializados-por-ICTs-Publicas_com-Prefacio_A4_Fortec_rev-MCTI.pdf",
-    "04_MANUAIS_UNICIETEC/guia_de_orientacoes_sobre_instrumentos_marco_legal_cti_mcti.pdf",
-    "04_MANUAIS_UNICIETEC/Não confirmado 237411.crdownload",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/CNPq2664-2026.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ENCTI 2024-2034.md",
@@ -280,7 +305,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/NIT.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei nº 9.279/1996.md",
     "_Templates/Modelo de Lei.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FINEP.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
