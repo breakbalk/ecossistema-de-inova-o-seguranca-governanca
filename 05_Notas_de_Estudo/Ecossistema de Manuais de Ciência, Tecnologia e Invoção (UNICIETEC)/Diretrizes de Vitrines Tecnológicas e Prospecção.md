@@ -10,7 +10,7 @@
 ---
 ## 1. Contexto e Fundamentação Legal
 
-As diretrizes para a estruturação de Vitrines Tecnológicas e para as atividades de Prospecção Tecnológica nas Instituições de Ciência e Tecnologia (ICTs) públicas decorrem diretamente do Marco Legal de Ciência, Tecnologia e Inovação (MLCTI) — estabelecido pela Lei nº 10.973/2004 e atualizado pela Lei nº 13.243/2016 —, além de regulamentado pelo Decreto nº 9.283/2018.
+As diretrizes para a estruturação de Vitrines Tecnológicas e para as atividades de Prospecção Tecnológica nas Instituições de Ciência e Tecnologia (ICTs) públicas decorrem diretamente do Marco Legal de Ciência, Tecnologia e Inovação (MLCTI) — estabelecido pela [[Lei 10.973_2004.pdf]] e atualizado pela [[Lei 13.243_2016.pdf]] —, além de regulamentado pelo [[Decreto 9.283_2018.pdf]].
 
 Estas ferramentas funcionam como instrumentos estratégicos para que as instituições cumpram a obrigação legal de dar publicidade e promover a transferência de seus ativos de propriedade intelectual (PI), transformando o conhecimento científico gerado na academia em inovação aplicada no setor produtivo.
 
@@ -67,7 +67,7 @@ O NIT atua como o gestor e curador dessas plataformas e estratégias, possuindo 
 
 **Conexões e Desdobramentos:**
 
-- **[[Marco Legal de CT&I - Lei 13243]]:** Fornece o embasamento jurídico para a obrigatoriedade de transparência ativa das ICTs e legitima o compartilhamento de infraestrutura pública com o setor privado.
+- **[[Lei 13243-2016]]:** Fornece o embasamento jurídico para a obrigatoriedade de transparência ativa das ICTs e legitima o compartilhamento de infraestrutura pública com o setor privado.
     
 - **[[Gestão de Propriedade Intelectual]]:** Etapa que antecede a vitrinação, garantindo que o ativo passe por auditoria de titularidade e depósito regular junto ao INPI antes de sua exposição pública.
     
