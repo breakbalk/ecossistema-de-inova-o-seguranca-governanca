@@ -1,52 +1,34 @@
 # (Manual de Micro e Minigeração Distribuída & SCEE (ANEEL))
 
-**Fonte Bruta:** [[Cadernos-Temáticos-ANEEL-Micro-e-Mini-Geração-Distribuída-1.pdf]] e [[Lei n 14.300-2022.pdf]]
+**Fonte Bruta:** 
 
-- **Arquivo Original:** [[FabAcademyHandbook.pdf]]
+- **Arquivo Original:** [[Cadernos-Temáticos-ANEEL-Micro-e-Mini-Geração-Distribuída-1.pdf]] e [[Lei n 14.300-2022.pdf]]
     
 
-- **Status:**
+- **Status:** Constitui uma nota técnica orientadora e de referência regulatória nacional, fundamentada nas diretrizes do Ministério de Minas e Energia (MME) e da Agência Nacional de Energia Elétrica (ANEEL). O documento consolida balizamentos práticos, fluxogramas de acesso, critérios de compensação financeira e o cronograma de transição tarifária estabelecido pela Lei nº 14.300/2022 (Marco Legal da GD). Destina-se a engenheiros, gestores de energia, consultores e investidores como ferramenta de governança e viabilidade para o desenvolvimento e integração de ativos de micro e minigeração à rede de distribuição nacional.
 
 ## 1. Definições Básicas e Limites de Potência
 
 A geração distribuída caracteriza-se como a produção de energia elétrica para consumo próprio. Ela é dividida em duas categorias com base na potência instalada em corrente alternada e na fonte utilizada:
-
-PDF
-
 - **Microgeração Distribuída:** Central geradora com potência instalada **menor ou igual a 75 kW**, que utilize fontes renováveis ou cogeração qualificada.
     
-    PDF
-    
 - **Minigeração Distribuída:** Central geradora de energia renovável ou cogeração qualificada com potência **maior que 75 kW**. O limite superior é de **até 5 MW** para fontes despacháveis e **até 3 MW** para fontes não despacháveis (limite geral estendido a 5 MW até 31 de dezembro de 2045 para casos específicos da lei).
-    
-    PDF+ 1
     
 
 ## 2. Modalidades de Atendimento e Geração
 
 Os consumidores podem participar do **Sistema de Compensação de Energia Elétrica (SCEE)** — onde a energia ativa é injetada na rede como um empréstimo gratuito e compensada posteriormente — através das seguintes modalidades:
-
-PDF
-
 - **Autoconsumo Local:** A geração ocorre eletricamente junto à carga, e o excedente é compensado na própria unidade consumidora.
-    
-    PDF
     
 - **Autoconsumo Remoto:** Unidades de mesma titularidade (pessoa física ou jurídica, incluindo matriz e filiais) atendidas pela **mesma distribuidora** utilizam os créditos gerados por uma unidade geradora.
     
-    PDF
-    
 - **Geração Compartilhada:** Reunião de consumidores por meio de consórcio, cooperativa, condomínio voluntário/edilício ou associação civil criada para esse fim, desde que todos estejam na área da **mesma distribuidora**.
-    
-    PDF
     
 - **Empreendimento com Múltiplas Unidades Consumidoras (EMUC):** Conjunto de unidades em propriedades contíguas (sem separação por vias públicas), onde a área comum constitui uma unidade consumidora distinta que abriga a geração.
     
-    PDF
-    
-
+ 
 > ⚠️ **Vedação Importante:** É proibido alugar ou arrendar terrenos/propriedades onde o valor do aluguel seja estipulado em reais por unidade de energia elétrica (R$/kWh), assim como é vedada a divisão de centrais geradoras em unidades menores apenas para burlar os limites de potência de micro ou minigeração.
-> 
+
 > PDF
 
 ## 3. Fluxo e Prazos para Procedimento de Acesso
@@ -196,3 +178,18 @@ PDF
 - **Programa de Energia Renovável Social (PERS):** Instituído para financiar e instalar sistemas fotovoltaicos voltados a consumidores residenciais de Baixa Renda, utilizando recursos de eficiência energética das próprias distribuidoras.
     
     PDF
+
+---
+
+**Conexões e Desdobramentos**
+
+- **Impacto no Payback de Novos Projetos:** Com o escalonamento do Fio B atingindo **60% em 2026**, novos entrantes (GD 2) experimentam um tempo de retorno do investimento ligeiramente maior se comparado aos pioneiros da GD 1. Isso exige dimensionamentos de engenharia mais precisos e foco em eficiência energética complementar.
+    
+- **Abertura do Mercado Livre (Ambiente de Contratação Livre - ACL):** A evolução da GD caminha em paralelo com a abertura do mercado livre de energia para a alta e média tensão (Grupo A). Consumidores que migram para o ACL precisam avaliar as regras de transição e a compatibilidade de manutenção de seus créditos acumulados no SCEE.
+    
+- **Armazenamento de Energia (Baterias):** O encarecimento gradual do uso da rede injetada (pelo aumento do custo do Fio B até 2028) impulsiona o desdobramento tecnológico de sistemas híbridos com baterias. O armazenamento local começa a se tornar financeiramente atrativo para evitar a injeção na rede nos horários em que os encargos pesam mais.
+    
+- **Segurança Jurídica e Fiscalização:** A proibição expressa de divisão de usinas e da comercialização de pareceres de acesso endureceu a fiscalização por parte das distribuidoras. Projetos estruturados sob a modalidade de Geração Compartilhada (consórcios e cooperativas) demandam governança jurídica estrita para evitar passivos e contestações pelas concessionárias.
+    
+
+---
