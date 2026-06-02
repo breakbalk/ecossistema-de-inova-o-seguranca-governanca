@@ -85,6 +85,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+            }
+          },
+          {
+            "id": "f6d9dba988cbe5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Micro e Minigeração Distribuída.md",
                 "mode": "source",
                 "source": false,
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,17 +314,19 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "ebd5fcff4cea9e69",
+  "active": "f6d9dba988cbe5d8",
   "lastOpenFiles": [
-    "01_Fontes_Brutas/Lei n 14.300-2022.pdf",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
+    "_Templates/Manual de Engenharia para Sistemas Fotovoltaicos.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Micro e Minigeração Distribuída.md",
+    "01_Fontes_Brutas/Lei n 14.300-2022.pdf",
     "04_MANUAIS_UNICIETEC/Manual_de_Engenharia_FV_2014.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 322288.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 14300-2022.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 13243-2016.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual Fab Lab.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/Lei n 14.300-2022.pdf",
     "04_MANUAIS_UNICIETEC/Cadernos-Temáticos-ANEEL-Micro-e-Mini-Geração-Distribuída-1.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 26762.crdownload",
@@ -310,7 +336,6 @@
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
     "04_MANUAIS_UNICIETEC/Materiais Avancados.pdf",
     "04_MANUAIS_UNICIETEC/Document 11.pdf",
     "04_MANUAIS_UNICIETEC/Cartilha-Plano-de-CTI_WEB.pdf",
