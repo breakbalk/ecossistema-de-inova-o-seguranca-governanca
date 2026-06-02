@@ -212,8 +212,7 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "5e68c54d7c894b60",
