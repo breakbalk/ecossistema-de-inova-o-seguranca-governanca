@@ -6,7 +6,6 @@
       {
         "id": "228f23e9e730bdec",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "9d0ade5699a07d42",
@@ -293,11 +292,12 @@
   },
   "active": "ebd5fcff4cea9e69",
   "lastOpenFiles": [
+    "01_Fontes_Brutas/Lei n 14.300-2022.pdf",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Micro e Minigeração Distribuída.md",
     "04_MANUAIS_UNICIETEC/Manual_de_Engenharia_FV_2014.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 322288.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 14300-2022.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 13243-2016.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Micro e Minigeração Distribuída.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual Fab Lab.md",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
@@ -315,8 +315,6 @@
     "04_MANUAIS_UNICIETEC/Document 11.pdf",
     "04_MANUAIS_UNICIETEC/Cartilha-Plano-de-CTI_WEB.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 740648.crdownload",
-    "04_MANUAIS_UNICIETEC/ICC_Guia-Melhores-Praticas-na-Colaboracao-ICT-Empresas.pdf",
-    "04_MANUAIS_UNICIETEC/FabAcademyHandbook.pdf",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/CNPq2664-2026.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ENCTI 2024-2034.md",
