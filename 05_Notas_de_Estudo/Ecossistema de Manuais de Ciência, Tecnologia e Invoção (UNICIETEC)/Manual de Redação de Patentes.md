@@ -126,11 +126,12 @@ Antes de redigir ou realizar o depósito, a realização de uma busca prévia no
 
 Para obter a concessão de forma ágil, o INPI sugere o seguinte fluxo lógico de ações:
 
-graph TD
-    A[1º Passo: Leitura atenta da Legislação & LPI] --> B[2º Passo: Efetuar busca no banco de patentes]
-    B --> C[3º Passo: Redigir o documento técnico]
-    C --> D[4º Passo: Efetuar o depósito eletrônico no e-INPI]
-    D --> E[5º Passo: Acompanhar o processo via RPI]
+
+    1º Passo: Leitura atenta da Legislação & LPI
+    2º Passo: Efetuar busca no banco de patentes
+    3º Passo: Redigir o documento técnico
+    4º Passo: Efetuar o depósito eletrônico no e-INPI
+    5º Passo: Acompanhar o processo via RPI
     E --> F[6º Passo: Solicitar proteção no exterior via PCT]
 
 (Nota: O acompanhamento do processo é feito por meio da Revista da Propriedade Industrial - RPI, publicada semanalmente às terças-feiras).

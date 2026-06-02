@@ -89,7 +89,12 @@ A valoração orienta a formatação do modelo de negócios a ser inserido nos c
 ### 🗺️ 6. Fluxo de Etapas (Passo a Passo da Valoração)
 
 Para executar a valoração de forma sistemática, o guia sugere a seguinte sequência de ações:
-A 1º Passo: Caracterização Técnica e Avaliação do TRL --> B2º Passo: Análise da Propriedade Intelectual e FTO B --> C 3º Passo: Inteligência de Mercado e Mapeamento de Concorrentes C --> D 4º Passo: Seleção e Aplicação dos Métodos Renda/Custo/Mercado D --> E 5º Passo: Ajuste por Matriz de Riscos e Definição de Cenários E --> F 6º Passo: Emissão do Relatório de Valoração para Subsidiar o Contrato
+1º Passo: Caracterização Técnica e Avaliação do TRL 
+2º Passo: Análise da Propriedade Intelectual e FTO.
+3º Passo: Inteligência de Mercado e Mapeamento de Concorrentes.
+4º Passo: Seleção e Aplicação dos Métodos Renda/Custo/Mercado.
+5º Passo: Ajuste por Matriz de Riscos e Definição de Cenários 
+6º Passo: Emissão do Relatório de Valoração para Subsidiar o Contrato
 
 ---
 **Conexões e Desdobramentos:**

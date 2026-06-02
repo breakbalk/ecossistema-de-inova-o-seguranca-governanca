@@ -65,7 +65,12 @@ A avaliação dos módulos técnicos foca na autonomia e na correta compreensão
 ## 🗺️ 6. Fluxo de Etapas (Ciclo Semanal de Desenvolvimento e Avaliação) 
 
 A dinâmica da Fab Academy acontece em um ciclo de entrega contínuo e incremental estruturado nos seguintes passos de governança: 
-A 1º Passo: Aula Global com Neil Gershenfeld (Quartas às 09h EST) via videoconferência MCU --> B 2º Passo: Aprendizado prático local e instrução direta de uso de máquinas no laboratório --> C 3º Passo: Ciclo ágil individual (Aprender -> Projetar -> Fabricar -> Prototipar -> Testar) --> D 4º Passo: Documentação em HTML e push dos arquivos editáveis para o repositório Mercurial --> E 5º Passo: Revisão semanal de tarefas pelos Gurus e Instrutores Locais (Terças-feiras) --> F 6º Passo: Avaliação periódica e submissão dos aprovados ao Comitê de Avaliação Global para o Fab Diploma.
+1º Passo: Aula Global com Neil Gershenfeld (Quartas às 09h EST) via videoconferência MCU
+2º Passo: Aprendizado prático local e instrução direta de uso de máquinas no laboratório 
+3º Passo: Ciclo ágil individual (Aprender -> Projetar -> Fabricar -> Prototipar -> Testar) 
+4º Passo: Documentação em HTML e push dos arquivos editáveis para o repositório Mercurial 
+5º Passo: Revisão semanal de tarefas pelos Gurus e Instrutores Locais (Terças-feiras) 
+6º Passo: Avaliação periódica e submissão dos aprovados ao Comitê de Avaliação Global para o Fab Diploma.
     
 
 ---
