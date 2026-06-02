@@ -22,7 +22,7 @@ O guia organiza o processo de interação universidade-empresa dividindo as suge
 (Próprios da preparação de cada ator)
 - Missão, Propósito e Liderança
     
-- - Mapeamento e Seleção de Parceiros
+- Mapeamento e Seleção de Parceiros
 
 [ FATORES RELACIONAIS ]
 (A serem observados na interação conjunta)

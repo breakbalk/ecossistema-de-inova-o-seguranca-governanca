@@ -64,7 +64,12 @@ O Núcleo de Inovação Tecnológica (NIT) deixa de ser visto apenas como um esc
 
 Para estruturar um ecossistema interno desburocratizado e seguro, o manual propõe o seguinte fluxo lógico de ações:
 
-A 1º Passo: Mapeamento de Gargalos e Burocracias nos Fluxos Atuais --> B2º Passo: Alinhamento Estratégico com Procuradoria Jurídica e Auditoria B --> C 3º Passo: Instituição de Minutas e Pareceres Referenciais para CT&I C --> D 4º Passo: Regulamentação da Relação com a Fundação de Apoio e NIT D --> E 5º Passo: Capacitação Contínua dos Gestores e Foco em Resultados E --> F 6º Passo: Monitoramento e Auditoria Baseada em Marcos Finalísticos
+1º Passo: Mapeamento de Gargalos e Burocracias nos Fluxos Atuais.
+2º Passo: Alinhamento Estratégico com Procuradoria Jurídica e Auditoria.
+3º Passo: Instituição de Minutas e Pareceres Referenciais para CT&I.
+4º Passo: Regulamentação da Relação com a Fundação de Apoio e NIT.
+5º Passo: Capacitação Contínua dos Gestores e Foco em Resultados.
+6º Passo: Monitoramento e Auditoria Baseada em Marcos Finalísticos
 
 ---
 **Conexões e Desdobramentos:**

@@ -64,7 +64,12 @@ O Núcleo de Inovação Tecnológica ([[NIT]]) é consolidado como o guardião d
 ## 🗺️ 6. Fluxo de Etapas (Passo a Passo para Enquadramento e Contratação) 
 
 Para aplicar as orientações dos guias com segurança jurídica, as instituições devem seguir o seguinte fluxo lógico de ações: 
-A 1º Passo: Verificação dos requisitos estatutários de ICT (Foco em Pesquisa e Desenvolvimento) --> B 2º Passo: Consulta à Política de Inovação institucional e verificação das regras de PI --> C 3º Passo: Tipificação do objeto (Identificar se o projeto é PD&I ou Serviço Especializado) --> D 4º Passo: Seleção do Instrumento Adequado (Acordo de Parceria, Contrato de Serviço ou Licenciamento) --> E 5º Passo: Desenho da matriz de remuneração (Definição entre Bolsas ou Adicional Variável) --> F 6º Passo: Execução e Gestão Financeira via NIT e Fundação de Apoio com prestação de contas finalística
+1º Passo: Verificação dos requisitos estatutários de ICT (Foco em Pesquisa e Desenvolvimento).
+2º Passo: Consulta à Política de Inovação institucional e verificação das regras de PI.
+3º Passo: Tipificação do objeto (Identificar se o projeto é PD&I ou Serviço Especializado).
+4º Passo: Seleção do Instrumento Adequado (Acordo de Parceria, Contrato de Serviço ou Licenciamento).
+5º Passo: Desenho da matriz de remuneração (Definição entre Bolsas ou Adicional Variável).
+6º Passo: Execução e Gestão Financeira via NIT e Fundação de Apoio com prestação de contas finalística.
     
 
 ---

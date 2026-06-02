@@ -132,7 +132,7 @@ Para obter a concessão de forma ágil, o INPI sugere o seguinte fluxo lógico d
     3º Passo: Redigir o documento técnico
     4º Passo: Efetuar o depósito eletrônico no e-INPI
     5º Passo: Acompanhar o processo via RPI
-    E --> F[6º Passo: Solicitar proteção no exterior via PCT]
+    6º Passo: Solicitar proteção no exterior via PCT
 
 (Nota: O acompanhamento do processo é feito por meio da Revista da Propriedade Industrial - RPI, publicada semanalmente às terças-feiras).
 

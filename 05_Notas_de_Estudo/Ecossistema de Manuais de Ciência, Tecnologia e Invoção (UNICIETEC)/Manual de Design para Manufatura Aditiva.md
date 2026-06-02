@@ -19,15 +19,9 @@ O guia introduz os fundamentos da impressão 3D sob a ótica da manufatura indus
     
 - **Alinhamento com o Plano ProFuturo (Plano de CT&I para Manufatura Avançada):** O Guia não é um manual técnico isolado; ele materializa as metas do governo para a inserção do Brasil na Quarta Revolução Industrial, onde a manufatura aditiva é formalmente classificada como uma tecnologia digital prioritária e estratégica para o setor industrial.
     
-    PDF
-    
 - **Gestão Integrada do Ciclo de Vida do Produto:** A manufatura avançada gerencia o ciclo do produto "do berço ao túmulo" (do projeto ao descarte). As decisões de design tomadas na fase inicial e orientadas por este Guia impactam diretamente a eficiência da cadeia de valor, a logística reversa e a viabilidade da customização em massa.
     
-    PDF+ 1
-    
 - **Mitigação de Gargalos e Extensão Tecnológica para MPMEs:** Sabendo que 98% do parque industrial brasileiro é composto por micro, pequenas e médias empresas que ainda operam nos limites da 2ª Revolução Industrial, este Guia funciona como um instrumento de extensão tecnológica essencial para ajudá-las na transição rumo à Indústria 4.0.
-    
-    PDF
     
 
 ## 🛠️ 2. Diretrizes de Design Orientadas para a Fabricação (DfAM) e Insumos Avançados
@@ -42,15 +36,9 @@ O núcleo técnico do guia aborda os parâmetros geométricos cruciais que deter
     
 - **A Relação Crucial com os Materiais Avançados:** O sucesso do design em engenharia depende diretamente da convergência com novos insumos (como polímeros de alta performance e nanocompósitos com nanotubos de carbono) utilizados na manufatura aditiva.
     
-    PDF
-    
-- **Design Focado em Novas Funcionalidades:** Esses materiais introduzem novas propriedades intrínsecas (maior leveza, resistência mecânica e durabilidade). Para o projetista, aplicar as regras de DfAM em conjunto com esses materiais permite maximizar a relação investimento/retorno, explorando geometrias complexas impossíveis de obter por métodos convencionais.
-    
-    PDF+ 1
+ - **Design Focado em Novas Funcionalidades:** Esses materiais introduzem novas propriedades intrínsecas (maior leveza, resistência mecânica e durabilidade). Para o projetista, aplicar as regras de DfAM em conjunto com esses materiais permite maximizar a relação investimento/retorno, explorando geometrias complexas impossíveis de obter por métodos convencionais.
     
 - **Soberania e Apelo Setorial de Alta Performance:** O domínio conjunto do design geométrico e dos materiais avançados atende a setores altamente exigentes e regulados (como aeroespacial, defesa, saúde e energia). Isso justifica a rigidez técnica do Guia para garantir a conformidade regulatória e a segurança de aplicações de alto valor agregado.
-    
-    PDF+ 1
     
 
 ## ⚙️ 3. Técnicas de Eficiência e Redução de Custos de Material
