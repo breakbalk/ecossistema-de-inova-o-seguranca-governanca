@@ -6,6 +6,7 @@
       {
         "id": "228f23e9e730bdec",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "9d0ade5699a07d42",
@@ -37,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Design para Manufatura Aditiva.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manual de Design para Manufatura Aditiva"
+              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
             }
           }
         ],
@@ -113,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.51103591918945
+    "width": 381.51103591918945
   },
   "right": {
     "id": "79fdf5de1f4b2b1c",
@@ -213,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,6 +245,7 @@
   },
   "active": "8b864e4be9cba43b",
   "lastOpenFiles": [
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Design para Manufatura Aditiva.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Diretrizes de Vitrines Tecnológicas e Prospecção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Identidade e Prática das ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
@@ -251,7 +254,6 @@
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual Fab Lab.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Design para Manufatura Aditiva.md",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/Materiais Avancados.pdf",
     "04_MANUAIS_UNICIETEC/Document 11.pdf",
