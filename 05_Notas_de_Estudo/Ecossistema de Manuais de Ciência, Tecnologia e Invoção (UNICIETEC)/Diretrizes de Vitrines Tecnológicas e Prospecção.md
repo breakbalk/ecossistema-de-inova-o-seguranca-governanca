@@ -65,6 +65,8 @@ O NIT atua como o gestor e curador dessas plataformas e estratégias, possuindo 
     O guia sugere a automação desses portfólios por meio de sistemas integrados a plataformas nacionais (como o PNIPE/MCTI), garantindo visibilidade unificada da infraestrutura laboratorial e dos ativos da ICT.
     
 
+---
+
 **Conexões e Desdobramentos:**
 
 - **[[Lei 13243-2016]]:** Fornece o embasamento jurídico para a obrigatoriedade de transparência ativa das ICTs e legitima o compartilhamento de infraestrutura pública com o setor privado.
