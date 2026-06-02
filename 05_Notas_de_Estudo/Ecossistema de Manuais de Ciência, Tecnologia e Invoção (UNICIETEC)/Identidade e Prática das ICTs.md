@@ -67,6 +67,8 @@ Para aplicar as orientações dos guias com segurança jurídica, as instituiç�
 A 1º Passo: Verificação dos requisitos estatutários de ICT (Foco em Pesquisa e Desenvolvimento) --> B 2º Passo: Consulta à Política de Inovação institucional e verificação das regras de PI --> C 3º Passo: Tipificação do objeto (Identificar se o projeto é PD&I ou Serviço Especializado) --> D 4º Passo: Seleção do Instrumento Adequado (Acordo de Parceria, Contrato de Serviço ou Licenciamento) --> E 5º Passo: Desenho da matriz de remuneração (Definição entre Bolsas ou Adicional Variável) --> F 6º Passo: Execução e Gestão Financeira via NIT e Fundação de Apoio com prestação de contas finalística
     
 
+---
+
 **Conexões e Desdobramentos:**
 
 - **Lei de Inovação ([[Lei 10973-2004]] e alterações da [[Lei 13243-2016]]**: Base legal primária que define o conceito de ICT, os objetivos do NIT e os instrumentos de estímulo à pesquisa.
@@ -76,3 +78,6 @@ A 1º Passo: Verificação dos requisitos estatutários de ICT (Foco em Pesquisa
 - **Lei das Fundações de Apoio (Lei nº 8.958/1994)**: Regula a relação jurídica e os repasses financeiros entre as ICTs públicas e as fundações encarregadas da gestão administrativa dos projetos.
     
 - **Políticas de Inovação das ICTs**: Normas internas de cada instituição que precisam ser constantemente revisadas à luz dos guias do MCTI para garantir que os NITs operem com procedimentos atualizados e padronizados.
+    
+
+---

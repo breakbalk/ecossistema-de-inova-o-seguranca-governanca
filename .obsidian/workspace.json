@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e68c54d7c894b60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Diretrizes de Vitrines Tecnológicas e Prospecção.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Diretrizes de Vitrines Tecnológicas e Prospecção"
-            }
-          },
-          {
             "id": "9d0ade5699a07d42",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,16 +218,18 @@
   },
   "active": "9d0ade5699a07d42",
   "lastOpenFiles": [
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Identidade e Prática das ICTs.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Diretrizes de Vitrines Tecnológicas e Prospecção.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual Fab Lab.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
+    "04_MANUAIS_UNICIETEC/ICC_Guia-Melhores-Praticas-na-Colaboracao-ICT-Empresas.pdf",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
     "04_MANUAIS_UNICIETEC/FabAcademyHandbook.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 469541.crdownload",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Identidade e Prática das ICTs.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Diretrizes de Vitrines Tecnológicas e Prospecção.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Redação de Patentes.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/Guias-de-Orientações-sobre-Instrumentos-do-Marco-Legal-de-CTI-Prestacao-de-Servicos-Tecnicos-Especializados-por-ICTs-Publicas_com-Prefacio_A4_Fortec_rev-MCTI.pdf",
     "04_MANUAIS_UNICIETEC/guia_de_orientacoes_sobre_instrumentos_marco_legal_cti_mcti.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 237411.crdownload",
@@ -261,7 +238,6 @@
     "04_MANUAIS_UNICIETEC/guia_de_caracterizacao_de_entidade_como_ict_mcti.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 630212.crdownload",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
-    "04_MANUAIS_UNICIETEC/Não confirmado 216326.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/CNPq2664-2026.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ENCTI 2024-2034.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ETEC.md",
@@ -269,7 +245,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 13243-2016.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Ambientes de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 10973-2004.md",
-    "04_MANUAIS_UNICIETEC/ICC_Guia-Melhores-Praticas-na-Colaboracao-ICT-Empresas.pdf",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 9279-1996.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Decreto 9283-2018.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Constituição Federal de 1988.md",
@@ -278,7 +253,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei nº 9.279/1996.md",
     "_Templates/Modelo de Lei.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/FINEP.md",
-    "02_RESUMOS_DOCx/Inovação no Brasil.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",

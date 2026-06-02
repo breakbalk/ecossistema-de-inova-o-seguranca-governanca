@@ -41,7 +41,7 @@
 
 #### *Manuais para Prototipação e Cultura Maker (FabLab)*
 
-- **Manual Fab Academy (Fab Foundation):** Diretrizes globais de operação, segurança, calibração de máquinas (impressoras 3D, cortadoras a laser) e gerenciamento de inventário de laboratórios _maker_.
+- **[[Manual Fab Lab]] Academy (Fab Foundation):** Diretrizes globais de operação, segurança, calibração de máquinas (impressoras 3D, cortadoras a laser) e gerenciamento de inventário de laboratórios _maker_.
     
 - **Guia de Design para Manufatura Aditiva (MCTI/INT):** Manual técnico voltado à otimização de protótipos industriais, ajudando estudantes a reduzirem custos de material na transição do desenho digital para a peça física.
     
