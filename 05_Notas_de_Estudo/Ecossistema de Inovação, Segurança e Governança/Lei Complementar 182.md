@@ -33,36 +33,26 @@ A lei cria uma ponte robusta de financiamento para que recursos privados irrigue
 
 - **Sandboxes Regulatórios (Art. 2º, II e Art. 11):** Os programas de ambiente regulatório experimental permitem o afastamento temporário de normas rígidas por órgãos setoriais. O foco é viabilizar o teste de técnicas e tecnologias experimentais de forma ágil, assegurando que as travas burocráticas não asfixiem a validação prática da ciência aplicada.
     
-    PDF+ 1
-    
-
-### O Estado como Indutor e Comprador de Inovação: O CPSI
+ 
+  **5. O Estado como Indutor e Comprador de Inovação: O CPSI**
 
 O Capítulo VI reconhece o papel crucial do Estado no fomento à CT&I ao utilizar seu poder de compra para absorver soluções tecnológicas complexas:
 
-PDF
-
 - **Licitação Baseada no Desafio (Art. 13):** A Administração Pública não compra uma solução pronta e padronizada; ela abre um edital descrevendo apenas o **problema público e os desafios tecnológicos a serem superados**, convocando os proponentes a utilizarem a ciência para desenhar os meios de resolução. O julgamento inclui a avaliação obrigatória de professores de instituições públicas de educação superior na área correlata.
-    
-    PDF+ 1
     
 - **Contrato Público para Solução Inovadora (Art. 14):** Estrutura o CPSI (com teto de R$ 1.600.000,00) voltado especificamente para o teste de soluções com ou sem risco tecnológico.
     
-    PDF
-    
 - **Proteção à Incerteza Científica (§ 5º):** A lei absorve o conceito de **risco tecnológico**. Ela determina que, mesmo que o resultado pretendido falhe devido à complexidade da pesquisa ou inviabilidade técnica, a contratada deve receber os pagamentos proporcionais aos trabalhos executados, impedindo a punição estatal ao erro inerente ao avanço da ciência.
     
-    PDF+ 1
+ - **Escala Comercial Direta (Art. 15):** Validado o êxito dos testes, o Estado pode firmar o fornecimento do produto ou tecnologia resultante **sem nova licitação**, escalando a solução para toda a infraestrutura governamental (com limite de até R$ 8 milhões).
     
-- **Escala Comercial Direta (Art. 15):** Validado o êxito dos testes, o Estado pode firmar o fornecimento do produto ou tecnologia resultante **sem nova licitação**, escalando a solução para toda a infraestrutura governamental (com limite de até R$ 8 milhões).
-    
-    PDF
-    
+  
+---
 
 **Conexões e Desdobramentos:**
 
-- **Simbiose com o Marco Legal de CT&I (Lei nº 13.243/2016):** A LC 182 opera de forma coordenada com os instrumentos de subvenção econômica e cooperação universidade-empresa. O CPSI complementa as Encomendas Tecnológicas (ETECs), permitindo que demandas de base científica de menor escala financeira sejam testadas rapidamente por pequenos negócios inovadores, simplificando a transferência tecnológica da bancada acadêmica para o setor produtivo.
+- **Simbiose com o Marco Legal de CT&I ([[Lei 13.243_2016.pdf]]):** A LC 182 opera de forma coordenada com os instrumentos de subvenção econômica e cooperação universidade-empresa. O CPSI complementa as Encomendas Tecnológicas (ETECs), permitindo que demandas de base científica de menor escala financeira sejam testadas rapidamente por pequenos negócios inovadores, simplificando a transferência tecnológica da bancada acadêmica para o setor produtivo.
     
 - **Criação de Valor Através da Propriedade Intelectual:** Ao dar prioridade regulatória ao INPI para patentes oriundas do Inova Simples, a legislação estimula que cientistas e pesquisadores formalizem suas patentes, reduzindo o histórico _backlog_ de patentes tecnológicas no país e aumentando o valor de mercado (_valuation_) das _deep techs_ nacionais.
     
-- **Segurança na Absorção do Risco Tecnológico:** A consagração legal do risco tecnológico nas compras públicas quebra o paradigma burocrático de que todo investimento do Estado precisa de um resultado garantido em formato de commodity. Ao proteger financeiramente o pesquisador diante do fracasso técnico inevitável de algumas linhas de teste, o marco cria um ambiente psicológico e jurídico realista para o florescimento da inovação de fronteira.
+- **Segurança na Absorção do [[Risco Tecnológico]]:** A consagração legal do risco tecnológico nas compras públicas quebra o paradigma burocrático de que todo investimento do Estado precisa de um resultado garantido em formato de commodity. Ao proteger financeiramente o pesquisador diante do fracasso técnico inevitável de algumas linhas de teste, o marco cria um ambiente psicológico e jurídico realista para o florescimento da inovação de fronteira.

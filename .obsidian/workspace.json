@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei Complementar 182.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Subvenção Econômica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Lei Complementar 182"
+              "title": "Subvenção Econômica"
             }
           }
         ]
@@ -219,14 +219,17 @@
   },
   "active": "f6d9dba988cbe5d8",
   "lastOpenFiles": [
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 14300-2022.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Soberania Tecnológica.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Soberania Nacional.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/SNCTI.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Risco Tecnológico.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/NIT.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei Complementar 182.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 14300-2022.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 14133-2021.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 13243-2016.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 10973-2004.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 9279-1996.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/NIT.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Risco Tecnológico.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ISO-IEC 27000.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/FORMICT.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/CNPq2664-2026.md",
@@ -243,7 +246,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/FNDCT.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/FINEP.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Ambientes de Inovação.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/Politica-de-Gestao-de-Servicos-CERNE_Revisao08.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 474582.crdownload",
     "04_MANUAIS_UNICIETEC/Termo-de-Referencia-PNI-20-05_2019_v07_Pos-CP.pdf",
@@ -253,8 +255,6 @@
     "04_MANUAIS_UNICIETEC/ParquesTecnologicosBrasil-2021-Final-vr.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 945336.crdownload",
     "04_MANUAIS_UNICIETEC/CERNE_2018_Sumario_Executivo_Revisão-19.07.pdf",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Identidade e Prática das ICTs.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Design para Manufatura Aditiva.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
