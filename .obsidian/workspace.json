@@ -16,16 +16,7 @@
                 "file": "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Subvenção Econômica.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Subvenção Econômica"
