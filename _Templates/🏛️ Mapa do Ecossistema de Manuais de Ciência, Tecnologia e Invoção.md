@@ -55,6 +55,6 @@
 
 #### *Manuais de Governança Avançada e Integração (CORE)*
 
-- **Guia de [[Governança de Ecossistemas de Inovação[[]] (MCTI):** Manual estratégico focado em articular a Trípece Hélice (Universidade, Empresa e Governo), ideal para a CORE desenhar o posicionamento do UniCIETEC em Anápolis.
+- **Guia de [[Governança de Ecossistemas de Inovação]] (MCTI):** Manual estratégico focado em articular a Trípece Hélice (Universidade, Empresa e Governo), ideal para a CORE desenhar o posicionamento do UniCIETEC em Anápolis.
     
 - **Manual de Gestão de Portfólio de Projetos de Inovação (Ipea):** Diretrizes para priorizar investimentos, mitigar riscos tecnológicos e gerenciar o ciclo de vida de múltiplos projetos simultâneos em ICTs.
