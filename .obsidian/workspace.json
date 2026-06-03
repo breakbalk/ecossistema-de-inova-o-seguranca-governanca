@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+                "file": "_Templates/Manual de Gestão de Portfólio de Projetos de Inovação.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+              "title": "Manual de Gestão de Portfólio de Projetos de Inovação"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "f6d9dba988cbe5d8",
   "lastOpenFiles": [
-    "_Templates/Governança de Ecossistemas de Inovação[[.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
+    "_Templates/Manual de Gestão de Portfólio de Projetos de Inovação.md",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "_Templates/Governança de Ecossistemas de Inovação[[.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Governança de Ecossistemas de Inovação.md",
     "_Templates/Governança de Ecossistemas de Inovação.md",
     "01_Fontes_Brutas/Lei n 14.300-2022.pdf",
@@ -247,14 +249,12 @@
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Identidade e Prática das ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/CNPq2664-2026.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ENCTI 2024-2034.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/ETEC.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Emenda Constitucional 85-2015.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Ambientes de Inovação.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, sEGURANÇA Governança/Lei 10973-2004.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
