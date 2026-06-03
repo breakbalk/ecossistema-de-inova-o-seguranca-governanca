@@ -2,7 +2,7 @@
 
 **Fonte Bruta:**
 
-- **Arquivo Original:** Constituição Federal (Artigos 218, 219 e 219-A); [[Lei 10.973_2004.pdf]]; [[Decreto 9.283_2018.pdf]]
+- **Arquivo Original:** Constituição Federal (Artigos 218, 219 e 219-A); [[Lei 10.973_2004.pdf]]; [[Decreto 9.283_2018.pdf]]; [[LEI Nº 14.133-2021 - Nova Lei de Licitações.pdf]]; [[LEI-COMPLEMENTAR-No-182-DE-1o-DE-JUNHO-DE-2021.pdf]] e Família de Normas ISO 56000
     
 
 - **Status:** Constitui um manual orientador, metodológico e estratégico de referência nacional, elaborado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI). O documento consolida diretrizes práticas, modelos de articulação e critérios de governança colaborativa para a estruturação de ambientes de inovação sustentáveis. Destina-se a gestores públicos, lideranças empresariais, reitores e, especificamente, a órgãos de coordenação regional (como a **CORE**) como ferramenta de governança e desenho estratégico de posicionamento regional baseado no modelo da Tríplice Hélice.
@@ -51,8 +51,14 @@ Um dos grandes gargalos de ecossistemas emergentes é o atrito nas parcerias int
 - **Mitigação de Conflitos de Interesse:** Matrizes de governança que separam os objetivos individuais de cada instituição das metas coletivas do território, impedindo que um agente monopolize os ganhos ou capture as decisões do conselho em benefício próprio.
     
 
-### Conexões e Desdobramentos
+---
 
+**Conexões e Desdobramentos**
+
+- **[[Lei 14133-2021]] (Nova Lei de Licitações e Contratos):** Incorpora procedimentos voltados à inovação, permitindo o uso do "Diálogo Competitivo" e facilitando critérios de contratação onde o preço não é a única métrica, mas sim a performance tecnológica.
+    
+- **[[Lei Complementar 182]] (Marco Legal das Startups):** Institui o "Contrato Público para Soluções Inovadoras" (CPSI), que permite ao Estado contratar startups para testar soluções com dispensa de licitação tradicional, limitando o valor e o prazo, mas mitigando o risco burocrático.
+    
 - **Família de Normas ISO 56000 (Gestão da Inovação):** Especialmente a **ISO 56003** (Ferramentas para Parcerias de Inovação), que fornece o arcabouço internacional de equações de valor e mitigação de riscos para estruturar os acordos bilaterais recomendados pelo guia do MCTI.
     
 - **Marco Legal de Ciência, Tecnologia e Inovação (Lei nº 13.243/2016 e Decreto nº 9.283/2018):** Base jurídica que confere segurança legal para o uso de fundações de apoio, compartilhamento de laboratórios públicos com empresas privadas e dispensa de licitação para contratação de soluções inovadoras.
