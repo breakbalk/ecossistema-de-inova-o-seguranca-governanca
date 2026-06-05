@@ -51,6 +51,8 @@ graph TD
     A --> C(Chamada 06/2026: Infraestrutura)
     B --> D[R$ 3M - Foco fora do eixo Goiânia-Anápolis]
     C --> E[Uso Compartilhado e Triagem Acadêmica]
+
+
 🏫 O Papel de Anápolis
 Como hub científico e industrial, Anápolis destaca-se pelas seguintes ações:
 
