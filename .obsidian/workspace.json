@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,11 +91,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manual de Valoração de Tecnologias em ICTs"
+              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+            }
+          },
+          {
+            "id": "bad6e92b9551b598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/Guia de Encomendas Tecnológicas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Guia de Encomendas Tecnológicas"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,8 +305,11 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "856d704287d20fac",
+  "active": "bad6e92b9551b598",
   "lastOpenFiles": [
+    "_Templates/Guia de Encomendas Tecnológicas.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Redação de Patentes.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Patentes da OCDE.md",
@@ -306,9 +333,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/NIT.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei Complementar 182.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 14300-2022.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 14133-2021.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 13243-2016.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Lei 10973-2004.md",
     "04_MANUAIS_UNICIETEC/OCDE-Manual-de-patentes-2-edicao-em-ingles.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 844773.crdownload",
     "04_MANUAIS_UNICIETEC/ManualdePatentes20210706.pdf",
