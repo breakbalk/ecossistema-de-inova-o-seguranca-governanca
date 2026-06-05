@@ -5,12 +5,11 @@
 - **Arquivo Original:** [[Lei 13.243_2016.pdf]] e [[Decreto 9.283_2018.pdf]]
     
 
-- **Status:** Constitui um guia metodológico e de governança de referência nacional, elaborado pela Escola Nacional de Administração Pública (ENAP) em parceria com o Ministério da Ciência, Tecnologia e Inovação (MCTI). O documento funciona como um manual de orientação prática e jurídica voltado a gestores públicos, servidores de órgãos de controle, diretores de ICTs e gestores de Fundações de Apoio, com o objetivo de desburocratizar fluxos, mitigar o receio burocrático e viabilizar a aplicação segura dos instrumentos do Marco Legal de CT&I na administração pública.
+- **Status:** Constitui um guia metodológico e estatístico de referência global, elaborado e atualizado periodicamente pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE). O documento funciona como um manual de padronização conceitual e operacional voltado a institutos de estatística, gestores públicos de CT&I, formuladores de políticas econômicas, universidades e diretores de P&D corporativos, com o objetivo de alinhar as métricas de investimento científico, mitigar assimetrias de dados internacionais e viabilizar a mensuração segura, comparável e auditável dos esforços em Pesquisa e Desenvolvimento Experimental entre diferentes países e setores.
     
 
 O **Manual de Frascati** é o padrão internacional reconhecido para a coleta, relatório e interpretação de estatísticas sobre os recursos financeiros e humanos dedicados à **Pesquisa e Desenvolvimento Experimental (P&D)**. Publicado pela **OCDE** (Organização para a Cooperação e Desenvolvimento Econômico), sua edição de 2015 (7ª edição) consolida uma linguagem comum mundial para alinhar políticas científicas, tecnológicas e econômicas.
 
-Abaixo está a estrutura consolidada do manual, detalhando suas definições centrais, classificações, limites institucionais e metodologias de mensuração.
 
 ## 1. Definição Central e os Cinco Critérios de P&D
 
@@ -18,13 +17,13 @@ De acordo com o manual, P&D abrange o trabalho criativo e sistemático realizado
 
 Para que qualquer atividade (seja contínua ou ocasional) seja classificada como P&D, ela deve satisfazer cumulativamente **cinco critérios fundamentais**:
 
-- **Novidade ($\text{Novel}$):** Focada em novas descobertas ou novos conhecimentos que não estejam disponíveis na indústria ou literatura.
+- **Novidade (Novel):** Focada em novas descobertas ou novos conhecimentos que não estejam disponíveis na indústria ou literatura.
     
-- **Criatividade ($\text{Creative}$):** Baseada em conceitos e hipóteses originais, não óbvios, exigindo a contribuição inerente de um pesquisador.
+- **Criatividade (Creative):** Baseada em conceitos e hipóteses originais, não óbvios, exigindo a contribuição inerente de um pesquisador.
     
-- **Incerteza ($\text{Uncertain}$):** O resultado final, o custo ou o tempo necessário não podem ser determinados com precisão no início do projeto.
+- **Incerteza (Uncertain):** O resultado final, o custo ou o tempo necessário não podem ser determinados com precisão no início do projeto.
     
-- **Sistemática ($\text{Systematic}$):** Conduzida de forma planejada, com orçamento definido e registros textuais/metodológicos mantidos.
+- **Sistemática (Systematic):** Conduzida de forma planejada, com orçamento definido e registros textuais/metodológicos mantidos.
     
 - **Transferível e/ou Reprodutível ($\text{Transferable/Reproducible}$):** Deve resultar no potencial de transferência do novo conhecimento, permitindo que outros pesquisadores reproduzam os resultados.
     
@@ -99,3 +98,17 @@ O manual estabelece metodologias estritas para evitar a dupla contagem e mensura
 - **Capitalização da P&D:** A partir da revisão do Sistema de Contas Nacionais ($\text{SNA 2008}$), os gastos com P&D deixaram de ser tratados na contabilidade econômica como despesas correntes e passaram a ser classificados como **formação de capital fixo (investimento)**, gerando ativos de propriedade intelectual.
     
 - **Incentivos Governamentais:** A edição de 2015 aprofundou a mensuração do **GBARD** (análise de dotações orçamentárias públicas na perspectiva de quem financia) e do **GTARD** (mensuração de incentivos fiscais e renúncias de impostos concedidos para estimular a P&D privada).
+
+---
+
+**Conexões e Desdobramentos**
+
+- **Conexão com o Manual de Oslo:** Enquanto o Manual de Frascati foca estritamente na mensuração dos insumos e recursos (humanos e financeiros) dedicados à **P&D**, ele atua em simbiose com o Manual de Oslo, que se desdobra na medição dos resultados práticos, saídas e dinâmicas da **Inovação** ampla no setor empresarial e público.
+    
+- **Contabilidade Nacional e o SNA 2008:** Um dos principais desdobramentos práticos do manual foi influenciar a revisão do Sistema de Contas Nacionais (SNA 2008). Isso transformou os gastos com P&D de despesas correntes para **formação de capital fixo (investimento)**, alterando o cálculo do PIB global ao reconhecer a ciência como um ativo de propriedade intelectual intangível.
+    
+- **Vínculo com Políticas de Incentivo Fiscal (Lei do Bem no Brasil):** Os critérios de exclusão e as definições de _Pesquisa Aplicada_ e _Desenvolvimento Experimental_ do manual servem de base jurídica e técnica para auditorias e concessão de incentivos fiscais (como o **GTARD** global ou as deduções da Lei do Bem no contexto nacional), garantindo que a renúncia fiscal seja aplicada apenas em atividades com real incerteza tecnológica.
+    
+- **Governança Orçamentária Pública (GBARD):** O manual desdobra-se em ferramentas de transparência orçamentária para governos, permitindo rastrear as Dotações Orçamentárias Governamentais para P&D. Isso ajuda a identificar se os recursos públicos estão sendo direcionados estrategicamente para fomento básico ou demandas de mercado.
+    
+- **Gestão de Talentos e Conversão em FTE:** Na esfera acadêmica e corporativa, o desdobramento da métrica de **Equivalente a Tempo Integral (FTE)** permite que universidades e centros de pesquisa governamentais otimizem a alocação de recursos humanos, isolando o tempo real que o corpo técnico dedica à investigação científica versus atividades administrativas ou de ensino de rotina.

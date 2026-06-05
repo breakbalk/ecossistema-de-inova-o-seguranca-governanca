@@ -9,9 +9,6 @@
 - **Status:** Constitui uma nota técnica orientadora, metodológica e de referência internacional para a coleta e interpretação de dados sobre inovação. O documento consolida definições de conceitos, taxonomia de atividades inovadoras e diretrizes para a elaboração de indicadores estatísticos que orientam políticas públicas e estratégias corporativas de desenvolvimento tecnológico. Destina-se a analistas de dados, gestores de PD&I, formuladores de políticas científicas e tecnológicas, institutos de estatística e agências de fomento como ferramenta para padronizar a mensuração da inovação em escala global sob condições de transformação digital.
     
 
-O **Manual de Oslo** é a principal referência internacional para a conceituação, coleta, relato e uso de dados sobre inovação. Publicado conjuntamente pela **OCDE** (Organização para a Cooperação e Desenvolvimento Econômico) e pelo **Eurostat** (Departamento de Estatística da União Europeia), sua 4ª edição (2018) atualizou as diretrizes para refletir a transformação digital, o papel das cadeias globais de valor e a importância do capital baseado em conhecimento.
-    
-
 ## 1. O Conceito Geral de Inovação
 
 A grande novidade da 4ª edição foi a criação de uma **definição geral de inovação**, aplicável a todos os setores da economia (Empresas, Governo, Organizações sem fins lucrativos e Famílias):
@@ -125,6 +122,7 @@ O Manual de Oslo opera em perfeita sinergia com a família de manuais da OCDE:
 - **ISO:** Construído em diálogo com o comitê técnico da ISO para alinhar definições métricas com os padrões de gestão da série ISO 50500.
 
 ---
+
 **Conexões e Desdobramentos**
 
 - **[[Manual de Frascati]] (OCDE):** Atua de forma complementar e integrada; enquanto Frascati define estritamente os parâmetros e métricas para Pesquisa e Desenvolvimento (P&D), o Manual de Oslo os absorve como uma das várias atividades que compõem o ecossistema de inovação.
