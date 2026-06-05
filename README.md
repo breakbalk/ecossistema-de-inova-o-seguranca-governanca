@@ -45,7 +45,6 @@ O ecossistema é regido pela sinergia entre a **EC 85/2015**, a **Lei de Inovaç
 
 Alinhado ao contexto federal, o **Marco Legal da Inovação de Goiás (Lei Estadual nº 21.615/2022)** descentralizou o fomento e estruturou o ecossistema goiano.
 
-```mermaid
 graph TD
     A[FAPEG - Ciclo 2026] --> B(Chamada 02/2026: Apoio a Eventos)
     A --> C(Chamada 06/2026: Infraestrutura)
