@@ -2,7 +2,7 @@
 
 **Fonte Bruta e Status**
 
-- **Fonte Bruta:** [[OCDE-Manual-de-patentes-2-edicao-em-ingles.pdf]].
+- **Arquivo Original:** [[OCDE-Manual-de-patentes-2-edicao-em-ingles.pdf]].
     
 - **Status:** Manual metodológico oficial e revisado, parte da "Família Frascati" da OCDE. Estabelece as diretrizes globais para a compilação, mapeamento e interpretação de indicadores estatísticos baseados em dados de patentes mundiais.
     
