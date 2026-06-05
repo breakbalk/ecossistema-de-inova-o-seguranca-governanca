@@ -13,16 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Gestão de Portfólio de Projetos de Inovação.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Manual de Gestão de Portfólio de Projetos de Inovação"
+              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+            }
+          },
+          {
+            "id": "f7198ae21fc8cee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/Manual de Oslo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Manual de Oslo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,11 +229,16 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "8b864e4be9cba43b",
+  "active": "f7198ae21fc8cee7",
   "lastOpenFiles": [
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "_Templates/Manual de Oslo.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Diretrizes de Vitrines Tecnológicas e Prospecção.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Gestão de Portfólio de Projetos de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Governança de Ecossistemas de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Identidade e Prática das ICTs.md",
@@ -231,10 +261,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/CNPq2664-2026.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ISO-IEC 42001.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ISO-IEC 27002-2022.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ISO-IEC 27001 - Anexo A.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ISO-IEC 27001.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ICT.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ETEC.md",
     "01_Fontes_Brutas/lei-no-9-279-de-14-de-maio-de-1996.pdf",
     "04_MANUAIS_UNICIETEC/Politica-de-Gestao-de-Servicos-CERNE_Revisao08.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 474582.crdownload",

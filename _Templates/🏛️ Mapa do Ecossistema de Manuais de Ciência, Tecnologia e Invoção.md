@@ -2,7 +2,7 @@
     
 ### *Manuais e Guias de CT&I (MCTI)*
 
-- **Manual de Oslo (MCTI/OCDE):** Diretrizes internacionais adotadas pelo MCTI para coleta, interpretação e padronização de dados sobre inovação tecnológica e industrial.
+- **[[Manual de Oslo]] (MCTI/OCDE):** Diretrizes internacionais adotadas pelo MCTI para coleta, interpretação e padronização de dados sobre inovação tecnológica e industrial.
     
 - **Manual de Frascati (MCTI/OCDE):** Metodologia padrão global utilizada para definir, mensurar e classificar as atividades de Pesquisa e Desenvolvimento Experimental (P&D).
     
