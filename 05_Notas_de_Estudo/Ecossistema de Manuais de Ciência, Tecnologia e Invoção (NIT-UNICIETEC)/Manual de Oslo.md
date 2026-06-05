@@ -115,7 +115,7 @@ O Manual de Oslo opera em perfeita sinergia com a família de manuais da OCDE:
 
 - **[[ManualdePatentes20210706.pdf]]:** Focado estritamente em Pesquisa e Desenvolvimento (P&D).
     
-- **Manual de Patentes da OCDE:** Focado em invenções patenteadas.
+- **[[Manual de Patentes da OCDE]]:** Focado em invenções patenteadas.
     
 - **SNA (Sistema de Contas Nacionais):** Alinhado para tratar gastos com conhecimento e inovação como formação de capital (investimentos) e não como meras despesas correntes.
     
