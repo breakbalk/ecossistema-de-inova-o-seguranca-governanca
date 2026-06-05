@@ -4,7 +4,6 @@
 
 - **Arquivo Original:** [[Cadernos-Temáticos-ANEEL-Micro-e-Mini-Geração-Distribuída-1.pdf]] e [[Lei n 14.300-2022.pdf]]
     
-
 - **Status:** Constitui uma nota técnica orientadora e de referência regulatória nacional, fundamentada nas diretrizes do Ministério de Minas e Energia (MME) e da Agência Nacional de Energia Elétrica (ANEEL). O documento consolida balizamentos práticos, fluxogramas de acesso, critérios de compensação financeira e o cronograma de transição tarifária estabelecido pela Lei nº 14.300/2022 (Marco Legal da GD). Destina-se a engenheiros, gestores de energia, consultores e investidores como ferramenta de governança e viabilidade para o desenvolvimento e integração de ativos de micro e minigeração à rede de distribuição nacional.
     
 ---

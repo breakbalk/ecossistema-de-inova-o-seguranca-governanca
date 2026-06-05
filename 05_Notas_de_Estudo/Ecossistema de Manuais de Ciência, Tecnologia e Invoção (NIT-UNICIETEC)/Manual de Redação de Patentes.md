@@ -4,7 +4,6 @@
 
 - **Arquivo Original:** [[ManualdePatentes20210706.pdf]]
     
-
 - **Status:** Constitui um resumo estruturado do **Manual Básico para Proteção por Patentes de Invenções, Modelos de Utilidade e Certificados de Adição** (versão jul-21) do Ministério da Economia e do INPI. Ele consolida normas, resoluções e procedimentos práticos para depositantes.
      
 ---

@@ -4,9 +4,9 @@
 
 - **Base Legal:** Art. 2º, inciso IX do [[Decreto 9.283_2018.pdf]].
     
-    
 - **Status:** Pilar de segurança jurídica para inovação.
     
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

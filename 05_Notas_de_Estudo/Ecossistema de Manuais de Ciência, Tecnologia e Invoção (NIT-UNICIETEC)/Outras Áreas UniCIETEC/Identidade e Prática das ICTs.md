@@ -5,7 +5,6 @@
 
 - **Base Legal:**[[guia_de_caracterizacao_de_entidade_como_ict_mcti.pdf]] e [[guia_de_orientacoes_sobre_instrumentos_marco_legal_cti_mcti.pdf]].
     
-
 - **Status:** Constitui o referencial técnico, normativo e operacional editado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI). Os documentos servem como manuais práticos e jurídicos para padronizar o entendimento de gestores públicos, privados, procuradorias e órgãos de controle, detalhando os requisitos para o enquadramento institucional de entidades científicas e a correta aplicação dos contratos e parcerias previstos na legislação de CT&I.
     
 ---

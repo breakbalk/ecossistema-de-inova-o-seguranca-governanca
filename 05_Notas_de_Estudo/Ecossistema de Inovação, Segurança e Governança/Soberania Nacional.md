@@ -7,7 +7,7 @@
     
 **Status:** Analisado exaustivamente / Conceito transversal que une o Marco Legal às Normas ISO. 
     
-**Documentos Auxiliares:** [[ISO_IEC 27001.md]], [[Emenda Constitucional 85.md]], [[ISO_IEC 27000.md]]
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

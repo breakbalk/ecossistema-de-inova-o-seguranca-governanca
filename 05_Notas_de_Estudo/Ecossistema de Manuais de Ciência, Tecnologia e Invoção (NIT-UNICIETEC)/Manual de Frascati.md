@@ -4,7 +4,6 @@
 
 - **Arquivo Original:** [[Lei 13.243_2016.pdf]] e [[Decreto 9.283_2018.pdf]]
     
-
 - **Status:** Constitui um guia metodológico e estatístico de referência global, elaborado e atualizado periodicamente pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE). O documento funciona como um manual de padronização conceitual e operacional voltado a institutos de estatística, gestores públicos de CT&I, formuladores de políticas econômicas, universidades e diretores de P&D corporativos, com o objetivo de alinhar as métricas de investimento científico, mitigar assimetrias de dados internacionais e viabilizar a mensuração segura, comparável e auditável dos esforços em Pesquisa e Desenvolvimento Experimental entre diferentes países e setores.
     
 ---

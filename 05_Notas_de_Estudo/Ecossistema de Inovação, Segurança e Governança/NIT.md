@@ -4,9 +4,9 @@
 
 - **Base Legal:** Art. 16 e 17 da [[Lei 10.973_2004.pdf]] e [[Decreto 9.283_2018.pdf]].
     
-    
 - **Status:** Centro de inteligência e gestão da Propriedade Intelectual.
     
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

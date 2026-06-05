@@ -4,7 +4,6 @@
 
 - **Arquivo Original:** Manual de Frascati; Manual de Oslo; Métrica TRL (Technology Readiness Level - ISO 16290); Família de Normas ISO 56000 (Gestão da Inovação); Lei do Bem (Lei nº 11.196/2005 - Capítulo III); [[Lei 10.973_2004.pdf]] e [[Lei 13.243_2016.pdf]]
     
-
 - **Status:** Constitui uma nota técnica orientadora, metodológica e de referência em governança pública e corporativa, fundamentada nos estudos de políticas públicas e gestão estratégica do Ipea. O documento consolida critérios de seleção, balanceamento de riscos, alocação de recursos e monitoramento de projetos de pesquisa, desenvolvimento e inovação (PD&I). Destina-se a gestores de fundos de CT&I, diretores de tecnologia, agências de fomento e órgãos de coordenação estratégica como ferramenta para maximizar o retorno dos investimentos em inovação sob condições de incerteza.
     
 ---

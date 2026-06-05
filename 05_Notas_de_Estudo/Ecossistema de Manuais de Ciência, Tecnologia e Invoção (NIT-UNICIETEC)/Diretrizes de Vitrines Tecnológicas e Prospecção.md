@@ -5,7 +5,6 @@
 
 - **Base Legal:** Portfólio de Resoluções FORMICT (MCTI), Manuais Operacionais do PNIPE/MCTI e Cadernos de Prospecção Tecnológica (INPI/FORTEC).
     
-
 - **Status:** Constitui um guia metodológico e de governança de referência nacional, elaborado pela Secretaria de Desenvolvimento Tecnológico e Inovação do Ministério da Ciência, Tecnologia e Inovação (MCTI). O documento funciona como um manual de orientação prática e jurídica voltado a gestores de Núcleos de Inovação Tecnológica (NITs), pesquisadores, diretores de ICTs e parceiros industriais, com o objetivo de padronizar a exposição de ativos de propriedade intelectual, otimizar a inteligência competitiva e acelerar os processos de transferência de tecnologia para o setor produtivo.
     
 

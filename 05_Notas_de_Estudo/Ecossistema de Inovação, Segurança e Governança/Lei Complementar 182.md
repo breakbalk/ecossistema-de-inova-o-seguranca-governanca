@@ -4,10 +4,10 @@
 
 - **Arquivo Original:** [[LEI-COMPLEMENTAR-No-182-DE-1o-DE-JUNHO-DE-2021.pdf]]
     
- 
-- **Status:** Analisado exaustivamente | Integração das diretrizes de Ciência, Tecnologia e Inovação (CT&I) aos mecanismos de mitigação de risco para investidores, sandboxes regulatórios e o regime de licitação pública para soluções disruptivas.
+ - **Status:** Analisado exaustivamente | Integração das diretrizes de Ciência, Tecnologia e Inovação (CT&I) aos mecanismos de mitigação de risco para investidores, sandboxes regulatórios e o regime de licitação pública para soluções disruptivas.
     
-  
+ ---
+ 
 A Lei Complementar nº 182/2021 ultrapassa a mera desburocracia empresarial; ela estabelece a **Ciência, Tecnologia e Inovação (CT&I)** como a infraestrutura intelectual do desenvolvimento econômico moderno. Ao reconhecer o empreendedorismo inovador como vetor de crescimento econômico, social e ambiental, o marco legal transforma o conhecimento científico aplicável em riqueza e empregos qualificados, estruturando os seguintes pilares:
 
 
