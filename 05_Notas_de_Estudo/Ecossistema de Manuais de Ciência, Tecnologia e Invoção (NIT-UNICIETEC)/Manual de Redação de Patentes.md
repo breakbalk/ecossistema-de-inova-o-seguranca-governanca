@@ -142,20 +142,17 @@ Para obter a concessão de forma ágil, o INPI sugere o seguinte fluxo lógico d
 
 - - **[[Constituição Federal de 1988]] (Art. 5º, XXIX):** Garante a proteção às invenções industriais e aos privilégios temporários para sua utilização.
     
-   
 - **[[Lei 9279-1996]] (Lei da Propriedade Industrial — LPI):** É o principal marco regulatório utilizado em todo o manual, que dita o que pode ou não ser patenteado (como as exclusões do Art. 10), além dos prazos e condições de exploração.
     
-   
 - **[[Convenção da União de Paris]] (CUP):** Tratado internacional basilar para a proteção da propriedade industrial global adotado nos procedimentos do manual.
-    
     
 - **[[Acordo TRIPS]]:** Regulamento internacional sob a égide da OMC que baliza as diretrizes de propriedade intelectual descritas.
     
-
 - **[[Tratado de Cooperação em Matéria de Patentes]] (PCT):** Sistema internacional integrado ao manual que simplifica o processo de solicitação de proteção em múltiplos países.
     
-
 - **[[Classificação Internacional de Patentes]] (IPC):** Sistema de organização hierárquica por seções (A a H) utilizado para indexação e estratégias de busca avançada.
+    
+- **Harmonização com o [[Manual de Patentes da OCDE]]**: Enquanto as diretrizes e manuais de exame do INPI (como as regras de patenteabilidade para o Bloco II e programas de computador) possuem um caráter estritamente _operacional, técnico e jurídico_ para determinar o que pode se tornar um ativo legal no Brasil, elas servem como o "filtro de entrada" para os dados que alimentam o _OECD Patent Statistics Manual_. A rigorosa aplicação dos critérios de novidade, atividade inventiva e aplicação industrial exigida no nível regulatório nacional pelo INPI garante a qualidade e a confiabilidade dos dados administrativos locais. Esses dados, uma vez consolidados, passam a integrar as métricas macroeconômicas globais normatizadas pela OCDE. Entender os limites da patenteabilidade de software na esfera local é, portanto, o primeiro passo indispensável para que engenheiros e analistas consigam interpretar corretamente os indicadores de inovação, o mapeamento de tecnologias emergentes e os fluxos de transferência tecnológica internacional propostos pelo manual da OCDE.
     
 
 ---
