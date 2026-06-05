@@ -1,8 +1,12 @@
 # (Nota Técnica: Gestão Avançada de Projetos de PD&I e Maximun Incentivos (Lei do Bem))
 
+**Fonte Bruta:**
+
+- **Arquivo Original:** [[Lei 13.243_2016.pdf]] e [[Decreto 9.283_2018.pdf]]
+    
 **Destinatário:** Diretotia Executiva, Gerência de P&D, Controladoria e Assessoria Jurídica
 
-**Contexto:** Planejamento e estruturação de projetos tecnológicos para captação integral de benefícios fiscais da Lei nº 11.196/2005 (Lei do Bem).
+**Status:** Planejamento e estruturação de projetos tecnológicos para captação integral de benefícios fiscais da Lei nº 11.196/2005 (Lei do Bem).
 
 ### 1. Diretrizes para Identificação de Projetos Elegíveis
 
