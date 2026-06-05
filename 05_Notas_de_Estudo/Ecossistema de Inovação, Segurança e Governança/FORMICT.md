@@ -57,4 +57,6 @@ O **FORMICT** (Formulário para Informações sobre a Política de Propriedade I
 - **Agente Objeto:** [[ICT]].
     
 - **Regulador Externo:** Ministério da Ciência, Tecnologia e Inovação (MCTI).
+    
+
 ---

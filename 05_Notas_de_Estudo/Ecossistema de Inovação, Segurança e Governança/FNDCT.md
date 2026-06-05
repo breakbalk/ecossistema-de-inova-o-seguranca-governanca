@@ -49,4 +49,6 @@ O **FNDCT** é o combustível financeiro da ciência e tecnologia no Brasil. Sua
 - **Planejamento:** [[ENCTI 2024-2034]].
     
 - **Instrumento Derivado:** [[Subvenção Econômica]].
+    
+
 ---

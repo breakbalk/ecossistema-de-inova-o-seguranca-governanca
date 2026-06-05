@@ -95,13 +95,13 @@ Para evitar desvios de finalidade e garantir a segurança jurídica do gestor, o
 
 - **Constituição Federal de 1988 (Art. 218 e 219):** Estabelece o estímulo ao desenvolvimento científico, à pesquisa e à capacitação tecnológica como dever do Estado, fundamentando a soberania e o uso do poder de compra público para impulsionar a inovação e o bem-estar social.
     
-- **Lei 10.973/2004 (Lei de Inovação):** Dispõe sobre mecanismos de fomento à pesquisa e à inovação no ambiente produtivo, instituindo em seu Artigo 20 a base legal primária para que o Estado realize a contratação direta de soluções que envolvam risco tecnológico.
+- **[[Lei 10973-2004]] (Lei de Inovação):** Dispõe sobre mecanismos de fomento à pesquisa e à inovação no ambiente produtivo, instituindo em seu Artigo 20 a base legal primária para que o Estado realize a contratação direta de soluções que envolvam risco tecnológico.
     
-- **Lei 13.243/2016 (Marco Legal de CT&I):** Promoveu alterações estruturais para simplificar a atuação conjunta entre o setor público, ICTs e o setor produtivo, ampliando a segurança jurídica nos contratos de P&D e flexibilizando a partilha dos direitos de propriedade intelectual.
+- **[[Lei 13243-2016]] (Marco Legal de CT&I):** Promoveu alterações estruturais para simplificar a atuação conjunta entre o setor público, ICTs e o setor produtivo, ampliando a segurança jurídica nos contratos de P&D e flexibilizando a partilha dos direitos de propriedade intelectual.
     
-- **Decreto 9.283/2018:** Regulamenta a Lei de Inovação, detalhando expressamente a governança das ETECs, as atribuições do Comitê de Especialistas, os critérios de aferição do risco tecnológico e a permissão para regimes de reembolso de custos.
+- **[[Decreto 9283-2018]]:** Regulamenta a Lei de Inovação, detalhando expressamente a governança das ETECs, as atribuições do Comitê de Especialistas, os critérios de aferição do risco tecnológico e a permissão para regimes de reembolso de custos.
     
-- **Lei 14.133/2021 (Nova Lei de Licitações):** Dialoga diretamente com o ecossistema de compras públicas inovadoras, preservando os ritos de dispensa baseados em leis especiais de CT&I e incorporando o modelo de diálogo competitivo para a busca de soluções inéditas no mercado.
+- **[[Lei 14133-2021]] (Nova Lei de Licitações):** Dialoga diretamente com o ecossistema de compras públicas inovadoras, preservando os ritos de dispensa baseados em leis especiais de CT&I e incorporando o modelo de diálogo competitivo para a busca de soluções inéditas no mercado.
     
 - **Framework COBIT (Domínio APO):** Conecta-se à estruturação processual da ETEC na fase de Estudos Preliminares através dos critérios de Alinhamento, Planejamento e Organização, garantindo que o investimento estatal em tecnologia esteja rigidamente vinculado aos objetivos estratégicos e de governança do órgão público.
     

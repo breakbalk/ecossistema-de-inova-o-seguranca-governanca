@@ -54,4 +54,6 @@ A **FINEP** é a empresa pública vinculada ao MCTI responsável por fomentar a 
 - **Estratégia Superior:** [[ENCTI 2024-2034]].
     
 - **Agentes Beneficiados:** [[ICT]] e Empresas.
+    
+
 ---

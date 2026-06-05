@@ -71,6 +71,8 @@ A EC 85/2015 é o ponto de inflexão que elevou a **Inovação** ao status de de
 - **[[SNCTI]]**: Esta é a conexão mais importante. A EC 85 criou o fundamento para o Art. 219-B, que obriga a União, Estados e Municípios a trabalharem juntos.
     
 - **[[Soberania Tecnológica]]**: "Desdobramento Filosófico" — A transição de uma Constituição que apenas "apoiava a ciência" para uma que "exige a soberania nacional".
+    
+
 ---
 
 
