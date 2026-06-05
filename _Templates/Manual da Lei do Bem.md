@@ -66,11 +66,11 @@ A observância estrita a estes critérios assegura que a empresa capture os ince
 
 - **Constituição Federal de 1988 (Art. 218 e 219):** Estabelece o estímulo ao desenvolvimento científico, à pesquisa e à capacitação tecnológica como dever do Estado, servindo como o fundamento constitucional supremo para a criação de incentivos fiscais voltados à inovação e à competitividade do setor produtivo nacional.
     
-- **[[Lei 11.196/2005 (Lei do Bem - Capítulo III):** Consolida-se como a espinha dorsal dos incentivos fiscais à inovação tecnológica na esfera privada, instituindo o regime de renúncia fiscal autodeclaratória para dedução de despesas de custeio em PD&I na base de cálculo do IRPJ e da CSLL.
+- **[[LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005.pdf]] (Lei do Bem - Capítulo III):** Consolida-se como a espinha dorsal dos incentivos fiscais à inovação tecnológica na esfera privada, instituindo o regime de renúncia fiscal autodeclaratória para dedução de despesas de custeio em PD&I na base de cálculo do IRPJ e da CSLL.
     
-- **Lei nº 10.973/2004 (Lei de Inovação):** Dispõe sobre os mecanismos de cooperação e o fomento à pesquisa no ambiente produtivo. O desdobramento prático é a base legal para contratos conjuntos com Instituições Científicas e Tecnológicas (ICTs), permitindo a dedução dos repasses desde que a empresa assuma o risco empresarial do projeto.
+- **[[Lei 10.973_2004.pdf]] (Lei de Inovação):** Dispõe sobre os mecanismos de cooperação e o fomento à pesquisa no ambiente produtivo. O desdobramento prático é a base legal para contratos conjuntos com Instituições Científicas e Tecnológicas (ICTs), permitindo a dedução dos repasses desde que a empresa assuma o risco empresarial do projeto.
     
-- **Lei nº 13.243/2016 (Marco Legal de CT&I):** Promoveu alterações estruturais para desburocratizar a relação entre o ecossistema público de pesquisa e as empresas, ampliando a segurança jurídica nas parcerias de P&D, na transferência de tecnologia e na partilha de direitos de propriedade intelectual (PI).
+- **[[Lei 13.243_2016.pdf]] (Marco Legal de CT&I):** Promoveu alterações estruturais para desburocratizar a relação entre o ecossistema público de pesquisa e as empresas, ampliando a segurança jurídica nas parcerias de P&D, na transferência de tecnologia e na partilha de direitos de propriedade intelectual (PI).
     
 - **Portaria MCTI nº 2.794/2020:** Regulamenta o rito processual administrativo de apresentação, prazos e julgamento dos formulários eletrônicos de prestação de contas (FormP&D). Estabelece a data limite de 31 de julho e as regras para interposição de recursos contra glosas do Ministério.
     
@@ -82,4 +82,7 @@ A observância estrita a estes critérios assegura que a empresa capture os ince
     
 - **Jurisprudência do MCTI (Princípio do Risco Tecnológico):** Desdobra-se na aceitação regulatória de que o insucesso técnico e os resultados negativos em experimentos fazem parte do processo de inovação. Desde que a metodologia científica seja comprovada no FormP&D, o fracasso do projeto não invalida a dedução fiscal dos gastos.
     
-- **Manual da Lei do Bem (MCTI/ANPEI):** Fonte bruta e guia prático oficial que delimita os conceitos de PD&I, os critérios de elegibilidade de custos e as diretrizes operacionais para a captação segura dos incentivos fiscais.
+- **[[GuiaPraticodaLeidoBem2020MCTI.pdf]] (MCTI/ANPEI):** Fonte bruta e guia prático oficial que delimita os conceitos de PD&I, os critérios de elegibilidade de custos e as diretrizes operacionais para a captação segura dos incentivos fiscais.
+    
+
+---
