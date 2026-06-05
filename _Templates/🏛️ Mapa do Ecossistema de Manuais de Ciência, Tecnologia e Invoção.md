@@ -10,7 +10,7 @@
     
 - **[[Manual da Lei do Bem]] (MCTI):** Guia oficial contendo os critérios, regras operacionais e fluxos para a concessão de incentivos fiscais a empresas que realizam P&D.
     
-- **Diretrizes do Formict (MCTI):** Manual e formulário anual que orienta as ICTs públicas e privadas no envio de informações sobre suas políticas de propriedade intelectual e transferência de tecnologia.
+- **[[Manual de Diretrizes do Formict]] (MCTI):** Manual e formulário anual que orienta as ICTs públicas e privadas no envio de informações sobre suas políticas de propriedade intelectual e transferência de tecnologia.
     
 
 ### *Modelos e Manuais de Ambientes de Inovação (Anprotec)*
