@@ -134,3 +134,5 @@ O Manual de Oslo opera em perfeita sinergia com a família de manuais da OCDE:
 - **Marco Legal da Ciência, Tecnologia e Inovação ([[Lei 10.973_2004.pdf]] e [[Lei 13.243_2016.pdf]]):** Utiliza as premissas conceituais e metodológicas de inovação de produto e de processo para fundamentar os instrumentos jurídicos de fomento, subvenção econômica e incentivos fiscais no cenário nacional.
     
 - **Pesquisa de Inovação (PINTEC / IBGE):** Adapta diretamente as diretrizes metodológicas da abordagem baseada no sujeito (_subject-based_) proposta por Oslo para mapear o comportamento e o desempenho inovador das empresas brasileiras no setor industrial e de serviços.
+
+---
