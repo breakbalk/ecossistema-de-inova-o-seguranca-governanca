@@ -113,7 +113,7 @@ O manual orienta todo o ciclo de vida dos dados estatísticos sobre inovação, 
 
 O Manual de Oslo opera em perfeita sinergia com a família de manuais da OCDE:
 
-- **Manual de Frascati:** Focado estritamente em Pesquisa e Desenvolvimento (P&D).
+- **[[ManualdePatentes20210706.pdf]]:** Focado estritamente em Pesquisa e Desenvolvimento (P&D).
     
 - **Manual de Patentes da OCDE:** Focado em invenções patenteadas.
     

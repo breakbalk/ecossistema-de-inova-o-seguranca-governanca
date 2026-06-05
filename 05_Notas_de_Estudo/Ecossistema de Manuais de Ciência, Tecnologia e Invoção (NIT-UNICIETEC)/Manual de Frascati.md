@@ -103,11 +103,11 @@ O manual estabelece metodologias estritas para evitar a dupla contagem e mensura
 
 **Conexões e Desdobramentos**
 
-- **Conexão com o Manual de Oslo:** Enquanto o Manual de Frascati foca estritamente na mensuração dos insumos e recursos (humanos e financeiros) dedicados à **P&D**, ele atua em simbiose com o Manual de Oslo, que se desdobra na medição dos resultados práticos, saídas e dinâmicas da **Inovação** ampla no setor empresarial e público.
+- **[[Manual de Oslo]]:** Enquanto o Manual de Frascati foca estritamente na mensuração dos insumos e recursos (humanos e financeiros) dedicados à **P&D**, ele atua em simbiose com o Manual de Oslo, que se desdobra na medição dos resultados práticos, saídas e dinâmicas da **Inovação** ampla no setor empresarial e público.
     
 - **Contabilidade Nacional e o SNA 2008:** Um dos principais desdobramentos práticos do manual foi influenciar a revisão do Sistema de Contas Nacionais (SNA 2008). Isso transformou os gastos com P&D de despesas correntes para **formação de capital fixo (investimento)**, alterando o cálculo do PIB global ao reconhecer a ciência como um ativo de propriedade intelectual intangível.
     
-- **Vínculo com Políticas de Incentivo Fiscal (Lei do Bem no Brasil):** Os critérios de exclusão e as definições de _Pesquisa Aplicada_ e _Desenvolvimento Experimental_ do manual servem de base jurídica e técnica para auditorias e concessão de incentivos fiscais (como o **GTARD** global ou as deduções da Lei do Bem no contexto nacional), garantindo que a renúncia fiscal seja aplicada apenas em atividades com real incerteza tecnológica.
+- **Vínculo com Políticas de Incentivo Fiscal ([[GuiaPraticodaLeidoBem2020MCTI.pdf]] no Brasil):** Os critérios de exclusão e as definições de _Pesquisa Aplicada_ e _Desenvolvimento Experimental_ do manual servem de base jurídica e técnica para auditorias e concessão de incentivos fiscais (como o **GTARD** global ou as deduções da Lei do Bem no contexto nacional), garantindo que a renúncia fiscal seja aplicada apenas em atividades com real incerteza tecnológica.
     
 - **Governança Orçamentária Pública (GBARD):** O manual desdobra-se em ferramentas de transparência orçamentária para governos, permitindo rastrear as Dotações Orçamentárias Governamentais para P&D. Isso ajuda a identificar se os recursos públicos estão sendo direcionados estrategicamente para fomento básico ou demandas de mercado.
     
