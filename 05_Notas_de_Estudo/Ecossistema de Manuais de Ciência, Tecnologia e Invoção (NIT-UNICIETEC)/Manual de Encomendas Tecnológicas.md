@@ -1,4 +1,4 @@
-# (Encomendas Tecnológicas (ETECs) no Bras (MCTI/IPEA))
+# (Encomendas Tecnológicas (ETECs) no Brasil (MCTI/IPEA))
 
 **Fonte Bruta:**
 
@@ -108,4 +108,8 @@ Para evitar desvios de finalidade e garantir a segurança jurídica do gestor, o
 - **Boas Práticas ITIL (Transição de Serviço):** Alinha-se diretamente ao modelo de ciclo de vida e monitoramento da ETEC, onde o avanço gradual pelas escalas TRL e a validação nos portões de seleção funcionam como um processo estruturado de Gerenciamento de Mudança e Gestão de Liberação de novos serviços tecnológicos.
     
 - **Jurisprudência do TCU (Princípio da Aceitabilidade do Fracasso):** Desdobra-se em uma nova mentalidade de controle externo que passa a auditar a legitimidade do esforço empreendido na atividade de P&D, blindando o gestor público contra sanções caso o insucesso do projeto decorra estritamente do risco tecnológico previamente mapeado.
+    
+- **[[ETEC]]:** Fonte bruta que delimita as balizas legais e os riscos jurídicos da contratação direta por risco.
+    
 
+---

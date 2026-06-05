@@ -6,7 +6,7 @@
     
 - **[[Manual de Frascati]] (MCTI/OCDE):** Metodologia padrão global utilizada para definir, mensurar e classificar as atividades de Pesquisa e Desenvolvimento Experimental (P&D).
     
-- **[[Guia de Encomendas Tecnológicas]] (MCTI/Ipea):** Manual orientador para a aplicação prática do instrumento de compra pública de inovação com alto risco tecnológico.
+- **[[Manual de Encomendas Tecnológicas]] (MCTI/Ipea):** Manual orientador para a aplicação prática do instrumento de compra pública de inovação com alto risco tecnológico.
     
 - **Manual da Lei do Bem (MCTI):** Guia oficial contendo os critérios, regras operacionais e fluxos para a concessão de incentivos fiscais a empresas que realizam P&D.
     
