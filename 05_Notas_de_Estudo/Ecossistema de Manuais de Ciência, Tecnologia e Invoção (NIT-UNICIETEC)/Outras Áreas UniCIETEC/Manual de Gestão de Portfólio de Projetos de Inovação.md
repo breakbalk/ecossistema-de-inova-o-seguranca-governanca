@@ -6,6 +6,8 @@
     
 
 - **Status:** Constitui uma nota técnica orientadora, metodológica e de referência em governança pública e corporativa, fundamentada nos estudos de políticas públicas e gestão estratégica do Ipea. O documento consolida critérios de seleção, balanceamento de riscos, alocação de recursos e monitoramento de projetos de pesquisa, desenvolvimento e inovação (PD&I). Destina-se a gestores de fundos de CT&I, diretores de tecnologia, agências de fomento e órgãos de coordenação estratégica como ferramenta para maximizar o retorno dos investimentos em inovação sob condições de incerteza.
+    
+---
 
 ### 1. Alinhamento Estratégico e Funil de Inovação
 

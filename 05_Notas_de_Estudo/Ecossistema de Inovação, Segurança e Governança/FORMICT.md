@@ -7,6 +7,7 @@
     
 - **Status:** Instrumento anual de monitoramento e transparência.
     
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

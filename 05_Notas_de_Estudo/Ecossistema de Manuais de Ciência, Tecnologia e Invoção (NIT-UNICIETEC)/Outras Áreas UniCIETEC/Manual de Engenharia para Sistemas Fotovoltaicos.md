@@ -6,6 +6,8 @@
     
 
 - **Status:** Constitui uma nota técnica didática, orientadora e de referência de engenharia nacional, fundamentada nas pesquisas do **Centro de Pesquisas de Energia Elétrica (Cepel)** e do **Centro de Referência para as Energias Solar e Eólica Sérgio de Brito (Cresesb)**. O documento consolida as boas práticas de dimensionamento, fundamentos físicos, requisitos de segurança e engenharia executiva para sistemas isolados e conectados à rede. Destina-se a engenheiros, técnicos, projetistas e estudantes como ferramenta de governança técnica e padronização para o desenvolvimento de projetos fotovoltaicos adaptados às condições climáticas e regulatórias do Brasil.
+    
+---
 
 ### 1. O Recurso Solar e Geometria da Terra
 

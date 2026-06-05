@@ -6,6 +6,8 @@
     
 
 - **Status:** Constitui um resumo estruturado do _Guia de Melhores Práticas nas Colaborações ICT-Empresa_, idealizado pela Comissão de Propriedade Intelectual da **ICC Brasil** (_International Chamber of Commerce_). O documento compila dados de 22 entrevistas estruturadas (realizadas em 2019 e início de 2020) para mapear gargalos e propor ações que dinamizem a transferência de tecnologia e a PD&I no cenário brasileiro.
+    
+---
 
 ## 🏛️ 1. Contexto e Diagnóstico da Inovação no Brasil
 

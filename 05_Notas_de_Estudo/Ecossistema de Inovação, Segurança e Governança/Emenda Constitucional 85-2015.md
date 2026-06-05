@@ -4,9 +4,9 @@
 
 - **Arquivo Original:** [[Emenda Constitucional nº 85.pdf]]
     
-    
 - **Status:** Analisado exaustivamente / Base constitucional do Marco Legal de CT&I.
     
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

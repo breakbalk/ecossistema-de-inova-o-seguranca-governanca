@@ -6,6 +6,7 @@
     
 **Status:** Analisado exaustivamente / Norma pioneira para governança de IA e conformidade regulatória. 
     
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

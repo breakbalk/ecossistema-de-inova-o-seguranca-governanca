@@ -4,9 +4,9 @@
 
 - **Base Legal:** Lei nº 11.540/2007 e [[Lei 177/2021]] (Lei que proibiu o contingenciamento).
     
-    
 - **Status:** Analisado exaustivamente / Principal fonte de financiamento do [[SNCTI]].
     
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

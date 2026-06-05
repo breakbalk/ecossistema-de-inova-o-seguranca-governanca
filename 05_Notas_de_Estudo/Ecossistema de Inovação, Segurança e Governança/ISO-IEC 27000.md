@@ -4,8 +4,10 @@
 📁 **1. Fonte Bruta**
 
 **Arquivo Original:** [[ISO_IEC_27000_2014.pdf]] 
-
+    
 **Status:** Analisado exaustivamente / Vocabulário fundamental e base ontológica para Segurança e Governança.
+    
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

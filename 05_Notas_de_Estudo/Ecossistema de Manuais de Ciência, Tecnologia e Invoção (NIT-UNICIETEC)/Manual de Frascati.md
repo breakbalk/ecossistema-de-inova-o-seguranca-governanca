@@ -7,6 +7,7 @@
 
 - **Status:** Constitui um guia metodológico e estatístico de referência global, elaborado e atualizado periodicamente pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE). O documento funciona como um manual de padronização conceitual e operacional voltado a institutos de estatística, gestores públicos de CT&I, formuladores de políticas econômicas, universidades e diretores de P&D corporativos, com o objetivo de alinhar as métricas de investimento científico, mitigar assimetrias de dados internacionais e viabilizar a mensuração segura, comparável e auditável dos esforços em Pesquisa e Desenvolvimento Experimental entre diferentes países e setores.
     
+---
 
 O **Manual de Frascati** é o padrão internacional reconhecido para a coleta, relatório e interpretação de estatísticas sobre os recursos financeiros e humanos dedicados à **Pesquisa e Desenvolvimento Experimental (P&D)**. Publicado pela **OCDE** (Organização para a Cooperação e Desenvolvimento Econômico), sua edição de 2015 (7ª edição) consolida uma linguagem comum mundial para alinhar políticas científicas, tecnológicas e econômicas.
 
@@ -112,3 +113,6 @@ O manual estabelece metodologias estritas para evitar a dupla contagem e mensura
 - **Governança Orçamentária Pública (GBARD):** O manual desdobra-se em ferramentas de transparência orçamentária para governos, permitindo rastrear as Dotações Orçamentárias Governamentais para P&D. Isso ajuda a identificar se os recursos públicos estão sendo direcionados estrategicamente para fomento básico ou demandas de mercado.
     
 - **Gestão de Talentos e Conversão em FTE:** Na esfera acadêmica e corporativa, o desdobramento da métrica de **Equivalente a Tempo Integral (FTE)** permite que universidades e centros de pesquisa governamentais otimizem a alocação de recursos humanos, isolando o tempo real que o corpo técnico dedica à investigação científica versus atividades administrativas ou de ensino de rotina.
+    
+
+---

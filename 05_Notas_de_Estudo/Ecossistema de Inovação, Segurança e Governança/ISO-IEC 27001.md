@@ -6,6 +6,7 @@
        
 **Status:** Analisado exaustivamente / Norma auditável e requisito para certificação de conformidade. 
     
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

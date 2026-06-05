@@ -4,9 +4,9 @@
 
 - **Base Legal:** Estatuto Social da FINEP e vínculo com a [[Lei 10.973_2004.pdf]].
     
-    
 - **Status:** Secretaria Executiva do [[FNDCT]].
     
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

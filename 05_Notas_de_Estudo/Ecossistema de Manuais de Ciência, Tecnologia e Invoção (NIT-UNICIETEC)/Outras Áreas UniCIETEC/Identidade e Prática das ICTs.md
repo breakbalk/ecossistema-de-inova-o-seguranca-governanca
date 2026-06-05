@@ -7,6 +7,8 @@
     
 
 - **Status:** Constitui o referencial técnico, normativo e operacional editado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI). Os documentos servem como manuais práticos e jurídicos para padronizar o entendimento de gestores públicos, privados, procuradorias e órgãos de controle, detalhando os requisitos para o enquadramento institucional de entidades científicas e a correta aplicação dos contratos e parcerias previstos na legislação de CT&I.
+    
+---
 
 ## 🏛️ 1. Conceitos Fundamentais, Base Legal e a Natureza das ICTs
 

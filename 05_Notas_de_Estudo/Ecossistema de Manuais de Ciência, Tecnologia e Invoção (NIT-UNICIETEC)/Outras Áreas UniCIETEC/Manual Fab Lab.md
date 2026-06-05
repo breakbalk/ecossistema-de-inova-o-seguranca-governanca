@@ -5,7 +5,9 @@
 - **Arquivo Original:** [[FabAcademyHandbook.pdf]]
     
 
-- **Status:** Trata-se do manual oficial de governança, critérios pedagógicos e operação técnica da Fab Academy, a plataforma educacional global coordenada pelo Center for Bits and Atoms (CBA) do MIT e pela Fab Foundation. O documento funciona como um guia de padronização para estudantes, instrutores locais e "Gurus", estabelecendo os requisitos de infraestrutura para os laboratórios e a matriz de competências necessárias para a obtenção do Fab Diploma.
+- **Status:** Trata-se do manual oficial de governança, critérios pedagógicos e operação técnica da Fab Academy, a plataforma educacional global coordenada pelo Center for Bits and Atoms (CBA) do MIT e pela Fab Foundation. O documento funciona como um guia de padronização para estudantes, instrutores locais e "Gurus", estabelecendo os requisitos de infraestrutura para os laboratórios e a matriz de competências necessárias para a obtenção do Fab Diploma.  
+    
+---
 
 ## 🏛️ 1. Conceitos Fundamentais e o Propósito da Fab Academy 
 

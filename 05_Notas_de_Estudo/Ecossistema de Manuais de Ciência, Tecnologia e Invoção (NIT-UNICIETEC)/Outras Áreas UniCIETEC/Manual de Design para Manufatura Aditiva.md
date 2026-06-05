@@ -6,6 +6,8 @@
     
 
 - **Status:** Constitui um manual de orientação técnica e engenharia de precisão, editado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) em parceria com o Instituto Nacional de Tecnologia (INT). O documento funciona como um referencial metodológico voltado a estudantes, engenheiros, designers e desenvolvedores de projetos, com o objetivo de otimizar a transição entre o design digital CAD e a produção física de peças, mitigando erros de impressão, reduzindo o desperdício de insumos e maximizando a eficiência estrutural na prototipação rápida industrial.
+    
+---
 
 ## 🏛️ 1. Conceitos Fundamentais e o Contexto Estratégico Nacional
 

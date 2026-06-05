@@ -5,6 +5,8 @@
 **Arquivo Original:** [[ISO_IEC-27001-2022-ed.3.pdf]] 
     
 **Status:** Analisado exaustivamente / Conjunto de controles aplicáveis para mitigação de riscos em ICTs. 
+    
+---
 
 📝 **2. Resumo e Pontos Chave (Análise Exaustiva)**
 

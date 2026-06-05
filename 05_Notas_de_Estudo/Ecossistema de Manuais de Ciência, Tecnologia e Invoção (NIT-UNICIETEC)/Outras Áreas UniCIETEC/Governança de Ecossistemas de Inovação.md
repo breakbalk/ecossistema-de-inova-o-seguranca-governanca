@@ -6,6 +6,8 @@
     
 
 - **Status:** Constitui um manual orientador, metodológico e estratégico de referência nacional, elaborado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI). O documento consolida diretrizes práticas, modelos de articulação e critérios de governança colaborativa para a estruturação de ambientes de inovação sustentáveis. Destina-se a gestores públicos, lideranças empresariais, reitores e, especificamente, a órgãos de coordenação regional (como a **CORE**) como ferramenta de governança e desenho estratégico de posicionamento regional baseado no modelo da Tríplice Hélice.
+    
+---
 
 ### 1. O Alinhamento da Tríplice Hélice como Core Strategy
 

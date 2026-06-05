@@ -7,7 +7,8 @@
   
 - **Status:** Manual metodológico oficial e revisado, parte da "Família Frascati" da OCDE. Estabelece as diretrizes globais para a compilação, mapeamento e interpretação de indicadores estatísticos baseados em dados de patentes mundiais.
     
-  
+---
+
 ### 1. Contexto e Objetivos do Manual
 
 O avanço da economia baseada no conhecimento exigiu ferramentas precisas para mensurar as atividades de Ciência e Tecnologia (C&T). Publicado originalmente em 1994 e revisado em 2009, este manual orienta agências estatísticas e pesquisadores sobre como extrair valor analítico das bases de dados de patentes. Ele atua como um elemento de validação cruzada ao lado de outros manuais consolidados da OCDE, como o Manual de Frascati (P&D) e o Manual de Oslo (Inovação).
@@ -61,5 +62,6 @@ O manual normatiza a organização dos dados em múltiplos eixos fundamentais:
     
 
 O manual permanece como a fundação metodológica para converter dados legais brutos em conhecimento estratégico inteligível.
+    
 
 ---
