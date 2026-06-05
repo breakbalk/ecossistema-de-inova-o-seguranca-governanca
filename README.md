@@ -45,14 +45,15 @@ O ecossistema é regido pela sinergia entre a **EC 85/2015**, a **Lei de Inovaç
 
 Alinhado ao contexto federal, o **Marco Legal da Inovação de Goiás (Lei Estadual nº 21.615/2022)** descentralizou o fomento e estruturou o ecossistema goiano.
 
-graph TD
+
     A[FAPEG - Ciclo 2026] --> B(Chamada 02/2026: Apoio a Eventos)
     A --> C(Chamada 06/2026: Infraestrutura)
     B --> D[R$ 3M - Foco fora do eixo Goiânia-Anápolis]
     C --> E[Uso Compartilhado e Triagem Acadêmica]
 
 
-🏫 O Papel de Anápolis
+## 4.🏫 O Papel de Anápolis
+
 Como hub científico e industrial, Anápolis destaca-se pelas seguintes ações:
 
 Editais PrP/UEG (Sistema Athena 2026-2027): Publicação dos Editais 04, 05 e 06 (BIC, BIT, PIBIC, PIBIC-AF e PIBIC-EM) integrados às diretrizes estritas de integridade e ética do CNPq.
@@ -68,7 +69,8 @@ Inércia Fiscal e de Controle: Muitas controladorias internas e tribunais de con
 
 Exclusividade da Lei do Bem: Por beneficiar prioritariamente empresas sob o regime de Lucro Real, a Lei 11.196/05 acaba funcionando como uma "instituição extrativista", concentrando os incentivos fiscais em grandes corporações e excluindo startups de base tecnológica de pequeno porte.
 
-🤝 Como Contribuir
+## 5.🤝 Como Contribuir
+
 Faça um Fork do projeto.
 
 Crie uma nova Branch para sua análise (git checkout -b feature/analise-complementar).
