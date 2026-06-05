@@ -4,7 +4,7 @@
 
 - **[[Manual de Oslo]] (MCTI/OCDE):** Diretrizes internacionais adotadas pelo MCTI para coleta, interpretação e padronização de dados sobre inovação tecnológica e industrial.
     
-- **Manual de Frascati (MCTI/OCDE):** Metodologia padrão global utilizada para definir, mensurar e classificar as atividades de Pesquisa e Desenvolvimento Experimental (P&D).
+- **[[Manual Fab Lab]] (MCTI/OCDE):** Metodologia padrão global utilizada para definir, mensurar e classificar as atividades de Pesquisa e Desenvolvimento Experimental (P&D).
     
 - **Guia de Encomendas Tecnológicas (MCTI/Ipea):** Manual orientador para a aplicação prática do instrumento de compra pública de inovação com alto risco tecnológico.
     
