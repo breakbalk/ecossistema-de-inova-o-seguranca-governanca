@@ -5,11 +5,9 @@ Este repositório reúne o mapeamento documental, análises estruturais e cruzam
 ---
 
 ## 📌 Sumário
-1. [Nova Arquitetura da Integridade Científica (Portaria CNPq 2.664/2026)](#1-nova-arquitetura-da-integridade-científica-portaria-cnpq-26642026)
-2. [Funcionamento Prático do Marco Legal de CT&I](#2-funcionamento-prático-do-marco-legal-de-cti)
-3. [Dinâmicas Regionais: Goiás e o Hub Anápolis](#3-dinâmicas-regionais-goiás-e-o-hub-anápolis)
-4. [Análise Crítica e Gargalos do Modelo](#4-análise-crítica-e-gargalos-do-modelo)
-5. [Como Contribuir](#-como-contribuir)
+[[#1. Nova Arquitetura da Integridade Científica (Portaria CNPq 2.664/2026)]] 
+[[#2. Funcionamento Prático do Marco Legal de CT&I]]
+[[#3. Dinâmicas Regionais Goiás e o Hub Anápolis]]
 
 ---
 
@@ -22,8 +20,10 @@ A **Portaria CNPq nº 2.664/2026** estabelece que a integridade é a base inegoc
 * **Transparência Decisória:** Idoneidade nas avaliações de mérito do CNPq.
 * **Qualidade da Informação:** Garantia de veracidade dos dados em todo o ciclo de pesquisa.
 
-### 🤖 Regulação Estrita de IA Generativa
+#### 🤖 Regulação Estrita de IA Generativa
+
 Ferramentas de IAG são tratadas como **auxiliares de escrita/código e nunca como autoras**. 
+
 > **Regra de Ouro:** O uso de IA deve ser obrigatoriamente declarado na seção de Metodologia (incluindo o *prompt* utilizado e a data do acesso). A omissão ou a validação de referências falsas ("alucinações") acarreta o cancelamento de bolsas e suspensão de apoios por até 10 anos.
 
 ---
@@ -79,4 +79,4 @@ Comite suas alterações seguindo boas práticas de escrita acadêmica (git comm
 
 Abra um Pull Request.
 
-📄 Licença: Este repositório está sob a licença MIT. Sinta-se livre para usar, estudar e distribuir o material.
+### **📄 Licença: Este repositório está sob a licença MIT. Sinta-se livre para usar, estudar e distribuir o material.**
