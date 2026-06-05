@@ -94,7 +94,7 @@ Para garantir a correta aplicação do guia do início ao fim do projeto, deve-s
     
 - **Propriedade Intelectual e Modelos Open Source Hardware:** Vincula-se à proteção jurídica ou licenciamento público de designs digitais e arquivos de engenharia compartilhados em repositórios globais de fabricação digital.
     
-- **[[Diretrizes de Vitrines Tecnológicas e Prospecção]]:** Articula-se com a exposição de competências laboratoriais de ICTs, disponibilizando a infraestrutura de manufatura aditiva e novos materiais para o atendimento de demandas técnicas de prototipação para empresas externas, impulsionando a competitividade e a soberania tecnológica do Brasil no cenário global.
+- **[[Manual de Diretrizes de Vitrines Tecnológicas e Prospecção]]:** Articula-se com a exposição de competências laboratoriais de ICTs, disponibilizando a infraestrutura de manufatura aditiva e novos materiais para o atendimento de demandas técnicas de prototipação para empresas externas, impulsionando a competitividade e a soberania tecnológica do Brasil no cenário global.
     
 
 ---

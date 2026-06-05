@@ -8,7 +8,7 @@
     
 - **[[Manual de Encomendas Tecnológicas]] (MCTI/Ipea):** Manual orientador para a aplicação prática do instrumento de compra pública de inovação com alto risco tecnológico.
     
-- **Manual da Lei do Bem (MCTI):** Guia oficial contendo os critérios, regras operacionais e fluxos para a concessão de incentivos fiscais a empresas que realizam P&D.
+- **[[Manual da Lei do Bem]] (MCTI):** Guia oficial contendo os critérios, regras operacionais e fluxos para a concessão de incentivos fiscais a empresas que realizam P&D.
     
 - **Diretrizes do Formict (MCTI):** Manual e formulário anual que orienta as ICTs públicas e privadas no envio de informações sobre suas políticas de propriedade intelectual e transferência de tecnologia.
     
@@ -36,7 +36,7 @@
     
 - **[[Manual de Gestão da Inovação na Administração Pública]] (ENAP/MCTI):** Guia de governança focado em desburocratizar fluxos internos e aplicar o Marco Legal de CT&I na gestão administrativa e jurídica de fundações de apoio e ICTs.
     
-- **[[Diretrizes de Vitrines Tecnológicas e Prospecção]] (MCTI):** Manual com técnicas de inteligência competitiva e ferramentas para mapear patentes e expor o portfólio tecnológico do NIT para empresas.
+- **[[Manual de Diretrizes de Vitrines Tecnológicas e Prospecção]] (MCTI):** Manual com técnicas de inteligência competitiva e ferramentas para mapear patentes e expor o portfólio tecnológico do NIT para empresas.
     
 
 #### *Manuais para Prototipação e Cultura Maker (FabLab)*
