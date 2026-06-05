@@ -69,4 +69,6 @@ Visualização Técnica: ![[ISO-IEC 27001-2022.png]]
 - **Propriedade Intelectual:** Os controles organizacionais e de pessoas são a primeira linha de defesa contra a espionagem industrial em ambientes de inovação.
     
 - **[[Soberania Nacional]]**: A implementação rigorosa desses controles protege a base de conhecimento estratégico do Brasil contra vulnerabilidades externas.
+    
+
 ---

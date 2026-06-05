@@ -56,3 +56,6 @@ O Capítulo VI reconhece o papel crucial do Estado no fomento à CT&I ao utiliza
 - **Criação de Valor Através da Propriedade Intelectual:** Ao dar prioridade regulatória ao INPI para patentes oriundas do Inova Simples, a legislação estimula que cientistas e pesquisadores formalizem suas patentes, reduzindo o histórico _backlog_ de patentes tecnológicas no país e aumentando o valor de mercado (_valuation_) das _deep techs_ nacionais.
     
 - **Segurança na Absorção do [[Risco Tecnológico]]:** A consagração legal do risco tecnológico nas compras públicas quebra o paradigma burocrático de que todo investimento do Estado precisa de um resultado garantido em formato de commodity. Ao proteger financeiramente o pesquisador diante do fracasso técnico inevitável de algumas linhas de teste, o marco cria um ambiente psicológico e jurídico realista para o florescimento da inovação de fronteira.
+    
+
+---

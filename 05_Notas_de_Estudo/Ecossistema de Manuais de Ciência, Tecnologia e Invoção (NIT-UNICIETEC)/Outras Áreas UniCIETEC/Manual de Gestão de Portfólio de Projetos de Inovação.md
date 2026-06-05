@@ -61,5 +61,6 @@ O manual orienta a criação de rituais e instâncias de governança para monito
 - **Project Management Institute (PMI) - _The Standard for Portfolio Management_:** Referência metodológica global que complementa as diretrizes do Ipea com processos formais de gerenciamento, governança e comunicação de portfólios.
     
 - **Manuais da OCDE ([[Manual de OSLO - OCDE - 4ª Edição 2018.pdf]] e [[Manual de Frascati-en.pdf]]):** Padrões internacionais utilizados para classificar o tipo de inovação (produto, processo, organizacional) e o tipo de pesquisa (básica, aplicada, desenvolvimento experimental), servindo de critério de corte na categorização do portfólio
+    
 
 ---

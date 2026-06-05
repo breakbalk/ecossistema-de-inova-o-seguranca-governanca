@@ -59,4 +59,6 @@ A **Subvenção Econômica** consiste no repasse de recursos públicos (frequent
 - **Local de Aplicação:** [[Ambientes de Inovação]] (onde as empresas beneficiadas costumam estar sediadas).
     
 - **Relação [[ETEC]] x [[Subvenção Econômica]]:** Enquanto a Subvenção Econômica é um incentivo à inovação de mercado com contrapartida da empresa, a ETEC é uma contratação direta de risco onde o Estado é o cliente principal. Ambas utilizam recursos não reembolsáveis do [[FNDCT]] e são protegidas juridicamente pela aceitação do [[Risco Tecnológico]].
+    
+
 ---

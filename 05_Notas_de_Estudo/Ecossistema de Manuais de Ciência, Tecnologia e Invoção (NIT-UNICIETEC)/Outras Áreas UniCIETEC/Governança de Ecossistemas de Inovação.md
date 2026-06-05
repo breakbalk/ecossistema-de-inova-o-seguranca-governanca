@@ -67,6 +67,7 @@ Um dos grandes gargalos de ecossistemas emergentes é o atrito nas parcerias int
 - **Lei das S.A. e Acordos de Acionistas/Quotistas:** Parâmetros de direito societário utilizados para estruturar veículos financeiros privados de investimento e fundos de _Corporate Venture Capital (CVC)_ que orbitam a governança do ecossistema.
     
 - **Selo Connected Smart Cities (CSC) - Dimensão Ecossistemas de Inovação:** Métrica de auditoria e reconhecimento nacional que avalia e valida se a governança municipal/regional está de fato aplicando as 5 dimensões de maturidade estipuladas pelas boas práticas do governo federal.
+    
 
 ---
 

@@ -99,3 +99,6 @@ O manual serve como elo de ligação entre os conceitos de engenharia e as regra
 - **Manuais Técnicos das Distribuidoras (NTDs / GEDs):** Normas internas de concessionárias (como CPFL, Equatorial, Enel, Cemig) que adaptam as diretrizes do manual e as resoluções da ANEEL em procedimentos práticos de conexão locais.
     
 - **Diretrizes de Segurança do Trabalho (NR-10 e NR-35):** Normas regulamentadoras do Ministério do Trabalho aplicadas diretamente à execução de projetos fotovoltaicos, tratando de riscos em eletricidade (alta tensão c.c.) e trabalho em altura (telhados e coberturas).
+    
+
+---

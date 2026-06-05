@@ -62,4 +62,6 @@ A **Soberania Tecnológica** é a capacidade de um país dominar conhecimentos e
 - **Norma de Apoio:** [[ISO/IEC 42001]] (Governança ética para IA soberana).
        
 - **[[ETEC]]** **:** É a ferramenta prática que materializa o uso do mercado interno (Art. 219 CF) para garantir a independência tecnológica do país.
+    
+
 ---

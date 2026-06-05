@@ -58,4 +58,6 @@ O **NIT** é a estrutura instituída por uma ou mais ICTs com a finalidade de ge
 - **Relatório Obrigatório:** [[FORMICT]].
     
 - **Conceito Chave:** [[Risco Tecnológico]] (O NIT deve saber mensurar o risco nos contratos).
+    
+
 ---

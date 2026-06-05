@@ -63,4 +63,6 @@ Visualização Técnica:![[ISO-IEC 27000-2018.png]]
 - **NIT:** Essenciais para classificar e gerir os ativos de informação conforme as definições desta norma.
     
 - **Soberania Tecnológica:** "Desdobramento Filosófico" — Sem o domínio do vocabulário e dos processos da ISO 27000, o Brasil fica vulnerável a padrões externos, perdendo autonomia sobre sua base de dados científica.
+    
+
 ---
