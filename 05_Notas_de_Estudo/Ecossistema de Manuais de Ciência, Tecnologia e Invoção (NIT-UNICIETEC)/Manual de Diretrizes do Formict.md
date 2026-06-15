@@ -99,6 +99,8 @@ Para evitar erros de processamento e inconsistências cadastrais, as seguintes p
 - **Sistema CADSEI:** Conecta-se diretamente ao mecanismo de login do FORMS, permitindo o reaproveitamento de credenciais pré-existentes dos responsáveis legais para simplificar o acesso.
     
 - **Mecanismo de Submissão de Múltiplas Respostas (Botão Incluir):** Dialoga com a necessidade de listar múltiplos inventários e patentes em formato de tabela dentro das abas de proteção de PI.
+      
+- **Fundamentação Legal e Finalidade Estatística [[FORMICT]] (Art. 17 da Lei 10.973/2004):** As travas de segurança, prazos de envio (31 de março) e o fluxo de telas descritos neste manual não são meras exigências de TI, mas sim o instrumento de operacionalização para que as ICTs cumpram o Formulário para Informações sobre a Política de Propriedade Intelectual das ICTs do Brasil, base essencial para auditorias de órgãos de controle e captação de recursos junto a agências de fomento.
     
 - **Versionamento de Dados:** Garante a segurança jurídica da instituição ao determinar sistemicamente que apenas a última versão finalizada e retificada anula os históricos preenchidos anteriormente.
     
