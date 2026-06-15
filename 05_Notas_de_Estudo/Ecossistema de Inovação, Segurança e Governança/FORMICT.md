@@ -58,5 +58,7 @@ O **FORMICT** (Formulário para Informações sobre a Política de Propriedade I
     
 - **Regulador Externo:** Ministério da Ciência, Tecnologia e Inovação (MCTI).
     
+- **[[Manual de Diretrizes do Formict]]:** A obrigatoriedade legal e a coleta das métricas de inovação descritas neste documento materializam-se eletronicamente através do sistema de formulários dinâmicos, cujo rito de acesso, segmentação de perfis para colaboradores da ICT e fluxo de preenchimento estão normatizados e detalhados no [[guia-do-usuario-FORMICT v1-0.pdf]]
+    
 
 ---

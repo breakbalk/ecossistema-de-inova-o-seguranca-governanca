@@ -2,7 +2,7 @@
 
 **Fonte Bruta:**
 
-- **Arquivo Original:** [[guia-do-usuario-FORMICT v1-0.pdf]] 
+- **Arquivo Original:** [[guia-do-usuario-FORMICT v1-0.pdf]]  e [[Lei 10.973_2004.pdf]]
     
 - **Status:** Constitui o Guia do Usuário para orientação na navegação, preenchimento e uso eficaz do sistema FORMS (Formulários Dinâmicos) do Ministério da Ciência, Tecnologia e Inovações (MCTI). O documento consolida o passo a passo processual para a apresentação das informações obrigatórias sobre as Políticas de Propriedade Intelectual das Instituições Científicas, Tecnológicas e de Inovação do Brasil, especificamente referentes ao ano-base 2019.
     

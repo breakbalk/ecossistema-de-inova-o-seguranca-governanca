@@ -78,6 +78,8 @@ O NIT atua como o gestor e curador dessas plataformas e estratégias, possuindo 
     
 - **[[Escala TRL - Teoria e Aplicação]]:** Metodologia de padronização conceitual indispensável para balizar as expectativas de mercado e direcionar o ativo para editais corretos de subvenção ou co-desenvolvimento.
     
+- **Fundamentação Legal e Finalidade Estatística [[FORMICT]] (Art. 17 da Lei 10.973/2004):** As travas de segurança, prazos de envio (31 de março) e o fluxo de telas descritos neste manual não são meras exigências de TI, mas sim o instrumento de operacionalização para que as ICTs cumpram o Formulário para Informações sobre a Política de Propriedade Intelectual das ICTs do Brasil, base essencial para auditorias de órgãos de controle e captação de recursos junto a agências de fomento.
+    
 
 ---
 
