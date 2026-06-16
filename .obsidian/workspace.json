@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Patentes da OCDE.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Guia de Implantação de Parques Tecnológicos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,11 +91,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manual de Patentes da OCDE"
+              "title": "Guia de Implantação de Parques Tecnológicos"
+            }
+          },
+          {
+            "id": "e3dcb6496d151826",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,25 +291,26 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "43f324864f483d0c",
+  "active": "e3dcb6496d151826",
   "lastOpenFiles": [
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Escala TRL.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Guia de Implantação de Parques Tecnológicos.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Escala TRL.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Patentes da OCDE.md",
     "01_Fontes_Brutas/anexo-portaria-normativa-no-86.pdf",
     "01_Fontes_Brutas/Não confirmado 955208.crdownload",
     "01_Fontes_Brutas/15_07_2022_EL_Anexo_7-Definicao_do_Nivel_de_Maturidade_Tecnologica.pdf",
     "01_Fontes_Brutas/Não confirmado 533017.crdownload",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
     "01_Fontes_Brutas/Livro-Transferencia-de-tecnologia_0.pdf",
     "01_Fontes_Brutas/Não confirmado 384673.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Gestão de Propriedade Intelectual.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Guia de Implantação de Parques Tecnológicos.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Modelo Cerne.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Patentes da OCDE.md",
     "04_MANUAIS_UNICIETEC/MCTIC-UnB-ParquesTecnologicos-Portugues-final.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 697716.crdownload",
     "04_MANUAIS_UNICIETEC/1612380516Fundamentos_Fundamentos_modelos_jurdicos_PCTs (1).pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 780597.crdownload",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Identidade e Prática das ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ITIL.md",
@@ -312,7 +323,6 @@
     "README.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Redação de Patentes.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Micro e Minigeração Distribuída.md",
