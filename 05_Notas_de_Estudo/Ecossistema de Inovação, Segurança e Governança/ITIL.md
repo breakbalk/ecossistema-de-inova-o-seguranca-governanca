@@ -2,7 +2,7 @@
 
 **Fonte Bruta:**
 
-- **Referência Base:** ITIL 4 (Information Technology Infrastructure Library - AXELOS/PeopleCert).
+- **Referência Base:** [[ITIL 4 Foundation manual portugues.pdf]]
     
 - **Status:** Constitui um resumo estruturado e exaustivo sobre o framework mais utilizado no mundo para o Gerenciamento de Serviços de TI (ITSM). O modelo evoluiu de uma abordagem baseada em processos rígidos para um sistema focado na co-criação de valor entre os provedores de serviços e seus clientes.
     
@@ -17,7 +17,6 @@ A grande mudança filosófica do ITIL 4 é que o valor não é simplesmente entr
 ### 2. O Sistema de Valor de Serviço (SVS) como Pressuposto Vinculante
 
 O elemento central e obrigatório para entender o funcionamento do ITIL é o Sistema de Valor de Serviço (SVS). Trata-se do ecossistema que descreve como todos os componentes e atividades de uma organização trabalham juntos para transformar uma **Oportunidade/Demanda** em **Valor** real.
-
 O SVS é sustentado por componentes fundamentais:
 
 - **Princípios Orientadores:** Recomendações centrais que guiam as decisões da organização em qualquer circunstância (ex: "Foque no Valor", "Comece de Onde Você Está", "Progrida Iterativamente com Feedback", "Mantenha de Forma Simples e Prática").
@@ -72,12 +71,15 @@ Para evitar falhas graves de interpretação e aplicação, o framework esclarec
 - Não deve ser implementado de forma burocrática, criando excesso de documentação que trave a agilidade da operação (o que violaria o princípio de manter as coisas simples e práticas).
     
 
-### Conexões e Desdobramentos
+ **Conexões e Desdobramentos**
 
-- **Framework COBIT (Estratégia vs. Operação):** Conecta-se de forma simétrica. Enquanto o COBIT define a Governança (ditando _o que_ precisa ser controlado e avaliado pela alta liderança), o ITIL responde pela Gestão Operacional (detalhando _como_ executar os processos de suporte, incidentes e transição de serviços).
+- **Framework [[COBIT]] (Estratégia vs. Operação):** Conecta-se de forma simétrica. Enquanto o COBIT define a Governança (ditando _o que_ precisa ser controlado e avaliado pela alta liderança), o ITIL responde pela Gestão Operacional (detalhando _como_ executar os processos de suporte, incidentes e transição de serviços).
     
-- **Modelo CERNE (Eixo Processos e Infraestrutura):** O ITIL se desdobra como uma ferramenta de excelência para a gestão dos serviços de TI oferecidos pela incubadora às startups. Práticas como a Central de Serviços e o Gerenciamento de Incidentes garantem que o suporte tecnológico aos incubados seja profissional, previsível e mensurável por indicadores de performance.
+- **[[Modelo Cerne]] (Eixo Processos e Infraestrutura):** O ITIL se desdobra como uma ferramenta de excelência para a gestão dos serviços de TI oferecidos pela incubadora às startups. Práticas como a Central de Serviços e o Gerenciamento de Incidentes garantem que o suporte tecnológico aos incubados seja profissional, previsível e mensurável por indicadores de performance.
     
 - **Metodologias Ágeis (Scrum / Kanban):** O ITIL dialoga diretamente com as práticas de desenvolvimento ágil ao atuar na Transição e Entrega do Serviço. Enquanto o time de desenvolvimento (Scrum) entrega novos incrementos em Sprints, o ITIL garante que a sustentação e a operação desse novo software em ambiente de produção ocorram de forma estável e segura.
     
-- **Formulário FORMICT (Gerenciamento de Configuração e Ativos):** No contexto de grandes ICTs, o monitoramento e o inventário de ativos tecnológicos exigidos nas abas de proteção de propriedade intelectual e contratos do FORMICT são diretamente facilitados se a instituição adotar o Gerenciamento de Ativos e Configuração do ITIL, mantendo o histórico de ciclo de vida das patentes e softwares integrados de forma organizada.
+- **Formulário [[Manual de Diretrizes do Formict]] (Gerenciamento de Configuração e Ativos):** No contexto de grandes ICTs, o monitoramento e o inventário de ativos tecnológicos exigidos nas abas de proteção de propriedade intelectual e contratos do FORMICT são diretamente facilitados se a instituição adotar o Gerenciamento de Ativos e Configuração do ITIL, mantendo o histórico de ciclo de vida das patentes e softwares integrados de forma organizada.
+    
+
+---
