@@ -17,7 +17,7 @@
 
 - **[[Modelo Cerne]] (Anprotec/Sebrae):** Plataforma conceitual e operacional que determina boas práticas para a gestão de incubadoras de empresas e aceleração de empreendimentos.
     
-- **Guia de Implantação de Parques Tecnológicos (Anprotec):** Manual metodológico com diretrizes para o planejamento, viabilidade econômica e governança de parques científicos e tecnológicos.
+- **[[Guia de Implantação de Parques Tecnológicos]] (Anprotec):** Manual metodológico com diretrizes para o planejamento, viabilidade econômica e governança de parques científicos e tecnológicos.
     
 - **Manual de Ambientes Promotores de Inovação (Anprotec):** Consolidação de conceitos e indicadores para monitoramento e avaliação de hubs, coworkings e distritos de inovação.
     
