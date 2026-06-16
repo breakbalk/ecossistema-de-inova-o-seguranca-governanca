@@ -88,6 +88,8 @@ Para estruturar um Ambiente Promotor de Inovação de forma resiliente e sustent
     
 - **Agile e Frameworks de Acompanhamento (Scrum/Kanban)**: Os planos de ação voltados ao desenvolvimento de negócios inovadores (nos eixos de mercado, tecnologia, capital, gestão e empreendedorismo) são perfeitamente operacionalizados através de quadros visuais ágeis (Kanban). Isso facilita o acompanhamento e os rituais de mentoria periódicos (sprints) conduzidos pelos gestores do ambiente de inovação.
     
+- **[[Ambientes de Inovação]]**: Para que as diretrizes de mercado, captação de recursos e modelos de negócios da Anprotec funcionem sem gerar penalidades, é obrigatório cruzar esses processos com a regulamentação dos **Ambientes de Inovação**. É essa base legal que valida juridicamente os editais de seleção, a cessão de imóveis públicos e o compartilhamento de infraestrutura de laboratórios estatais com empresas privadas, protegendo o gestor contra o risco de desvio de finalidade perante os órgãos de controle.
+    
 - **Conexão com a Valoração de Tecnologias e Transferência (NITs)**: Ambientes promotores de inovação frequentemente abrigam Núcleos de Inovação Tecnológica ou mantêm parcerias estratégicas próximas com eles. Tecnologias nascidas nas academias com TRL intermediário encontram nas incubadoras, aceleradoras e parques tecnológicos o ecossistema ideal e a segurança jurídica necessária para serem integradas a novos modelos de negócios e introduzidas no mercado consumidor.
     
 

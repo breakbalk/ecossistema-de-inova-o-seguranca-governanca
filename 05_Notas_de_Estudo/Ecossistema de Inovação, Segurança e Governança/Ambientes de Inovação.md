@@ -70,5 +70,7 @@ Os **Ambientes de Inovação** são espaços físicos ou virtuais que visam prom
     
 - **Fundamento Constitucional:** [[Emenda Constitucional 85-2015]] (Descentralização regional da inovação).
     
+- **[[Manual de Ambientes Promotores de Inovação]]**: As exigências do Marco Legal (como a obrigatoriedade de gerar inovação real e evitar que um parque tecnológico vire apenas um condomínio empresarial comum) encontram suas ferramentas de execução prática no **Manual de Ambientes Promotores de Inovação** da Anprotec. É através do Modelo CERNE e das metodologias contidas nesse manual que o gestor estrutura os diagnósticos de startups, as trilhas de mentoria e as métricas operacionais que servem de evidência jurídica para comprovar a conformidade do ambiente com a lei.
+    
 
 ---
