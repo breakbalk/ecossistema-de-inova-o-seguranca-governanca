@@ -56,9 +56,11 @@ A regra prática geral determina: se o objetivo principal do trabalho é introdu
     
 - **Fases Iniciais de Produção em Massa:** O início da fabricação comercial após o protótipo ter sido testado, validado e homologado com sucesso.
     
-- **Softwares de Rotina:** Desenvolvimento de aplicações de negócios utilizando ferramentas conhecidas, customização de softwares existentes para clientes específicos e manutenção de sistemas legados. (Só é P&D se houver avanço teórico ou científico na ciência da computação).
+- **Softwares de Rotina:** O desenvolvimento de software somente é considerado P&D quando envolve avanço científico ou tecnológico, resolução de incertezas técnicas relevantes ou geração de novos conhecimentos sobre métodos, algoritmos, arquiteturas ou funcionalidades ainda não disponíveis ou dominadas.
     
 - **Estudos de Viabilidade e Mercado:** Pesquisas de mercado, análises de viabilidade econômica e jurídica de um projeto, e atividades de marca/patenteamento (propriedade intelectual em si).
+    
+- Propriedade intelectual: O depósito, gestão e manutenção de direitos de propriedade intelectual não constituem, por si só, atividades de P&D, embora possam decorrer de resultados obtidos em projetos de pesquisa e desenvolvimento.
     
 - **Testes e Controle de Qualidade:** Ensaios de rotina de produtos, análises químicas ou biológicas padronizadas e calibração de equipamentos.
     
@@ -67,7 +69,7 @@ A regra prática geral determina: se o objetivo principal do trabalho é introdu
 
 Para mapear de onde vêm os recursos e onde a P&D é executada, o manual divide a economia em cinco setores principais:
 
-1. **Empresas ($\text{Business Enterprise}$):** Companhias privadas ou públicas, produtoras de mercado. O principal indicador de gasto aqui é o **BERD** ($\text{Business Enterprise Expenditure on R\&D}$).
+1. **Empresas ($\text{Business Enterprise}$):** Companhias privadas ou públicas, produtoras de mercado. O principal indicador de gasto aqui é o **BERD** (Business Enterprise Expenditure on R\&D).
     
 2. **Governo ($\text{Government}$):** Unidades de administração central, regional e local, excluindo o ensino superior. Seu gasto intramuros é o **GOVERD**.
     
@@ -99,6 +101,12 @@ O manual estabelece metodologias estritas para evitar a dupla contagem e mensura
     
 - **Incentivos Governamentais:** A edição de 2015 aprofundou a mensuração do **GBARD** (análise de dotações orçamentárias públicas na perspectiva de quem financia) e do **GTARD** (mensuração de incentivos fiscais e renúncias de impostos concedidos para estimular a P&D privada).
 
+## 7. Relação entre P&D e Inovação
+
+O Manual de Frascati concentra-se na mensuração dos recursos empregados em Pesquisa e Desenvolvimento Experimental (P&D), enquanto a inovação constitui conceito mais amplo. Nem toda atividade inovadora envolve P&D, assim como nem toda atividade de P&D resulta necessariamente em inovação.
+No Brasil, a Lei nº 10.973/2004, alterada pela Lei nº 13.243/2016, define inovação como a introdução de novidade ou aperfeiçoamento no ambiente produtivo e social que resulte em novos produtos, serviços ou processos, ou agregue novas funcionalidades e características a soluções existentes.
+
+
 ---
 
 **Conexões e Desdobramentos**
@@ -109,7 +117,11 @@ O manual estabelece metodologias estritas para evitar a dupla contagem e mensura
     
 - **Vínculo com Políticas de Incentivo Fiscal ([[GuiaPraticodaLeidoBem2020MCTI.pdf]] no Brasil):** Os critérios de exclusão e as definições de _Pesquisa Aplicada_ e _Desenvolvimento Experimental_ do manual servem de base jurídica e técnica para auditorias e concessão de incentivos fiscais (como o **GTARD** global ou as deduções da Lei do Bem no contexto nacional), garantindo que a renúncia fiscal seja aplicada apenas em atividades com real incerteza tecnológica.
     
+- **Influência e caracterização de P&D:** Os conceitos do Manual de Frascati influenciam internacionalmente a caracterização de atividades de pesquisa e desenvolvimento e servem como referência técnica para interpretação de programas de incentivo à inovação, incluindo mecanismos previstos na Lei do Bem (Lei nº 11.196/2005).**
+    
 - **Governança Orçamentária Pública (GBARD):** O manual desdobra-se em ferramentas de transparência orçamentária para governos, permitindo rastrear as Dotações Orçamentárias Governamentais para P&D. Isso ajuda a identificar se os recursos públicos estão sendo direcionados estrategicamente para fomento básico ou demandas de mercado.
+    
+- **GTARD (Government Tax Relief for R&D):** Indicador utilizado para mensurar o apoio governamental à P&D realizado por meio de incentivos tributários, créditos fiscais, deduções e demais mecanismos de natureza fiscal destinados a estimular atividades de pesquisa e desenvolvimento.
     
 - **Gestão de Talentos e Conversão em FTE:** Na esfera acadêmica e corporativa, o desdobramento da métrica de **Equivalente a Tempo Integral (FTE)** permite que universidades e centros de pesquisa governamentais otimizem a alocação de recursos humanos, isolando o tempo real que o corpo técnico dedica à investigação científica versus atividades administrativas ou de ensino de rotina.
     
