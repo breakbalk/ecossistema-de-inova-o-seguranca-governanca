@@ -13,7 +13,7 @@
 
 Os guias estabelecem os critérios de identidade das Instituições Científicas, Tecnológicas e de Inovação (ICTs) e a lógica de descentralização do ecossistema:
 
-- **Princípio da Autodeclaração**: A condição de ICT é declaratória e fática, decorrendo diretamente do cumprimento dos requisitos estatutários e da atividade finalística da entidade (pesquisa básica ou aplicada de caráter científico ou tecnológico). Não existe necessidade de chancela, registro ou credenciamento prévio perante Ministérios para que uma entidade opere como ICT.
+- **Princípio da Autodeclaração**: A condição de ICT é declaratória e fática, decorrendo diretamente do cumprimento dos requisitos estatutários e da atividade finalística da entidade (pesquisa básica ou aplicada de caráter científico ou tecnológico). Não existe necessidade de chancela, registro ou credenciamento prévio perante Ministérios para que uma entidade opere como ICT.  No entanto, a instituição adquire esse status automaticamente ao cumprir os requisitos legais previstos no Marco Legal de Ciência, Tecnologia e Inovação.
     
 - **Isonomia Funcional entre Públicas e Privadas**: O Marco Legal estende às ICTs privadas sem fins lucrativos prerrogativas de articulação de mercado semelhantes às públicas. Ao mesmo tempo, confere às ICTs públicas mecanismos de flexibilidade contratual antes restritos ao ambiente privado, equilibrando a atuação dos agentes.
     
