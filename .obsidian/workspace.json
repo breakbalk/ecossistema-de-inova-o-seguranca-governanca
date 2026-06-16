@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Modelo Cerne.md",
+                "file": "_Templates/COBIT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Modelo Cerne"
+              "title": "COBIT"
             }
           }
         ]
@@ -210,9 +210,10 @@
   },
   "active": "f6d9dba988cbe5d8",
   "lastOpenFiles": [
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Modelo Cerne.md",
+    "02_RESUMOS_DOCx/Cobit 2019 Tudo que você precisa saber.pdf",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Oslo.md",
-    "_Templates/Modelo Cerne.md",
     "_Templates/ITIL.md",
     "_Templates/COBIT.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Frascati.md",
@@ -235,7 +236,6 @@
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Design para Manufatura Aditiva.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Identidade e Prática das ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Governança de Ecossistemas de Inovação.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Subvenção Econômica.md",
     "04_MANUAIS_UNICIETEC/OCDE-Manual-de-patentes-2-edicao-em-ingles.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 844773.crdownload",
     "04_MANUAIS_UNICIETEC/ManualdePatentes20210706.pdf",
@@ -245,7 +245,6 @@
     "04_MANUAIS_UNICIETEC/Termo-de-Referencia-PNI-20-05_2019_v07_Pos-CP.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 831769.crdownload",
     "04_MANUAIS_UNICIETEC/1612380516Fundamentos_Fundamentos_modelos_jurdicos_PCTs.pdf",
-    "04_MANUAIS_UNICIETEC/Não confirmado 426978.crdownload",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
