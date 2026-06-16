@@ -70,7 +70,9 @@ Para evitar desvios de finalidade e falhas de implementação, o framework enfat
 - Não deve ser implementado de forma cega ou integral (todas as dezenas de objetivos com força máxima), ignorando a realidade e o orçamento da empresa.
     
 
-### Conexões e Desdobramentos
+---
+
+ **Conexões e Desdobramentos**
 
 - **Modelo CERNE (Eixo Incubadora/Processos):** O COBIT conecta-se à governança do modelo CERNE ao garantir que os sistemas de informação e o suporte de TI fornecidos pela incubadora às startups estejam rigidamente alinhados aos objetivos estratégicos de desenvolvimento e inovação regional.
     
@@ -81,3 +83,6 @@ Para evitar desvios de finalidade e falhas de implementação, o framework enfat
 - **Encomendas Tecnológicas (ETECs) e Estudos Preliminares:** O COBIT atua na fase de estruturação de grandes projetos tecnológicos públicos (como as ETECs) através do domínio **APO** (Alinhamento, Planejamento e Organização), garantindo que os investimentos estatais em P&D de base digital possuam indicadores claros de risco e viabilidade técnica mapeados desde o início.
     
 - **Frameworks de Projetos (PMBOK / Scrum):** Alinha-se ao objetivo de controle de gerenciamento de programas e projetos dentro do domínio **BAI**, oferecendo a governança corporativa que valida os portfólios, enquanto o Scrum e as metodologias ágeis executam as Sprints no nível operacional de desenvolvimento.
+    
+
+---
