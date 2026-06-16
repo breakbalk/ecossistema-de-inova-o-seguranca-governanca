@@ -19,7 +19,7 @@
     
 - **[[Guia de Implantação de Parques Tecnológicos]] (Anprotec):** Manual metodológico com diretrizes para o planejamento, viabilidade econômica e governança de parques científicos e tecnológicos.
     
-- **Manual de Ambientes Promotores de Inovação (Anprotec):** Consolidação de conceitos e indicadores para monitoramento e avaliação de hubs, coworkings e distritos de inovação.
+- **[[Manual de Ambientes Promotores de Inovação]] (Anprotec):** Consolidação de conceitos e indicadores para monitoramento e avaliação de hubs, coworkings e distritos de inovação.
     
 
 ## *Manuais por Ambiente do UniCIETEC
