@@ -148,7 +148,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -163,11 +163,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manual de Diretrizes de Vitrines Tecnológicas e Prospecção"
+              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+            }
+          },
+          {
+            "id": "bdc19bb6899ebd37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/Modelo Cerne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Modelo Cerne"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -349,20 +373,22 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "c120c851eb791860",
+  "active": "bdc19bb6899ebd37",
   "lastOpenFiles": [
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes do Formict.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/FORMICT.md",
+    "_Templates/Modelo Cerne.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Frascati.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes do Formict.md",
+    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/FORMICT.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Encomendas Tecnológicas.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Patentes da OCDE.md",
     "README.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Valoração de Tecnologias em ICTs.md",
@@ -379,7 +405,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Subvenção Econômica.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Soberania Tecnológica.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Soberania Nacional.md",
-    "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/SNCTI.md",
     "04_MANUAIS_UNICIETEC/OCDE-Manual-de-patentes-2-edicao-em-ingles.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 844773.crdownload",
     "04_MANUAIS_UNICIETEC/ManualdePatentes20210706.pdf",
