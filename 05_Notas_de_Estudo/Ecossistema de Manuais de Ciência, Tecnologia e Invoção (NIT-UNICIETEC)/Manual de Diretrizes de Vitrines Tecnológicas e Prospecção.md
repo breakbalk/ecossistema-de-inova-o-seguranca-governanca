@@ -38,7 +38,7 @@ As vitrines modernas devem romper com o formato de mero repositório de patentes
 
 A atuação do NIT em prospecção divide-se em duas vertentes operacionais para garantir a oxigenação do fluxo de transferência:
 
-- **Prospecção Interna (Ativa):** Auditorias periódicas nos laboratórios da ICT para identificar pesquisas com potencial de aplicação industrial e monitoramento de projetos financiados por agências de fomento (FINEP, CNPq).
+- **Prospecção Interna (Ativa):****- Mapeamentos periódicos junto aos grupos de pesquisa, laboratórios e projetos institucionais para identificar resultados passíveis de proteção intelectual, transferência de tecnologia ou geração de novos negócios inovadores.
     
 - **Prospecção Externa (Inteligência de Mercado):** Monitoramento de bases de patentes (INPI, Espacenet) para identificar empresas que já atuam em áreas correlatas (landscaping de patentes) e alinhamento com as grandes missões nacionais estabelecidas pelo MCTI (como transição energética e bioeconomia).
     
@@ -58,11 +58,12 @@ Abaixo, detalha-se a distinção de escopo, execução e objetivos entre a manut
 
 O NIT atua como o gestor e curador dessas plataformas e estratégias, possuindo responsabilidades diretas sobre a eficiência do processo:
 
-- **Curadoria e Valoração:** Avaliar o potencial de mercado e o estágio de maturidade antes da inserção do ativo na vitrine, evitando a exposição de tecnologias sem viabilidade comercial.
+- **Curadoria e Valoração:** Avaliar o estágio de maturidade, o potencial de aplicação e as estratégias mais adequadas de divulgação e transferência, definindo quais ativos devem ser apresentados para licenciamento, codesenvolvimento, prestação de serviços tecnológicos ou outras formas de interação com o setor produtivo.
     
-- **Prestação de Contas:** Monitorar e reportar anualmente ao MCTI, via formulário FORMICT, os resultados decorrentes dessas ações (como número de tecnologias vitrinadas, contratos de licenciamento firmados e valores de royalties auferidos).
+- **Prestação de Contas:** Monitorar indicadores relacionados à gestão da inovação, proteção da propriedade intelectual e transferência de tecnologia, prestando informações por meio dos instrumentos oficiais de acompanhamento adotados pelo MCTI, incluindo o FORMICT quando aplicável.
     
-    O guia sugere a automação desses portfólios por meio de sistemas integrados a plataformas nacionais (como o PNIPE/MCTI), garantindo visibilidade unificada da infraestrutura laboratorial e dos ativos da ICT.
+
+O guia sugere a automação desses portfólios por meio de sistemas integrados a plataformas nacionais (como o PNIPE/MCTI), garantindo que sejam avaliados aspectos de titularidade, confidencialidade, estratégia de proteção e potencial de transferência antes da divulgação pública da tecnologia.
     
 
 ---
@@ -71,9 +72,9 @@ O NIT atua como o gestor e curador dessas plataformas e estratégias, possuindo 
 
 - **[[Lei 13243-2016]]:** Fornece o embasamento jurídico para a obrigatoriedade de transparência ativa das ICTs e legitima o compartilhamento de infraestrutura pública com o setor privado.
     
-- **[[Gestão de Propriedade Intelectual]]:** Etapa que antecede a vitrinação, garantindo que o ativo passe por auditoria de titularidade e depósito regular junto ao INPI antes de sua exposição pública.
+- **Gestão de Propriedade Intelectual:** Etapa que antecede a vitrinação, garantindo que o ativo passe por auditoria de titularidade e depósito regular junto ao INPI antes de sua exposição pública.
     
-- **[[Modelos de Contratos de Licenciamento]]:** Instrumento jurídico definitivo que formaliza a transferência tecnológica dos ativos maduros da vitrine por meio de cláusulas de royalties e metas de desempenho.
+- **Modelos de Contratos de Licenciamento:** Instrumento jurídico definitivo que formaliza a transferência tecnológica dos ativos maduros da vitrine por meio de cláusulas de royalties e metas de desempenho.
     
 - **[[Escala TRL - Teoria e Aplicação]]:** Metodologia de padronização conceitual indispensável para balizar as expectativas de mercado e direcionar o ativo para editais corretos de subvenção ou co-desenvolvimento.  
     
