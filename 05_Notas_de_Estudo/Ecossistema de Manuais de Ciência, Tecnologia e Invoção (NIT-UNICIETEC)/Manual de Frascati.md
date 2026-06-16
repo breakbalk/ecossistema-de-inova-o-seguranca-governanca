@@ -14,7 +14,7 @@ O **Manual de Frascati** é o padrão internacional reconhecido para a coleta, r
 ## 1. Definição Central e os Cinco Critérios de P&D
 
 De acordo com o manual, P&D abrange o trabalho criativo e sistemático realizado com o objetivo de aumentar o estoque de conhecimento (incluindo o conhecimento da humanidade, cultura e sociedade) e de criar novas aplicações para o conhecimento existente.
-
+E, no contexto brasileiro, a Lei nº 13.243/2016 considera atividades de pesquisa básica, pesquisa aplicada, desenvolvimento tecnológico e inovação como elementos integrantes do Sistema Nacional de Ciência, Tecnologia e Inovação, em consonância com os conceitos internacionalmente consolidados pelo Manual de Frascati.
 Para que qualquer atividade (seja contínua ou ocasional) seja classificada como P&D, ela deve satisfazer cumulativamente **cinco critérios fundamentais**:
 
 - **Novidade (Novel):** Focada em novas descobertas ou novos conhecimentos que não estejam disponíveis na indústria ou literatura.
@@ -32,15 +32,15 @@ Para que qualquer atividade (seja contínua ou ocasional) seja classificada como
 
 O termo P&D é subdividido em três categorias distintas de atividades:
 
-### Pesquisa Básica
+### A - Pesquisa Básica
 
 Trabalho experimental ou teórico executado primariamente para adquirir novos conhecimentos sobre os fundamentos de fenômenos e fatos observáveis, **sem nenhuma aplicação ou uso particular em vista**. Pode ser dividida em _pura_ (avanço do conhecimento geral) ou _orientada_ (focada em campos de amplo interesse a longo prazo).
 
-### Pesquisa Aplicada
+### B - Pesquisa Aplicada
 
 Investigação original realizada para adquirir novos conhecimentos, mas **dirigida primariamente a um objetivo ou propósito prático e específico** (como solucionar problemas ou viabilizar aplicações comerciais).
 
-### Desenvolvimento Experimental
+### C - Desenvolvimento Experimental
 
 Trabalho sistemático baseado no conhecimento ganho através da pesquisa e da experiência prática, direcionado para a **produção de novos produtos ou processos**, ou para a melhoria substancial dos já existentes.
 
