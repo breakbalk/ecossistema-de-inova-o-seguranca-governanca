@@ -8,6 +8,8 @@
     
 - **Destinatário:** Diretotia Executiva, Gerência de P&D, Controladoria e Assessoria Jurídica
     
+- **Requisito de Elegibilidade da Empresa:** A utilização dos incentivos fiscais da Lei do Bem é restrita às pessoas jurídicas submetidas ao regime de apuração pelo Lucro Real e que apresentem lucro fiscal no período de apuração. Empresas optantes pelo Simples Nacional ou Lucro Presumido não podem usufruir diretamente dos incentivos previstos nos arts. 17 a 26 da Lei nº 11.196/2005.
+    
 
 ---
 
@@ -21,6 +23,8 @@ Para mitigar o risco de glosas e garantir o aproveitamento seguro dos incentivos
     
 - **Desenvolvimento Experimental (DE):** Trabalhos sistemáticos delineados a partir de conhecimentos preexistentes obtidos por meio de pesquisa ou experiência prática, voltados à criação de novos materiais, produtos, dispositivos, processos, sistemas ou serviços, ou ao aperfeiçoamento substancial dos já existentes.
     
+ - **Fatores Comuns de Glosa:** Costumam ser desconsiderados pelo MCTI projetos que envolvam mera customização para clientes, manutenção corretiva, atualização de versões sem desafio tecnológico relevante, adaptação de produtos já existentes ou atividades rotineiras de engenharia sem geração de conhecimento tecnológico novo.
+    
 
 > ⚠️ **Atenção:** Atividades rotineiras de engenharia, adequações de mercado, atualizações estéticas ou correções operacionais que não envolvam risco tecnológico não se qualificam para o benefício.
 
@@ -33,6 +37,8 @@ Todos os dispêndios operacionais de custeio vinculados diretamente às atividad
 - **Serviços de Terceiros (ICTs e Parceiros):** Contratos com Instituições Científicas e Tecnológicas (ICTs) ou inventores independentes, desde que a empresa contratante assuma o risco empresarial do desenvolvimento.
     
 - **Materiais de Consumo:** Matérias-primas, componentes e insumos utilizados na fabricação de protótipos, plantas-piloto ou testes de bancada.
+    
+- **Materiais, Insumos e Utilidades:** Matérias-primas, componentes, materiais de laboratório, protótipos, plantas-piloto, ensaios, testes experimentais e demais insumos consumidos diretamente nas atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica.
     
 
 ### 3. Mecanismos de Alavancagem e Benefícios Agregados
@@ -51,9 +57,12 @@ A estruturação correta dos projetos permite potencializar as deduções fiscai
 Sendo um benefício de natureza autodeclaratória, a segurança jurídica depende diretamente da qualidade dos controles internos instituídos pela organização:
 
 1. **Segregação Contábil:** Os custos de PD&I devem ser registrados em contas específicas na Escrituração Contábil Digital (ECD) e Fiscal (ECF), isolando as despesas ordinárias das operacionais de inovação.
-    
+	- **Segregação e Evidenciação Contábil:** Os dispêndios de PD&I devem ser individualizados e documentalmente rastreáveis, permitindo sua identificação inequívoca na escrituração contábil e fiscal da empresa.
+	    
 2. **Rastreabilidade de Horas (Timesheet):** Manutenção de relatórios de apontamento de horas das equipes, vinculando nominalmente cada profissional às tarefas específicas do projeto.
-    
+	- **Controle de Alocação de Recursos Humanos:** Recomenda-se a manutenção de registros formais de dedicação dos pesquisadores e equipes técnicas (timesheets, relatórios de atividades ou mecanismos equivalentes), permitindo demonstrar a vinculação dos profissionais aos projetos incentivados.
+	    
+
 3. **Prazos de Envio (FormP&D):** O formulário eletrônico detalhando a metodologia, o desafio tecnológico e as barreiras superadas deve ser enviado ao MCTI impreterivelmente até o dia **31 de julho** do ano subsequente ao da apuração.
     
 
