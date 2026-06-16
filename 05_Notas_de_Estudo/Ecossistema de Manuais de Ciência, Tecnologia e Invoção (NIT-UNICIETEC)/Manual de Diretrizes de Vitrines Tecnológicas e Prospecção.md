@@ -76,7 +76,7 @@ O guia sugere a automação desses portfólios por meio de sistemas integrados a
     
 - **Modelos de Contratos de Licenciamento:** Instrumento jurídico definitivo que formaliza a transferência tecnológica dos ativos maduros da vitrine por meio de cláusulas de royalties e metas de desempenho.
     
-- **[[Escala TRL - Teoria e Aplicação]]:** Metodologia de padronização conceitual indispensável para balizar as expectativas de mercado e direcionar o ativo para editais corretos de subvenção ou co-desenvolvimento.  
+- **[[Escala TRL]]:** Metodologia de padronização conceitual indispensável para balizar as expectativas de mercado e direcionar o ativo para editais corretos de subvenção ou co-desenvolvimento.  
     
 
 ---

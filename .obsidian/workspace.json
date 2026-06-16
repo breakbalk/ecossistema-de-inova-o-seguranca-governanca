@@ -69,9 +69,33 @@
               "icon": "lucide-file",
               "title": "Manual de Diretrizes de Vitrines Tecnológicas e Prospecção"
             }
+          },
+          {
+            "id": "43f324864f483d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Escala TRL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Escala TRL"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,11 +281,15 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "0851efef3366e9ae",
+  "active": "43f324864f483d0c",
   "lastOpenFiles": [
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Gestão de Propriedade Intelectual.md",
+    "01_Fontes_Brutas/15_07_2022_EL_Anexo_7-Definicao_do_Nivel_de_Maturidade_Tecnologica.pdf",
+    "01_Fontes_Brutas/Não confirmado 533017.crdownload",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Escala TRL.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Escala TRL - Teoria e Aplicação.md",
+    "01_Fontes_Brutas/Livro-Transferencia-de-tecnologia_0.pdf",
+    "01_Fontes_Brutas/Não confirmado 384673.crdownload",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Gestão de Propriedade Intelectual.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Guia de Implantação de Parques Tecnológicos.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Modelo Cerne.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Patentes da OCDE.md",
@@ -277,7 +305,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ITIL.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/COBIT.md",
     "01_Fontes_Brutas/ITIL 4 Foundation manual portugues.pdf",
-    "02_RESUMOS_DOCx/Cobit 2019 Tudo que você precisa saber.pdf",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Oslo.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Frascati.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes do Formict.md",
@@ -292,9 +319,6 @@
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Micro e Minigeração Distribuída.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual Fab Lab.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Gestão de Portfólio de Projetos de Inovação.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Engenharia para Sistemas Fotovoltaicos.md",
-    "04_MANUAIS_UNICIETEC/OCDE-Manual-de-patentes-2-edicao-em-ingles.pdf",
-    "04_MANUAIS_UNICIETEC/Não confirmado 844773.crdownload",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
