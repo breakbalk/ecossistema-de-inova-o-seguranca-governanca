@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Escala TRL.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Patentes da OCDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,7 +91,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Escala TRL"
+              "title": "Manual de Patentes da OCDE"
             }
           }
         ],
@@ -283,9 +283,11 @@
   },
   "active": "43f324864f483d0c",
   "lastOpenFiles": [
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Escala TRL.md",
+    "01_Fontes_Brutas/anexo-portaria-normativa-no-86.pdf",
+    "01_Fontes_Brutas/Não confirmado 955208.crdownload",
     "01_Fontes_Brutas/15_07_2022_EL_Anexo_7-Definicao_do_Nivel_de_Maturidade_Tecnologica.pdf",
     "01_Fontes_Brutas/Não confirmado 533017.crdownload",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Escala TRL.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
     "01_Fontes_Brutas/Livro-Transferencia-de-tecnologia_0.pdf",
     "01_Fontes_Brutas/Não confirmado 384673.crdownload",
@@ -297,14 +299,11 @@
     "04_MANUAIS_UNICIETEC/Não confirmado 697716.crdownload",
     "04_MANUAIS_UNICIETEC/1612380516Fundamentos_Fundamentos_modelos_jurdicos_PCTs (1).pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 780597.crdownload",
-    "04_MANUAIS_UNICIETEC/16123788941481567290Anprotec_DosParquesCientificoseTecnologicosaosEcossistemasdeInovacao.pdf",
-    "04_MANUAIS_UNICIETEC/Não confirmado 527008.crdownload",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Identidade e Prática das ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ITIL.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/COBIT.md",
-    "01_Fontes_Brutas/ITIL 4 Foundation manual portugues.pdf",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Oslo.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Frascati.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes do Formict.md",
