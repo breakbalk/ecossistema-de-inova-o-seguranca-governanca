@@ -13,8 +13,8 @@
 ### 1. Diretrizes Conceituais e Fundamentação do Modelo
 
 O Modelo CERNE surge da necessidade de transformar as incubadoras de empresas brasileiras — historicamente dependentes de esforços isolados ou intuição de seus gestores — em organizações com processos previsíveis, repetíveis e altamente eficientes. Ele opera sob a lógica de que o sucesso de um empreendimento inovador não depende apenas da ideia do empreendedor, mas da robustez do ecossistema que o apoia.
-
 Diferencia-se de modelos de gestão genéricos (como ISO 9001) por ser **especificamente customizado para o ambiente de incubação e aceleração**. O CERNE foca na geração sistemática de negócios inovadores de sucesso, atuando diretamente em cinco dimensões-chave do ambiente: Empreendedores, Empresas, Processos, Relacionamento e a própria Incubadora.
+    
 
 ### 2. Os Cinco Eixos do CERNE como Pressuposto Vinculante
 
@@ -72,14 +72,19 @@ Para evitar desvios conceituais e garantir a aplicação correta do modelo, deve
 - Não é voltado apenas para incubadoras públicas ou universitárias, sendo perfeitamente aplicável a aceleradoras privadas, _hubs_ corporativos e parques tecnológicos.
     
 
-### Conexões e Desdobramentos
+---
+
+ **Conexões e Desdobramentos**
 
 - **Anprotec e SEBRAE:** Atuam como as entidades reguladoras e promotoras do modelo no Brasil, sendo responsáveis pela concessão das certificações e fomento financeiro para a implantação do programa.
     
-- **Lei 13.243/2016 (Marco Legal de CT&I):** Dialoga diretamente com o CERNE (especialmente nos eixos de Relacionamento e Incubadora), pois confere segurança jurídica para que ICTs públicas compartilhem seus laboratórios e recursos com empresas incubadas.
+- **[[Lei 13.243_2016.pdf]] (Marco Legal de CT&I):** Dialoga diretamente com o CERNE (especialmente nos eixos de Relacionamento e Incubadora), pois confere segurança jurídica para que ICTs públicas compartilhem seus laboratórios e recursos com empresas incubadas.
     
-- **Framework COBIT (Domínio APO):** Conecta-se à governança do CERNE ao exigir que os processos de tecnologia e suporte à inovação das incubadoras estejam rigidamente alinhados aos objetivos estratégicos de desenvolvimento regional da instituição mantenedora.
+- **Framework [[COBIT]] (Domínio APO):** Conecta-se à governança do CERNE ao exigir que os processos de tecnologia e suporte à inovação das incubadoras estejam rigidamente alinhados aos objetivos estratégicos de desenvolvimento regional da instituição mantenedora.
     
-- **Boas Práticas ITIL (Melhoria Contínua de Serviço):** Alinha-se diretamente à lógica do CERNE de monitoramento por indicadores de performance (KPIs), onde o ciclo de vida do suporte ao incubado passa por constante avaliação para otimizar as taxas de sobrevivência e graduação das startups.
+- **Boas Práticas [[ITIL]] (Melhoria Contínua de Serviço):** Alinha-se diretamente à lógica do CERNE de monitoramento por indicadores de performance (KPIs), onde o ciclo de vida do suporte ao incubado passa por constante avaliação para otimizar as taxas de sobrevivência e graduação das startups.
     
 - **Políticas Públicas e Editais de Fomento:** A certificação CERNE (especialmente o nível 1) tornou-se um critério de desempate e pontuação crítica em editais da FINEP, CNPq e FAPs estaduais, validando que a instituição possui governança robusta para gerir recursos públicos destinados à inovação.
+    
+
+---
