@@ -102,16 +102,13 @@ Mapeados a partir de projetos que ficaram estagnados na Fase de Projeto ou Impla
 
  **Conexões e Desdobramentos no seu Obsidian**
 
-- **Modelo CERNE (Níveis 2 e 3):** Relação de simbiose espacial e de processos. O CERNE 1 estrutura a incubadora. O **CERNE 2 (Ecossistema)** e o **CERNE 3 (Rede)** exigem que a incubadora esteja perfeitamente integrada aos fluxos de um ambiente maior. A correta implementação do Parque Tecnológico é o que garante o espaço físico e de mercado para que as empresas graduadas pela incubadora permaneçam na região, gerando empregos de alta qualificação.
+- **[[Modelo Cerne]] (Níveis 2 e 3):** Relação de simbiose espacial e de processos. O CERNE 1 estrutura a incubadora. O **CERNE 2 (Ecossistema)** e o **CERNE 3 (Rede)** exigem que a incubadora esteja perfeitamente integrada aos fluxos de um ambiente maior. A correta implementação do Parque Tecnológico é o que garante o espaço físico e de mercado para que as empresas graduadas pela incubadora permaneçam na região, gerando empregos de alta qualificação.
     
-    PDF
+ - **Marco Legal de CT&I ([[Lei 13243-2016]]):** Fornece o arcabouço de segurança jurídica exigido pela modelagem do parque. É a lei que autoriza expressamente a administração pública a ceder imóveis para a instalação de parques com dispensa de licitação, permite que professores universitários em dedicação exclusiva atuem nas empresas residentes e autoriza o compartilhamento de laboratórios públicos com o setor privado.
     
-- **Marco Legal de CT&I (Lei 13.243/2016):** Fornece o arcabouço de segurança jurídica exigido pela modelagem do parque. É a lei que autoriza expressamente a administração pública a ceder imóveis para a instalação de parques com dispensa de licitação, permite que professores universitários em dedicação exclusiva atuem nas empresas residentes e autoriza o compartilhamento de laboratórios públicos com o setor privado.
+- **Framework [[COBIT]] (Domínios APO e MEA):** No domínio **APO (Alinhamento, Planejamento e Organização)**, o COBIT orienta a governança a estruturar os acordos de nível de serviço (SLAs) de TI e conectividade que o parque oferecerá às suas 1.300 empresas. No domínio **MEA (Monitoramento, Avaliação e Análise)**, conecta-se diretamente à metodologia de avaliação global do ecossistema proposta pelo relatório MCTIC/UnB, garantindo que os indicadores de gestão sejam auditados de forma sistemática.
     
-- **Framework COBIT (Domínios APO e MEA):** No domínio **APO (Alinhamento, Planejamento e Organização)**, o COBIT orienta a governança a estruturar os acordos de nível de serviço (SLAs) de TI e conectividade que o parque oferecerá às suas 1.300 empresas. No domínio **MEA (Monitoramento, Avaliação e Análise)**, conecta-se diretamente à metodologia de avaliação global do ecossistema proposta pelo relatório MCTIC/UnB, garantindo que os indicadores de gestão sejam auditados de forma sistemática.
+- [[Manual de Diretrizes do Formict]]:** O volume de inovação gerado nos parques alimenta diretamente as métricas de propriedade intelectual. O fluxo de profissionais qualificados e empresas nos PCTs potencializa o registro de patentes, licenciamentos e contratos de transferência de tecnologia. Esses dados são o insumo principal que as ICTs parceiras do parque devem reportar anualmente ao governo por exigência do FORMICT.
     
-    PDF+ 1
-    
-- **Manual de Diretrizes do FORMICT:** O volume de inovação gerado nos parques alimenta diretamente as métricas de propriedade intelectual. O fluxo de profissionais qualificados e empresas nos PCTs potencializa o registro de patentes, licenciamentos e contratos de transferência de tecnologia. Esses dados são o insumo principal que as ICTs parceiras do parque devem reportar anualmente ao governo por exigência do FORMICT.
-    
-    PDF
+
+---
