@@ -6,15 +6,74 @@
       {
         "id": "8837b92723143b25",
         "type": "tabs",
+        "dimension": 39.45783132530121,
         "children": [
           {
-            "id": "3cba73c986799c32",
+            "id": "bc4634d90ab66b80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d96ecb0bc47a2c9e",
+        "type": "tabs",
+        "dimension": 60.54216867469879,
+        "children": [
+          {
+            "id": "7ea95c301c67f37d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de 🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
             }
           }
         ]
@@ -213,14 +272,21 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "dcec00c8ce68572c",
+  "active": "7ea95c301c67f37d",
   "lastOpenFiles": [
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "lei de inovaçao.md",
+    "copilot/copilot-conversations/Provide_three_follow-up_questions_worded_as_if_I'm_asking_you@20260701_133437.md",
+    "copilot/copilot-conversations/lei_de_inovao@20260701_133242.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Identidade e Prática das ICTs.md",
+    "teste.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Ambientes Promotores de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes do Formict.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Oslo.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Frascati.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Ambientes de Inovação.md",
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "04_MANUAIS_UNICIETEC/Ambientes_Inovacao_Anprotec2021.pdf",
     "04_MANUAIS_UNICIETEC/Não confirmado 912176.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
@@ -236,9 +302,6 @@
     "01_Fontes_Brutas/Não confirmado 384673.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Gestão de Propriedade Intelectual.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Modelo Cerne.md",
-    "04_MANUAIS_UNICIETEC/MCTIC-UnB-ParquesTecnologicos-Portugues-final.pdf",
-    "04_MANUAIS_UNICIETEC/Não confirmado 697716.crdownload",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Identidade e Prática das ICTs.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ITIL.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/COBIT.md",
@@ -247,10 +310,6 @@
     "README.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Práticas de Transferência de Tecnologia.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Redação de Patentes.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Micro e Minigeração Distribuída.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual Fab Lab.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",

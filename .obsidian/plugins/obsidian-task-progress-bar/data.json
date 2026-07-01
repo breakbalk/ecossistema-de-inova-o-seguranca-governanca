@@ -371,6 +371,28 @@
   "globalFilterRules": {},
   "viewConfiguration": [
     {
+      "id": "today",
+      "name": "Hoje",
+      "icon": "calendar-days",
+      "type": "default",
+      "visible": true,
+      "region": "top",
+      "hideCompletedAndAbandonedTasks": true,
+      "filterBlanks": false,
+      "filterRules": {}
+    },
+    {
+      "id": "upcoming",
+      "name": "Upcoming",
+      "icon": "calendar",
+      "type": "default",
+      "visible": true,
+      "region": "top",
+      "hideCompletedAndAbandonedTasks": true,
+      "filterBlanks": false,
+      "filterRules": {}
+    },
+    {
       "id": "inbox",
       "name": "Caixa de Entrada",
       "icon": "inbox",
@@ -378,7 +400,8 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false
+      "filterBlanks": false,
+      "region": "top"
     },
     {
       "id": "working-on",
@@ -432,7 +455,8 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false
+      "filterBlanks": false,
+      "region": "top"
     },
     {
       "id": "review",
@@ -939,8 +963,17 @@
       "ws_1779289403697_uzxdidg40": {
         "id": "ws_1779289403697_uzxdidg40",
         "name": "Default",
-        "updatedAt": 1779289403697,
-        "settings": {}
+        "updatedAt": 1782923810451,
+        "settings": {
+          "fluentFilterState": {
+            "inbox": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            }
+          },
+          "fluentActiveViewId": "inbox"
+        }
       }
     }
   }
