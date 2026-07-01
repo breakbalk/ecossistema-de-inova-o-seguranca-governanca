@@ -6,7 +6,7 @@
       {
         "id": "8837b92723143b25",
         "type": "tabs",
-        "dimension": 39.45783132530121,
+        "dimension": 55.87349397590361,
         "children": [
           {
             "id": "bc4634d90ab66b80",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+              "title": "🏛️ Mapa do Ecossistema de Inovação e Governança"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "d96ecb0bc47a2c9e",
         "type": "tabs",
-        "dimension": 60.54216867469879,
+        "dimension": 44.126506024096386,
         "children": [
           {
             "id": "7ea95c301c67f37d",
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção"
+              "title": "Gráfico de 🏛️ Mapa do Ecossistema de Inovação e Governança"
             }
           }
         ]
@@ -272,7 +272,7 @@
       "obsidian-task-progress-bar:Abrir visualização Task Genius": false
     }
   },
-  "active": "7ea95c301c67f37d",
+  "active": "bc4634d90ab66b80",
   "lastOpenFiles": [
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "lei de inovaçao.md",

@@ -22,4 +22,4 @@
 
 - **[[CNPq2664-2026]]**: Política de integridade científica e regras sobre o uso de IA Generativa em pesquisas.
 
-
+[[🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção]]
