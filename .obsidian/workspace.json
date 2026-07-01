@@ -6,7 +6,7 @@
       {
         "id": "8837b92723143b25",
         "type": "tabs",
-        "dimension": 55.87349397590361,
+        "dimension": 84.93975903614458,
         "children": [
           {
             "id": "bc4634d90ab66b80",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🏛️ Mapa do Ecossistema de Inovação e Governança"
+              "title": "Manual da Lei do Bem"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "d96ecb0bc47a2c9e",
         "type": "tabs",
-        "dimension": 44.126506024096386,
+        "dimension": 15.060240963855422,
         "children": [
           {
             "id": "7ea95c301c67f37d",
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 🏛️ Mapa do Ecossistema de Inovação e Governança"
+              "title": "Gráfico de Manual da Lei do Bem"
             }
           }
         ]
@@ -274,8 +274,11 @@
   },
   "active": "bc4634d90ab66b80",
   "lastOpenFiles": [
-    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "lei de inovaçao.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Oslo.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
+    "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
     "copilot/copilot-conversations/Provide_three_follow-up_questions_worded_as_if_I'm_asking_you@20260701_133437.md",
     "copilot/copilot-conversations/lei_de_inovao@20260701_133242.md",
     "copilot/copilot-conversations",
@@ -284,7 +287,6 @@
     "teste.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Ambientes Promotores de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes do Formict.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Oslo.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Frascati.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Ambientes de Inovação.md",
     "04_MANUAIS_UNICIETEC/Ambientes_Inovacao_Anprotec2021.pdf",
@@ -302,14 +304,12 @@
     "01_Fontes_Brutas/Não confirmado 384673.crdownload",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Gestão de Propriedade Intelectual.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Modelo Cerne.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ITIL.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/COBIT.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/FORMICT.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Encomendas Tecnológicas.md",
     "README.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",
