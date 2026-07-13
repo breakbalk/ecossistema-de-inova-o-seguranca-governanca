@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/COBIT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manual da Lei do Bem"
+              "title": "COBIT"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/COBIT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Manual da Lei do Bem"
+              "title": "Gráfico de COBIT"
             }
           }
         ]
@@ -274,8 +274,8 @@
   },
   "active": "bc4634d90ab66b80",
   "lastOpenFiles": [
-    "lei de inovaçao.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
+    "lei de inovaçao.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Oslo.md",
     "_Templates/🏛️ Mapa do Ecossistema de Manuais de Ciência, Tecnologia e Invoção.md",
     "_Templates/🏛️ Mapa do Ecossistema de Inovação e Governança.md",
