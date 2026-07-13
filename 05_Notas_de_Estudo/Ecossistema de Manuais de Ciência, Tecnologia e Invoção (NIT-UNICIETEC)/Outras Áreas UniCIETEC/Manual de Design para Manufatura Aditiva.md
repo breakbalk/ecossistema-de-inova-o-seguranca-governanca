@@ -39,7 +39,7 @@ O núcleo técnico do guia aborda os parâmetros geométricos cruciais que deter
     
  - **Design Focado em Novas Funcionalidades:** Esses materiais introduzem novas propriedades intrínsecas (maior leveza, resistência mecânica e durabilidade). Para o projetista, aplicar as regras de DfAM em conjunto com esses materiais permite maximizar a relação investimento/retorno, explorando geometrias complexas impossíveis de obter por métodos convencionais.
     
-- **Soberania e Apelo Setorial de Alta Performance:** O domínio conjunto do design geométrico e dos materiais avançados atende a setores altamente exigentes e regulados (como aeroespacial, defesa, saúde e energia). Isso justifica a rigidez técnica do Guia para garantir a conformidade regulatória e a segurança de aplicações de alto valor agregado.
+- **Soberania e Apelo Setorial de Alta Performance:** O domínio conjunto do design geométrico e dos materiais avançados atende a setores altamente exigentes e regulados (como aeroespacial, defesa, saúde e energia). Isso justifica a rigidez técnica do Guia para garantir a conformidade regulatória e a segurança de aplicações de alto valor agregado. Nessa esteira de alta performance, cabe ao Centro de Inovação validar a viabilidade técnica e a maturação TRL do protótipo com o mercado, enquanto o NIT audita os requisitos de conformidade regulatória e executa a proteção por patentes dos novos designs ou compósitos desenvolvidos.
     
 
 ## ⚙️ 3. Técnicas de Eficiência e Redução de Custos de Material

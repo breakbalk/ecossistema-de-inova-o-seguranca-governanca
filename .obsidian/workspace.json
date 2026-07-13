@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Ambientes Promotores de Inovação.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manual de Ambientes Promotores de Inovação"
+              "title": "Manual de Diretrizes de Vitrines Tecnológicas e Prospecção"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Ambientes Promotores de Inovação.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Manual de Ambientes Promotores de Inovação"
+              "title": "Gráfico de Manual de Diretrizes de Vitrines Tecnológicas e Prospecção"
             }
           }
         ]
@@ -274,6 +274,8 @@
   },
   "active": "8b864e4be9cba43b",
   "lastOpenFiles": [
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Design para Manufatura Aditiva.md",
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Ambientes Promotores de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual da Lei do Bem.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/ITIL.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Identidade e Prática das ICTs.md",
@@ -289,7 +291,6 @@
     "copilot/copilot-conversations",
     "copilot",
     "teste.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Ambientes Promotores de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes do Formict.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Frascati.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/Ambientes de Inovação.md",
@@ -309,7 +310,6 @@
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/FORMICT.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Encomendas Tecnológicas.md",
     "README.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",

@@ -25,7 +25,9 @@ Os referenciais da Anprotec reconhecem múltiplas configurações de Ambientes P
 
 ## 🛠️ 2. Pilares de Sustentabilidade e o Modelo de Negócios do Ambiente 
 
-Para mitigar a dependência crônica de repasses financeiros governamentais e garantir a perenidade operacional do ambiente ao longo das décadas, o referencial da Anprotec detalha uma matriz de sustentabilidade baseada em diversificação de receitas e parcerias estratégicas:
+A sustentabilidade dos ambientes promotores de inovação depende da construção de um modelo econômico equilibrado, baseado na diversificação de fontes de receita, na articulação de parcerias estratégicas e na capacidade de geração de valor para os atores do ecossistema. 
+
+O referencial da Anprotec detalha uma matriz de sustentabilidade baseada em diversificação de receitas e parcerias estratégicas:
 
 - **Sustentabilidade Financeira por Diversificação**: O ambiente deve desenhar um modelo de receitas misto, composto por aluguel de espaços físicos corporativos, taxas de condomínio de uso compartilhado, locação de _coworking_, oferta de salas de reuniões, e locação de infraestrutura de ponta, como laboratórios multiusuários e _open labs_.
     
@@ -36,13 +38,13 @@ Para mitigar a dependência crônica de repasses financeiros governamentais e ga
 
 ## ⚙️ 3. Governança Corporativa e Gestão do Ecossistema 
 
-A governança é apontada como a maior causadora de sucesso ou falência de um ambiente promotor. O arranjo institucional de governança preconizado pelo manual organiza-se para blindar o projeto contra descontinuidades políticas e garantir representatividade multissetorial:
+Os referenciais da Anprotec destacam a governança como um dos fatores críticos para a sustentabilidade, legitimidade institucional e efetividade dos ambientes promotores de inovação. O arranjo institucional de governança preconizado pelo manual organiza-se para blindar o projeto contra descontinuidades políticas e garantir representatividade multissetorial:
 
 - **Conselho de Administração Multidisciplinar**: Estruturação de um colegiado de governança composto por representantes paritários do poder público local, das lideranças empresariais (associações comerciais, federações de indústria) e das ICTs ou universidades locais, conferindo legitimidade e alinhamento com a vocação econômica regional.
     
-- **Modelagem de Gestão Jurídica Independente**: Recomendação para que a gestão operacional e executiva do ambiente seja delegada a uma entidade jurídica focada e ágil, como Organizações Sociais (OS), OSCIPs, Fundações Privadas de Apoio ou Sociedades de Propósito Específico (SPE), garantindo celeridade de contratação e compliance técnico.
+- **Modelagem de Gestão Jurídica Independente**: A entidade gestora pode assumir diferentes formatos jurídicos, tais como fundações, associações, organizações sociais, OSCIPs, empresas públicas, sociedades de propósito específico ou outros modelos compatíveis com a legislação aplicável e os objetivos estratégicos do ambiente.
     
-- **Política de Proteção Intelectual e Confidencialidade**: Implementação de diretrizes rígidas que resguardem o segredo comercial e as patentes geradas pelas empresas instaladas. A governança do ambiente estabelece regras claras de que a titularidade da PI desenvolvida pertence aos empreendedores ou é regulada via contratos específicos de cooperação, resguardada por acordos de não-divulgação (NDA) assinados por toda a equipe e mentores.
+- **Política de Proteção Intelectual e Confidencialidade**: Implementação de diretrizes rígidas que resguardem o segredo comercial e as patentes geradas pelas empresas instaladas. A titularidade dos ativos de propriedade intelectual deve ser definida contratualmente, observando a legislação vigente, a participação das instituições envolvidas, os aportes realizados pelas partes e as regras estabelecidas em acordos de cooperação, compartilhamento de infraestrutura ou desenvolvimento conjunto.
     
 
 ## 📊 4. Medição de Impacto, Indicadores e Ganhos Intangíveis 
@@ -55,9 +57,9 @@ O monitoramento sistemático das atividades de um ambiente promotor serve como f
         
     - Volume total de empregos diretos gerados e postos de trabalho qualificados de alta renda criados pelas empresas residentes.
         
-    - Faturamento bruto anual consolidado do ecossistema e a correspondente arrecadação de impostos gerada para o município e estado.
+    - Faturamento bruto anual consolidado do ecossistema e a contribuição econômica das empresas apoiadas, medida por indicadores como faturamento, geração de empregos, expansão de mercado e atração de investimento.
         
-    - Número de patentes depositadas, _softwares_ registrados e novos produtos ou processos lançados comercialmente pelas empresas do ambiente.
+    - Quantidade de ativos de propriedade intelectual gerados, incluindo pedidos de patente, registros de software, marcas, desenhos industriais, contratos de licenciamento, transferências de tecnologia e novos produtos ou processos introduzidos no mercado.
         
 - **Métricas de Captação e Atração**: Volume financeiro atraído via aportes de capital de risco, editais de subvenção econômica e financiamentos privados direcionados às empresas apoiadas.
     
@@ -76,9 +78,9 @@ Para estruturar um Ambiente Promotor de Inovação de forma resiliente e sustent
     
 4º Passo: Desenvolvimento do Plano de Negócios, Masterplan de Infraestrutura e Modelo de Captação de Recursos.
     
-5º Passo: Lançamento de Editais Públicos de Seleção de Empreendimentos e Atração de Empresas Âncoras.
+5º Passo: Implantação da infraestrutura física, tecnológica e administrativa.
     
-6º Passo: Monitoramento Contínuo via Práticas CERNE, Emissão de Relatórios de Impacto e Prestação de Contas.
+6º Passo: Operação do ambiente e execução dos programas de apoio à inovação.
     
 
 ---
@@ -90,7 +92,7 @@ Para estruturar um Ambiente Promotor de Inovação de forma resiliente e sustent
     
 - **Agile e Frameworks de Acompanhamento (Scrum/Kanban)**: Os planos de ação voltados ao desenvolvimento de negócios inovadores (nos eixos de mercado, tecnologia, capital, gestão e empreendedorismo) são perfeitamente operacionalizados através de quadros visuais ágeis (Kanban). Isso facilita o acompanhamento e os rituais de mentoria periódicos (sprints) conduzidos pelos gestores do ambiente de inovação.
     
-- **[[Ambientes de Inovação]]**: Para que as diretrizes de mercado, captação de recursos e modelos de negócios da Anprotec funcionem sem gerar penalidades, é obrigatório cruzar esses processos com a regulamentação dos **Ambientes de Inovação**. É essa base legal que valida juridicamente os editais de seleção, a cessão de imóveis públicos e o compartilhamento de infraestrutura de laboratórios estatais com empresas privadas, protegendo o gestor contra o risco de desvio de finalidade perante os órgãos de controle.
+- **[[Ambientes de Inovação]]**: Para que as diretrizes de mercado, captação de recursos e modelos de negócios da Anprotec funcionem sem gerar penalidades, é obrigatório cruzar esses processos com a regulamentação dos **Ambientes de Inovação**. É essa base legal que valida juridicamente os editais de seleção, a cessão de imóveis públicos e o compartilhamento de infraestrutura de laboratórios estatais com empresas privadas, protegendo o gestor contra o risco de desvio de finalidade perante os órgãos de controle. A implementação dos ambientes deve observar a legislação aplicável, especialmente a [[Lei 10.973_2004.pdf]], a [[Lei 13.243_2016.pdf]] e o [[Decreto 9.283_2018.pdf]], quando envolver compartilhamento de infraestrutura pública, apoio a empresas inovadoras, transferência de tecnologia ou utilização de instrumentos de fomento à inovação.
     
 - **Conexão com a Valoração de Tecnologias e Transferência (NITs)**: Ambientes promotores de inovação frequentemente abrigam Núcleos de Inovação Tecnológica ou mantêm parcerias estratégicas próximas com eles. Tecnologias nascidas nas academias com TRL intermediário encontram nas incubadoras, aceleradoras e parques tecnológicos o ecossistema ideal e a segurança jurídica necessária para serem integradas a novos modelos de negócios e introduzidas no mercado consumidor.
     
