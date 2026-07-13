@@ -12,7 +12,8 @@
 ## 1. Contexto e Fundamentação Legal
 
 As diretrizes para a estruturação de Vitrines Tecnológicas e para as atividades de Prospecção Tecnológica nas Instituições de Ciência e Tecnologia (ICTs) públicas decorrem diretamente do Marco Legal de Ciência, Tecnologia e Inovação (MLCTI) — estabelecido pela [[Lei 10.973_2004.pdf]] e atualizado pela [[Lei 13.243_2016.pdf]] —, além de regulamentado pelo [[Decreto 9.283_2018.pdf]].
-Estas ferramentas funcionam como instrumentos estratégicos para apoiar as ICTs no cumprimento de suas atribuições legais relacionadas à gestão da inovação, à valorização dos ativos de propriedade intelectual, à promoção da interação com o setor produtivo e à transferência de tecnologia, contribuindo para a transformação do conhecimento científico em inovação aplicada.
+
+Estas ferramentas funcionam como instrumentos estratégicos para que as instituições cumpram a obrigação legal de dar publicidade e promover a transferência de seus ativos de propriedade intelectual (PI), transformando o conhecimento científico gerado na academia em inovação aplicada no setor produtivo.
 
 ## 2. Conceituação das Ferramentas Estratégicas
 
@@ -29,7 +30,7 @@ As vitrines modernas devem romper com o formato de mero repositório de patentes
 
 - **Linguagem Mercadológica:** Substituição de títulos estritamente acadêmicos e jargões complexos por uma descrição clara do problema real que a tecnologia resolve e de seus diferenciais competitivos.
     
-- **Uso da Escala TRL:** ** Recomenda-se a indicação do Nível de Maturidade Tecnológica (Technology Readiness Level – TRL), permitindo que potenciais parceiros compreendam o estágio de desenvolvimento da tecnologia [se o ativo está em fase de prova de conceito (TRL 1-3), validação laboratorial (TRL 4-6) ou pronto para o mercado (TRL 7-9)] e avaliem sua prontidão para validação, escalonamento ou inserção no mercado.
+- **Uso da Escala TRL:** Indicação obrigatória do Nível de Maturidade Tecnológica (Technology Readiness Level), permitindo que o mercado saiba se o ativo está em fase de prova de conceito (TRL 1-3), validação laboratorial (TRL 4-6) ou pronto para o mercado (TRL 7-9).
     
 - **Usabilidade e Filtros:** Organização do portfólio por setores industriais (ex: Saúde, Agronegócio, TIC) e inclusão de mecanismos simplificados de contato ("Fale com o NIT") para mitigar o atrito na geração de leads.
     
@@ -40,7 +41,7 @@ A atuação do NIT em prospecção divide-se em duas vertentes operacionais para
 
 - **Prospecção Interna (Ativa):****- Mapeamentos periódicos junto aos grupos de pesquisa, laboratórios e projetos institucionais para identificar resultados passíveis de proteção intelectual, transferência de tecnologia ou geração de novos negócios inovadores.
     
-- **Prospecção Externa (Inteligência de Mercado):** Monitoramento de bases de patentes (INPI, Espacenet) para identificar empresas que já atuam em áreas correlatas (landscaping de patentes) e alinhamento com as grandes missões nacionais estabelecidas pelo MCTI (como transição energética e bioeconomia).
+- **Prospecção Externa (Inteligência de Mercado):** Monitoramento de bases de patentes (INPI, Espacenet) para identificar empresas que já atuam em áreas correlatas (landscaping de patentes) e alinhamento com políticas públicas de ciência, tecnologia e inovação, agendas estratégicas nacionais e demandas tecnológicas prioritárias identificadas em setores econômicos relevante (como transição energética e bioeconomia).
     
 
 ## 5. Comparativo Operacional: Vitrine vs. Prospecção Ativa
@@ -58,7 +59,7 @@ Abaixo, detalha-se a distinção de escopo, execução e objetivos entre a manut
 
 O NIT atua como o gestor e curador dessas plataformas e estratégias, possuindo responsabilidades diretas sobre a eficiência do processo:
 
-- **Curadoria e Valoração:** Avaliar o estágio de maturidade, o potencial de aplicação e as estratégias mais adequadas de divulgação e transferência, definindo quais ativos devem ser apresentados para licenciamento, codesenvolvimento, prestação de serviços tecnológicos ou outras formas de interação com o setor produtivo.
+- **Curadoria e Valoração:** Avaliar o potencial de mercado e o estágio de maturidade antes da inserção do ativo na vitrine, evitando a exposição de tecnologias sem viabilidade comercial.
     
 - **Prestação de Contas:** Monitorar indicadores relacionados à gestão da inovação, proteção da propriedade intelectual e transferência de tecnologia, prestando informações por meio dos instrumentos oficiais de acompanhamento adotados pelo MCTI, incluindo o FORMICT quando aplicável.
     
