@@ -12,7 +12,7 @@
 
 A consolidação de um ambiente seguro para a transferência de tecnologia (TT) e proteção da propriedade intelectual nas Instituições Científicas, Tecnológicas e de Inovação (ICTs) iniciou-se com a Lei nº 10.973/2004. O Marco Legal de Ciência, Tecnologia e Inovação (MLCTI) posteriormente expandiu essas garantias.
 
-- **Definição Adotada:** Embora a Lei de Inovação não traga um conceito expresso em seu glossário, a Advocacia-Geral da União (AGU), alinhada à UNCTAD, define a TT como qualquer processo que permita a inserção de tecnologia inovadora desenvolvida por uma ICT pública no mercado.
+- **Definição Adotada:** A transferência de tecnologia caracteriza-se como o processo de disponibilização e absorção de conhecimentos, tecnologias, métodos, produtos ou processos, permitindo sua aplicação econômica e social. No contexto das ICTs, esse processo normalmente envolve a participação de parceiros empresariais para viabilizar a transformação dos resultados de pesquisa em produtos, processos ou serviços inseridos no mercado.
     
 - **O papel do Inventor:** O sucesso da transferência exige obrigatoriamente o suporte dos inventores. Dirigentes, criadores e servidores são legalmente obrigados a repassar conhecimentos e informações técnicas para a efetivação do contrato, sob pena de responsabilização civil, administrativa e penal.
     
@@ -39,7 +39,7 @@ De acordo com o manual, a transferência de tecnologia das ICTs para o mercado p
 - **Única:** Apenas um parceiro recebe o direito de exploração comercial, mas o licenciante (ICT) retém o direito de utilizá-la.
     
 
-> 📢 **Dispensa de Licitação e Transparência:** O Decreto nº 9.283/2018 estabelece expressamente que é **dispensável a licitação** para contratações de TT por ICTs. Se houver cláusula de exclusividade, exige-se apenas a publicação prévia de um **extrato da oferta tecnológica** no sítio eletrônico da instituição. Em casos de desenvolvimento conjunto (co-desenvolvimento) com empresa, a exclusividade pode ser concedida diretamente, **dispensando-se a oferta pública**.
+> 📢 **Dispensa de Licitação e Transparência:** O art. 12 do Decreto nº 9.283/2018 estabelece que é dispensável a realização de licitação para contratação realizada por ICT ou por agência de fomento destinada à transferência de tecnologia ou ao licenciamento de direito de uso ou exploração de criação protegida. Se houver cláusula de exclusividade, exige-se apenas a publicação prévia de um **extrato da oferta tecnológica** no sítio eletrônico da instituição. Em casos de desenvolvimento conjunto (co-desenvolvimento) com empresa, a exclusividade pode ser concedida diretamente, **dispensando-se a oferta pública**.
 
 ## 📐 3. Estrutura Típica dos Contratos de Transferência de Tecnologia
 
@@ -65,6 +65,12 @@ Qualquer contrato deve espelhar com exatidão as condições técnicas, econômi
         
     - _Foro:_ Define a jurisdição competente ou a adoção de procedimentos de arbitragem para sanar litígios.
         
+	- - Vigência:-Define o prazo de duração das obrigações contratuais, hipóteses de prorrogação e condições para aditivos.
+	    
+	- - Exclusividade:- Estabelece se o licenciamento será exclusivo ou não exclusivo, delimitando os direitos de exploração da tecnologia.
+        
+	- - Cláusula de Reversão Contra a Ociosidade:- Nos contratos de licenciamento exclusivo, deve ser prevista a obrigação de exploração efetiva da tecnologia pelo parceiro. Nos termos do art. 6º, §3º, da Lei nº 10.973/2004, a empresa que não comercializar a criação dentro dos prazos e condições definidos contratualmente perde automaticamente o direito exclusivo de exploração, podendo a ICT promover novo licenciamento para terceiros.
+    
 
 ## 🏢 4. O Papel Estratégico dos NITs e das Spin-offs
 

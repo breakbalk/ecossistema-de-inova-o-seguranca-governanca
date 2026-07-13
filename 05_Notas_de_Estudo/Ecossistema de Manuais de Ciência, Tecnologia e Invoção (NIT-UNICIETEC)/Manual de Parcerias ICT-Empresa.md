@@ -70,7 +70,7 @@ O guia organiza o processo de interação universidade-empresa dividindo as suge
     
 - **Modelos Padronizados e Fast-Track:** Utilizar minutas validadas (como as da PGF-AGU, FORTEC ou o _Lambert Toolkit_ brasileiro) reduz a burocracia nas Reitorias. Adicionalmente, deve-se aproveitar os trâmites prioritários de exame do INPI (_Fast-Track_) para patentes com a participação de ICTs ou oriundas de fomento público.
     
-- **Aproveitamento dos Instrumentos do Marco Legal de CT&I: As partes devem explorar os mecanismos introduzidos pelo Marco Legal de CT&I, tais como compartilhamento de laboratórios, ambientes promotores de inovação, participação minoritária de ICTs em empresas e cessão integral de direitos de propriedade intelectual, sempre observando a estratégia da parceria e a legislação aplicável.**
+- **Aproveitamento dos Instrumentos do Marco Legal de CT&I:** As partes devem explorar os mecanismos introduzidos pelo Marco Legal de CT&I, tais como compartilhamento de laboratórios, ambientes promotores de inovação, participação minoritária de ICTs em empresas e cessão integral de direitos de propriedade intelectual, sempre observando a estratégia da parceria e a legislação aplicável.
     
 
 #### B - Estruturação e Operacionalização
@@ -81,8 +81,12 @@ O guia organiza o processo de interação universidade-empresa dividindo as suge
     
 - **Comunicação Fluida e Estrutura de Apoio:** A falta de comunicação causa o fracasso de projetos bem estruturados. Devem ser fixadas reuniões frequentes de progresso e, nas ICTs, uma estrutura administrativa de suporte para liberar o pesquisador para focar 100% na parte técnica.
     
+- **Captação de Recursos e Incentivos:** Recomenda-se o acompanhamento permanente de editais de fomento, programas governamentais, mecanismos de subvenção econômica e incentivos fiscais à inovação, ampliando a sustentabilidade financeira das parcerias ICT-Empresa. 
+    
+- **Governança e Prestação de Contas:** Deve-se definir previamente a estrutura de governança da parceria, identificando responsáveis pela gestão técnica, financeira, administrativa e pela prestação de contas, considerando a experiência e capacidade institucional de cada parceiro.
+    
 
-### Resultados Técnicos e Manutenção da Parceria
+#### C - Resultados Técnicos e Manutenção da Parceria
 
 - **Presença do Pesquisador até o Fim:** O depósito de uma patente não encerra o projeto. Recomenda-se a assinatura de termos de compromisso para que o pesquisador continue apoiando a tecnologia até a fase de exploração e inserção no mercado.
     
