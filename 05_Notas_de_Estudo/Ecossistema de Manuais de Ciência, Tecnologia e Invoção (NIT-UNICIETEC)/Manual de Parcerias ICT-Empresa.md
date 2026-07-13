@@ -44,8 +44,10 @@ O guia organiza o processo de interação universidade-empresa dividindo as suge
     
 - **Evolução dos NITs:** Os Núcleos de Inovação Tecnológica devem atuar em rede e adotar uma postura de "unidade de negócios", mediando proativamente as competências acadêmicas e as demandas reais do mercado.
     
+- **Ambientes Promotores de Inovação:** As ICTs e empresas devem buscar a criação ou fortalecimento de ambientes promotores de inovação, incorporando infraestrutura, capital intelectual e tecnologias compartilhadas para estimular interações permanentes e sistêmicas.
+    
 
-### Mapeamento, Seleção e Necessidades
+#### A - Mapeamento, Seleção e Necessidades
 
 - **Formulação do Problema:** Para a empresa, formular com clareza o seu desafio tecnológico (_scouting_ proativo) é tão crucial quanto encontrar a solução.
     
@@ -58,18 +60,20 @@ O guia organiza o processo de interação universidade-empresa dividindo as suge
 
 ## 🤝 4. Fatores Relacionais (Durante o Processo de Interação)
 
-### Formação e Negociação da Parceria
+#### A - Formação e Negociação da Parceria
 
 - **Foco Estratégico de Longo Prazo:** As colaborações mais produtivas iniciam-se, por vezes, com prestações de serviço ou consultorias menores, mas devem mirar agendas científicas comuns que gerem confiança por décadas.
     
 - **Postura Flexível:** Deve-se evitar o embate inicial travado por minutas contratuais rígidas. Recomenda-se fechar o modelo de negócio ("as regras do jogo") antes de redigir o contrato.
     
-- **PI como Solução, Não como Entrave:** Discussões sobre a titularidade e a exploração comercial dos ativos não podem paralisar o início da parceria. Sugere-se avaliar arranjos flexíveis (como a cessão integral ou licenciamento), ponderando quem de fato possui capacidade para arcar com os custos de manutenção da patente.
+- **PI como Solução, Não como Entrave:** Discussões sobre titularidade e exploração comercial dos ativos não devem impedir a formação da parceria. A definição entre licenciamento, cessão ou outros arranjos deve considerar a estratégia do projeto, a capacidade de gestão dos direitos de PI e a responsabilidade pelos custos de proteção e manutenção dos ativos tecnológicos.
     
 - **Modelos Padronizados e Fast-Track:** Utilizar minutas validadas (como as da PGF-AGU, FORTEC ou o _Lambert Toolkit_ brasileiro) reduz a burocracia nas Reitorias. Adicionalmente, deve-se aproveitar os trâmites prioritários de exame do INPI (_Fast-Track_) para patentes com a participação de ICTs ou oriundas de fomento público.
     
+- **Aproveitamento dos Instrumentos do Marco Legal de CT&I: As partes devem explorar os mecanismos introduzidos pelo Marco Legal de CT&I, tais como compartilhamento de laboratórios, ambientes promotores de inovação, participação minoritária de ICTs em empresas e cessão integral de direitos de propriedade intelectual, sempre observando a estratégia da parceria e a legislação aplicável.**
+    
 
-### Estruturação e Operacionalização
+#### B - Estruturação e Operacionalização
 
 - **Líderes Bilingues (O Fator Humano):** A gestão dos projetos deve ser liderada por profissionais que transitem com facilidade "nos dois mundos", compreendendo a linguagem e o tempo tanto da academia quanto da indústria.
     

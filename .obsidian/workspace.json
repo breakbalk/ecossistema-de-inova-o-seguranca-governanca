@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Gestão de Portfólio de Projetos de Inovação.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manual de Gestão de Portfólio de Projetos de Inovação"
+              "title": "Manual de Parcerias ICT-Empresa"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Gestão de Portfólio de Projetos de Inovação.md",
+                "file": "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Parcerias ICT-Empresa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Manual de Gestão de Portfólio de Projetos de Inovação"
+              "title": "Gráfico de Manual de Parcerias ICT-Empresa"
             }
           }
         ]
@@ -274,6 +274,7 @@
   },
   "active": "bc4634d90ab66b80",
   "lastOpenFiles": [
+    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Gestão de Portfólio de Projetos de Inovação.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Gestão da Inovação na Administração Pública.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Diretrizes de Vitrines Tecnológicas e Prospecção.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Outras Áreas UniCIETEC/Manual de Design para Manufatura Aditiva.md",
@@ -309,7 +310,6 @@
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Gestão de Propriedade Intelectual.md",
     "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Modelo Cerne.md",
     "05_Notas_de_Estudo/Ecossistema de Inovação, Segurança e Governança/FORMICT.md",
-    "05_Notas_de_Estudo/Ecossistema de Manuais de Ciência, Tecnologia e Invoção (NIT-UNICIETEC)/Manual de Encomendas Tecnológicas.md",
     "Sem título.canvas",
     "03_Mapas_Mentais/ISO-IEC 42001-2023.png",
     "03_Mapas_Mentais/Emenda Constitucional 85.png",

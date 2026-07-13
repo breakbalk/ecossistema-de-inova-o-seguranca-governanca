@@ -16,7 +16,7 @@ O manual estabelece que a gestão de portfólio não é apenas listar projetos, 
     
 - **Métricas de Alinhamento:** Propõe critérios claros de filtragem para garantir que nenhum projeto avance sem demonstrar aderência às metas estratégicas institucionais, evitando o desperdício de capital em iniciativas isoladas.
     
-### 1.1 Classificação dos Projetos de PD&I
+#### 1.1 Classificação dos Projetos de PD&I
 
 Os projetos integrantes do portfólio devem ser classificados conforme a natureza de suas atividades:
 
@@ -31,7 +31,8 @@ O enquadramento em incentivos fiscais, a prestação de contas junto a agências
     
 ### 2. Modelos de Seleção e Balanceamento de Portfólio
 
-**A gestão de portfólio de projetos de inovação consiste no conjunto de práticas destinadas à seleção, priorização, balanceamento, financiamento e monitoramento de iniciativas de pesquisa, desenvolvimento e inovação (PD&I), permitindo que os recursos organizacionais sejam direcionados para projetos alinhados à estratégia institucional e capazes de gerar valor econômico, tecnológico e social, como os seguintes:*
+A gestão de portfólio de projetos de inovação consiste no conjunto de práticas destinadas à seleção, priorização, balanceamento, financiamento e monitoramento de iniciativas de pesquisa, desenvolvimento e inovação (PD&I), permitindo que os recursos organizacionais sejam direcionados para projetos alinhados à estratégia institucional e capazes de gerar valor econômico, tecnológico e social, como os seguintes:
+
 - **Matriz de Risco vs. Retorno:** Classifica os projetos para evitar que a carteira fique concentrada apenas em inovações incrementais (baixo risco, baixo retorno) ou excessivamente exposta a inovações radicais (alto risco, alto retorno).
     
 - **Mapeamento de Horizonte de Inovação:** Baseado nos três horizontes de crescimento:
@@ -43,6 +44,20 @@ O enquadramento em incentivos fiscais, a prestação de contas junto a agências
     - _Horizonte 3:_ Criação de negócios ou competências inteiramente novas e disruptivas (longo prazo).
         
 
+#### 2.1 Avaliação da Maturidade Tecnológica (TRL)
+
+O portfólio deve considerar o nível de maturidade tecnológica dos projetos utilizando a escala TRL (Technology Readiness Level), permitindo equilibrar iniciativas em diferentes estágios de desenvolvimento:
+
+- TRL 1 a 3: pesquisa científica e prova de conceito;
+    
+- TRL 4 a 6: validação laboratorial e prototipagem;
+    
+- TRL 7 a 9: demonstração operacional, industrialização e introdução no mercado.
+    
+  
+Ao analisar o TRL, torna-se possível prever o tempo para comercialização ou transferência de tecnologia, identificar gargalos no desenvolvimento, priorizar investimentos e definir riscos tecnológicos.
+    
+
 ### 3. Técnicas de Avaliação sob Incerteza (Acréscimos ao Tema)
 
 Projetos de inovação lidam com alta incerteza científica e de mercado. Para além das metodologias tradicionais de fluxo de caixa descontado (VPL/TIR) que falham na inovação, o gerenciamento moderno de portfólio adota técnicas avançadas:
@@ -52,6 +67,14 @@ Projetos de inovação lidam com alta incerteza científica e de mercado. Para a
 - **Metodologias Ágeis no Portfólio (_Lean Portfolio Management - LPM_):** Aplicação de princípios ágeis para descentralizar a tomada de decisão, estabelecer orçamentos dinâmicos por fluxos de valor (e não por projetos rígidos) e revisar o portfólio em ciclos curtos (trimestrais), garantindo adaptabilidade rápida a mudanças tecnológicas.
     
 
+#### 3.1 Elegibilidade para Incentivos Fiscais
+
+A gestão do portfólio deve contemplar mecanismos de identificação dos projetos potencialmente enquadráveis nos incentivos fiscais previstos no Capítulo III da Lei nº 11.196/2005 (Lei do Bem).
+
+Entre os aspectos monitorados, destacam-se a caracterização das atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica, a rastreabilidade dos dispêndios em P&D, a documentação técnica comprobatória e os registros de resultados e avanços tecnológicos obtidos.
+
+A correta segregação dessas informações permite maximizar o aproveitamento dos incentivos fiscais destinados às atividades de inovação.
+    
 ### 4. Governança e Processo de _Stage-Gates_
 
 O manual orienta a criação de rituais e instâncias de governança para monitorar a saúde da carteira de projetos:
@@ -59,6 +82,56 @@ O manual orienta a criação de rituais e instâncias de governança para monito
 - **Critérios de Passagem (_Gates_):** Reuniões formais de tomada de decisão onde comitês avaliam se o projeto atingiu os marcos técnicos e comerciais exigidos para receber a próxima rodada de investimento.
     
 - **Gestão da Capacidade (_Capacity Planning_):** Análise constante para garantir que os limites de recursos humanos (pesquisadores, engenheiros) e de infraestrutura (laboratórios) não estejam sobrecarregados, o que comprometeria o _time-to-market_ de todo o portfólio.
+    
+- **Comitê de Governança da Inovação:** Órgão responsável pela supervisão estratégica do portfólio, definição de prioridades, avaliação de desempenho e alocação de recursos, assegurando alinhamento com os objetivos organizacionais e com o sistema de gestão da inovação.
+    
+
+**
+
+### 5. Monitoramento e Indicadores do Portfólio
+
+O desempenho do portfólio deve ser acompanhado por indicadores quantitativos e qualitativos, tais como:
+
+#### A - Indicadores de Entrada
+
+- Investimento em P&D (Pesquisa e Desenvolvimento): análise dos recursos financeiros aplicados;
+    
+- Número de pesquisadores envolvidos: mensuração da equipe técnica qualificada alocada;
+    
+- Recursos captados em editais e programas de fomento: volume de capital externo atraído.
+    
+
+#### B - Indicadores de Processo
+
+- Evolução dos níveis TRL (Technology Readiness Level): acompanhamento da maturidade tecnológica;
+    
+- Cumprimento de marcos técnicos: verificação das metas estabelecidas no cronograma;
+    
+- Taxa de aprovação nos stage-gates: eficiência da governança nas transições de fases.
+    
+
+#### C - Indicadores de Resultado
+
+- Patentes depositadas: proteção formal das invenções geradas;
+    
+- Softwares registrados: ativos de propriedade intelectual em tecnologias de informação;
+    
+- Tecnologias licenciadas: efetividade da transferência de tecnologia para o mercado;
+    
+- Novos produtos lançados: introdução de inovações no portfólio comercial;
+    
+- Receitas provenientes da inovação: retorno financeiro direto das novas tecnologias.
+    
+
+#### D - Indicadores de Impacto
+
+- Aumento de competitividade: melhoria da posição de mercado da organização;
+    
+- Geração de empregos qualificados: impacto no desenvolvimento de capital humano;
+    
+- Impacto socioeconômico: mudanças causadas no ambiente externo, como IDH e PIB;
+    
+- Contribuição para políticas públicas: aderência e apoio a temas de desenvolvimento nacional.
     
 
 ---
