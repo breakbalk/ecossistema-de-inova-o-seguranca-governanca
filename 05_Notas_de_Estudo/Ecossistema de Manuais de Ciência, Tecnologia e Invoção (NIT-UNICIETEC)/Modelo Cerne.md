@@ -18,7 +18,7 @@ Diferencia-se de modelos de gestão genéricos (como ISO 9001) por ser **especif
 
 ### 2. Os Cinco Eixos do CERNE como Pressuposto Vinculante
 
-Para garantir que a incubadora atue de forma holística, o modelo vincula a gestão a cinco pilares obrigatórios, onde cada processo implantado deve responder a um desses eixos:
+Para garantir que a incubadora atue de forma holística, o modelo estrutura suas práticas em processos voltados à geração sistemática de empreendimentos inovadores bem-sucedidos, onde cada processo implantado deve responder a um desses eixos:
 
 - **Empreendedores:** Focado no desenvolvimento das competências individuais dos fundadores (atitudes, habilidades gerenciais, técnicas e de liderança).
     
@@ -41,22 +41,22 @@ O CERNE é estruturado de forma evolutiva em quatro níveis consecutivos de matu
 
 - **CERNE 1 (Foco no Empreendimento):** O objetivo é garantir que a incubadora tenha capacidade de gerar, sistematicamente, empresas inovadoras de sucesso. É o nível onde se implantam as práticas básicas de prospecção, seleção, acompanhamento e qualificação dos incubados.
     
-- **CERNE 2 (Foco no Ecossistema):** A incubadora expande sua atuação para fora de seus muros, integrando-se ativamente com o ambiente externo e atores locais (governo, grandes empresas e universidades) para maximizar o suporte aos negócios.
+- **CERNE 2 (Foco no Ecossistema):** Busca consolidar a gestão da incubadora como organização, estruturando práticas relacionadas ao planejamento estratégico, gestão financeira, gestão de pessoas, comunicação, infraestrutura, monitoramento de resultados e sustentabilidade institucional.
     
-- **CERNE 3 (Foco na Rede):** Focado na consolidação de redes de incubadoras e cooperação mútua, gerando sinergia, compartilhamento de mentores, investidores e transferência de boas práticas.
+- **CERNE 3 (Foco na Rede):** Objetiva estruturar e gerir redes de relacionamento capazes de ampliar as oportunidades para os empreendimentos apoiados. Inclui a gestão de parcerias estratégicas com investidores, mentores, ICTs, universidades, empresas, órgãos governamentais e demais atores do ecossistema de inovação.
     
-- **CERNE 4 (Foco Global):** O nível mais alto, onde a incubadora possui maturidade e processos estruturados para internacionalizar suas empresas e atrair empreendimentos e investimentos globais.
+- **CERNE 4 (Foco Global):** Representa o estágio mais elevado de maturidade do modelo. A incubadora passa a operar mecanismos sistemáticos de avaliação, aprendizagem organizacional, benchmarking, inovação de processos e aperfeiçoamento contínuo de suas práticas de incubação.
     
 
 ### 4. Processo de Implantação, Auditoria e Certificação
 
-#### Práticas Clave e Auditoria Externa
+#### A - Práticas Clave e Auditoria Externa
 
 A transição por cada nível do CERNE exige a implementação rigorosa de um conjunto de **Práticas Clave** (processos documentados, executados e monitorados por indicadores).
 
 - **Evidências de Conformidade:** Não basta criar manuais; a incubadora deve apresentar evidências históricas de execução de cada processo (atas de reuniões de mentoria, relatórios de evolução das startups, contratos padronizados).
     
-- **Auditoria de Certificação:** O processo de certificação é conduzido por auditores externos credenciados pela Anprotec. Eles revisam a documentação, entrevistam a equipe gestora, os empreendedores incubados e os parceiros estratégicos para validar se as práticas estão verdadeiramente institucionalizadas na rotina do ambiente.
+- **Auditoria de Certificação:** A avaliação da conformidade é realizada por avaliadores habilitados no âmbito do Sistema CERNE, que verificam a implementação das práticas exigidas para cada nível de maturidade mediante análise documental, entrevistas e avaliação de evidências operacionais.
     
 
 ### 5. O que NÃO é o Modelo CERNE
@@ -69,7 +69,7 @@ Para evitar desvios conceituais e garantir a aplicação correta do modelo, deve
     
 - Não foca exclusivamente na infraestrutura física (salas, internet, laboratórios), priorizando o "capital intelectual" e a rede de apoio oferecida aos empreendedores;
     
-- Não é voltado apenas para incubadoras públicas ou universitárias, sendo perfeitamente aplicável a aceleradoras privadas, _hubs_ corporativos e parques tecnológicos.
+- Embora tenha sido desenvolvido para incubadoras de empresas e ambientes de inovação, diversos conceitos e práticas do CERNE podem ser adaptados a aceleradoras, parques tecnológicos e outros mecanismos de apoio ao empreendedorismo inovador.
     
 
 ---
@@ -84,7 +84,7 @@ Para evitar desvios conceituais e garantir a aplicação correta do modelo, deve
     
 - **Boas Práticas [[ITIL]] (Melhoria Contínua de Serviço):** Alinha-se diretamente à lógica do CERNE de monitoramento por indicadores de performance (KPIs), onde o ciclo de vida do suporte ao incubado passa por constante avaliação para otimizar as taxas de sobrevivência e graduação das startups.
     
-- **Políticas Públicas e Editais de Fomento:** A certificação CERNE (especialmente o nível 1) tornou-se um critério de desempate e pontuação crítica em editais da FINEP, CNPq e FAPs estaduais, validando que a instituição possui governança robusta para gerir recursos públicos destinados à inovação.
+- **Políticas Públicas e Editais de Fomento:** A certificação CERNE é frequentemente reconhecida em editais e programas de apoio ao empreendedorismo inovador como evidência de maturidade gerencial e capacidade institucional, podendo gerar pontuação adicional ou servir como diferencial competitivo, conforme as regras específicas de cada chamada pública.
     
 
 ---
