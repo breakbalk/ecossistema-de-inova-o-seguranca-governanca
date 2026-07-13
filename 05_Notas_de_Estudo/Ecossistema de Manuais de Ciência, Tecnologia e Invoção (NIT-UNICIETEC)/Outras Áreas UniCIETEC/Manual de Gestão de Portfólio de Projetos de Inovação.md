@@ -1,4 +1,4 @@
-# (Práticas de Transferência de Tecnologia (FORTEC e MCTI))
+# (Portfólio de Projetos de Inovação)
 
 **Fonte Bruta:**
 
@@ -16,11 +16,22 @@ O manual estabelece que a gestão de portfólio não é apenas listar projetos, 
     
 - **Métricas de Alinhamento:** Propõe critérios claros de filtragem para garantir que nenhum projeto avance sem demonstrar aderência às metas estratégicas institucionais, evitando o desperdício de capital em iniciativas isoladas.
     
+### 1.1 Classificação dos Projetos de PD&I
 
+Os projetos integrantes do portfólio devem ser classificados conforme a natureza de suas atividades:
+
+- Pesquisa Básica: geração de novos conhecimentos sem aplicação prática imediata.
+    
+- Pesquisa Aplicada: geração de conhecimento voltada à solução de problemas específicos.
+    
+- Desenvolvimento Experimental: utilização sistemática de conhecimentos existentes para criação ou aperfeiçoamento de produtos, processos ou serviços.
+    
+
+O enquadramento em incentivos fiscais, a prestação de contas junto a agências de fomento, a medição de aportes em P&D e a criação de indicadores de inovação institucionais são otimizados por meio desta classificação.
+    
 ### 2. Modelos de Seleção e Balanceamento de Portfólio
 
-O cerne do manual do Ipea reside em como escolher os projetos certos diante de orçamentos limitados, utilizando matrizes bidimensionais para equilibrar o portfólio:
-
+**A gestão de portfólio de projetos de inovação consiste no conjunto de práticas destinadas à seleção, priorização, balanceamento, financiamento e monitoramento de iniciativas de pesquisa, desenvolvimento e inovação (PD&I), permitindo que os recursos organizacionais sejam direcionados para projetos alinhados à estratégia institucional e capazes de gerar valor econômico, tecnológico e social, como os seguintes:*
 - **Matriz de Risco vs. Retorno:** Classifica os projetos para evitar que a carteira fique concentrada apenas em inovações incrementais (baixo risco, baixo retorno) ou excessivamente exposta a inovações radicais (alto risco, alto retorno).
     
 - **Mapeamento de Horizonte de Inovação:** Baseado nos três horizontes de crescimento:
