@@ -10,7 +10,9 @@
 
 ## 🏛️ 1. Conceito, Taxonomia e Tipologia dos Ambientes 
 
-O manual conceitua os Ambientes Promotores de Inovação como espaços físicos ou virtuais que reúnem de forma coordenada os atores da "Hélice Tríplice" (Governo, Academia e Empresas) para acelerar o fluxo de conhecimento e transformá-lo em riqueza. A taxonomia da Anprotec classifica esses ambientes em diferentes categorias de acordo com sua abrangência, foco de atuação e maturidade dos empreendimentos apoiados:
+Ambientes Promotores de Inovação são espaços físicos, virtuais ou híbridos estruturados para favorecer a interação entre empresas, Instituições Científicas, Tecnológicas e de Inovação (ICTs), governo, investidores e demais atores do ecossistema, promovendo a geração de conhecimento, o empreendedorismo inovador, a transferência de tecnologia e o desenvolvimento econômico e social sustentável. 
+
+Os referenciais da Anprotec reconhecem múltiplas configurações de Ambientes Promotores de Inovação, variando conforme objetivos, grau de maturidade do ecossistema, infraestrutura disponível e modelo de governança adotado, como:
 
 - **Incubadoras de Empresas**: Ambientes focados em apoiar empreendedores em estágios iniciais de desenvolvimento (ideação, validação e estruturação de negócios inovadores), fornecendo suporte gerencial, capacitação e infraestrutura compartilhada para reduzir a taxa de mortalidade das micro e pequenas empresas de base tecnológica.
     

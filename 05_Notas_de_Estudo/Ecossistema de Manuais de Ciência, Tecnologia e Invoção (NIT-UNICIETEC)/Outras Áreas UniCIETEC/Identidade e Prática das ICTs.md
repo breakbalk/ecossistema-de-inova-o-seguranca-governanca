@@ -50,7 +50,7 @@ Os guias detalham a operacionalização dos ativos intangíveis gerados no ambie
     
 - **Flexibilidade na Negociação de Direitos**: Nos Acordos de Parceria, as ICTs possuem autonomia para negociar a titularidade da PI, permitindo inclusive que o parceiro privado detenha a totalidade dos direitos ou exclusividade no licenciamento sem necessidade de oferta pública, desde que haja compensação financeira ou comercial.
     
-- **Cláusulas de Reversão Contra a Ociosidade**: ** Para evitar que a tecnologia permaneça ociosa e sem geração de impacto econômico e social, os contratos podem prever mecanismos, nos quais, a ICT privada, sem fins lucrativos, retoma os direitos de exploração da tecnologia caso o parceiro não dê a função social da inovação no prazo estipulado.
+- **Cláusulas de Reversão Contra a Ociosidade**: Para evitar que a tecnologia permaneça ociosa e sem geração de impacto econômico e social, os contratos podem prever mecanismos, nos quais, a ICT privada, sem fins lucrativos, retoma os direitos de exploração da tecnologia caso o parceiro não dê a função social da inovação no prazo estipulado.
     
 
 ## 👥 5. O Papel do NIT na Articulação e Conformidade Estratégica
